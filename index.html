@@ -1,0 +1,883 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Daily Stack">
+<meta name="theme-color" content="#F5F4F1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111111" media="(prefers-color-scheme: dark)">
+<meta name="robots" content="noindex">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" href="icon-192.png">
+<style>
+body { margin: 0; box-sizing: border-box; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+img { max-width: 100%; }
+[hidden] { display: none !important; }
+</style>
+</head>
+<body><title>Daily Stack</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Layout: home = one screen, four equal overlapping topic cards (colors re-dealt daily);
+   a topic opens an off-white sheet: pick-list, then swipeable stories. Panels: calendar, palettes, liked tracker. */
+:root {
+  --ground: #F5F4F1;
+  --surface: #FFFFFF;
+  --ink: #121212;
+  --muted: #8B8A86;
+  --line: #E5E3DE;
+  --shadow: rgba(20, 20, 20, .14);
+  --scrim: rgba(18, 18, 18, .32);
+  --heart: #FF3D6E;
+  --f-sans: 'Geist', 'Helvetica Neue', Helvetica, Arial, system-ui, sans-serif;
+  --f-ui: 'Inter', 'Helvetica Neue', Arial, system-ui, sans-serif;   /* small labels */
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #111111; --surface: #1B1B1B; --ink: #F2F1EE; --muted: #8E8D89; --line: #2A2A2A;
+    --shadow: rgba(0, 0, 0, .5); --scrim: rgba(0, 0, 0, .55); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #111111; --surface: #1B1B1B; --ink: #F2F1EE; --muted: #8E8D89; --line: #2A2A2A;
+  --shadow: rgba(0, 0, 0, .5); --scrim: rgba(0, 0, 0, .55); color-scheme: dark;
+}
+
+html, body { height: 100%; }
+body {
+  background: var(--ground); color: var(--ink); font-family: var(--f-sans); font-size: 15px; overflow: hidden;
+  -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: transparent;
+}
+.home, .sheet-in, .panel-card { box-sizing: border-box; }
+button { font: inherit; color: inherit; }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+.ui { font-family: var(--f-ui); font-size: 12px; font-weight: 500; letter-spacing: -.005em; color: var(--muted); }
+
+/* ---------- home: always one screen ---------- */
+.home {
+  height: 100%; max-width: 440px; margin: 0 auto; overflow: hidden;
+  display: flex; flex-direction: column;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 10px 14px;
+}
+.toprow { display: flex; align-items: center; gap: 8px; flex: none; }
+.round {
+  position: relative; width: 44px; height: 44px; border-radius: 50%; border: 0; background: var(--surface); flex: none;
+  display: grid; place-items: center; cursor: pointer; box-shadow: 0 0 0 1px var(--line) inset; padding: 0;
+}
+.round svg { width: 20px; height: 20px; }
+.avatar { overflow: hidden; }
+.avatar svg { width: 36px; height: auto; }
+.avatar .cal-tab {
+  position: absolute; right: -2px; bottom: -2px; width: 18px; height: 18px; border-radius: 6px; background: var(--ink); color: var(--ground);
+  display: grid; place-items: center; font: 600 9px/1 var(--f-ui); box-shadow: 0 0 0 2px var(--ground);
+}
+.toprow .when { line-height: 1.35; min-width: 0; }
+.toprow .when b { color: var(--ink); font-weight: 600; }
+.toprow .spacer { flex: 1; }
+.count {
+  position: absolute; top: -3px; right: -3px; min-width: 18px; height: 18px; padding: 0 5px; border-radius: 99px;
+  background: var(--heart); color: #fff; font: 600 10px/18px var(--f-ui); box-shadow: 0 0 0 2px var(--ground);
+}
+.palette-btn svg { width: 30px; height: 30px; }
+
+.greet { margin: clamp(8px, 2.4vh, 22px) 0 0; font-size: clamp(16px, 2.6vh, 21px); font-weight: 400; color: var(--muted); letter-spacing: -.01em; flex: none; }
+/* sized to the word: "Wednesday" shrinks, "Sunday" stays big; also capped by screen height */
+.day {
+  margin: 0; font-weight: 500; letter-spacing: -.055em; line-height: .95; white-space: nowrap; flex: none;
+  font-size: min(84px, 10.5vh, calc((min(100vw, 440px) - 40px) / (var(--len) * .56)));
+}
+.sub { margin: 8px 0 0; display: flex; gap: 6px 12px; flex-wrap: wrap; align-items: center; flex: none; }
+.chip-btn {
+  border: 0; cursor: pointer; padding: 4px 10px; border-radius: 99px; background: var(--ink); color: var(--ground);
+  font: 500 12px var(--f-ui);
+}
+
+.stack {
+  flex: 1; min-height: 0; margin-top: clamp(10px, 2vh, 18px);
+  display: grid; grid-template-rows: repeat(4, minmax(0, 1fr)); grid-template-columns: minmax(0, 1fr);
+}
+.tcard {
+  --overlap: 30px;
+  position: relative; display: flex; flex-direction: column; width: 100%; min-width: 0; text-align: left; cursor: pointer; border: 0;
+  height: calc(100% + var(--overlap)); align-self: start;
+  background: var(--c); color: var(--cink); border-radius: 28px; padding: 12px 16px;
+  box-shadow: 0 0 0 1px rgba(0,0,0,.06) inset, 0 -10px 24px -16px var(--shadow);
+  transition: transform .25s ease;
+}
+.tcard:last-child { height: 100%; }   /* every card shows the same visible height */
+.tcard:hover { transform: translateY(-3px); }
+.tcard:active { transform: translateY(-1px) scale(.995); }
+.tc-top { display: flex; align-items: center; gap: 8px; }
+.badge {
+  width: 40px; height: 40px; border-radius: 50%; background: color-mix(in srgb, var(--cink) 10%, transparent);
+  display: grid; place-items: center; overflow: hidden; flex: none;
+}
+.badge svg { width: 32px; }
+.progress-pill {
+  margin-left: auto; padding: 4px 10px; border-radius: 99px; font: 500 11px var(--f-ui);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--cink) 35%, transparent) inset;
+}
+.progress-pill.full { background: var(--cink); color: var(--c); box-shadow: none; }
+.tc-row { display: flex; justify-content: space-between; gap: 12px; min-width: 0; }
+.tc-row.small { margin-top: 8px; font: 500 12.5px var(--f-ui); opacity: .68; }
+.tc-row.small span:first-child { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tc-row.big { font-size: clamp(21px, 3.2vh, 26px); font-weight: 500; letter-spacing: -.03em; line-height: 1.15; }
+.tc-row span:last-child { flex: none; }
+@media (max-height: 720px) {
+  .badge { width: 34px; height: 34px; } .badge svg { width: 27px; }
+  .tc-row.small { margin-top: 4px; }
+  .tcard { padding-block: 10px; }
+}
+
+.empty {
+  flex: 1; display: grid; place-items: center; text-align: center; padding: 24px;
+}
+.empty svg { width: 110px; margin: 0 auto 12px; display: block; }
+.empty b { display: block; font-size: 20px; font-weight: 600; letter-spacing: -.02em; }
+.empty span { color: var(--muted); font-size: 14px; }
+
+/* ---------- sheet (topic) ---------- */
+.sheet {
+  position: fixed; inset: 0; z-index: 5; background: var(--ground);
+  transform: translateY(100%); visibility: hidden;
+  transition: transform .45s cubic-bezier(.2, .85, .25, 1), visibility 0s .45s;
+}
+.sheet.open { transform: none; visibility: visible; transition-delay: 0s; }
+.sheet-in {
+  height: 100%; max-width: 440px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: calc(10px + env(safe-area-inset-top, 0px)) calc(12px + env(safe-area-inset-bottom, 0px));
+}
+.sh-top { display: flex; align-items: center; gap: 12px; }
+.sh-title { flex: 1; min-width: 0; }
+.sh-title b { display: block; font-size: 28px; font-weight: 500; letter-spacing: -.035em; line-height: 1.05; }
+.sh-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--c); margin-right: 6px; vertical-align: 1px; box-shadow: 0 0 0 1px rgba(0,0,0,.15) inset; }
+
+.list { flex: 1; min-height: 0; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; padding-bottom: 8px; }
+.list-head {
+  display: flex; align-items: center; gap: 12px; padding: 14px 14px 14px 18px; border-radius: 24px;
+  background: var(--c); color: var(--cink);
+}
+.list-head p { margin: 0; flex: 1; font: 500 13px/1.35 var(--f-ui); }
+.list-head p b { display: block; font: 600 18px var(--f-sans); letter-spacing: -.02em; }
+.row {
+  display: flex; gap: 12px; align-items: center; width: 100%; text-align: left; cursor: pointer; border: 0;
+  padding: 10px; border-radius: 22px; background: var(--surface); box-shadow: 0 0 0 1px var(--line) inset;
+}
+.thumb { position: relative; width: 84px; flex: none; border-radius: 14px; overflow: hidden; aspect-ratio: 1; background: var(--ground); }
+.thumb svg, .thumb img { width: 100%; height: 100%; display: block; object-fit: cover; }
+.row-txt { min-width: 0; display: flex; flex-direction: column; gap: 4px; }
+.row-txt b { font-size: 15.5px; font-weight: 600; letter-spacing: -.015em; line-height: 1.25; }
+.row.read { opacity: .55; }
+.liked-dot { color: var(--heart); }
+
+.reader { flex: 1; min-height: 0; display: flex; flex-direction: column; gap: 12px; }
+.bars { display: flex; gap: 3px; }
+.bar { flex: 1; height: 4px; border-radius: 99px; background: var(--line); overflow: hidden; }
+.bar i { display: block; height: 100%; width: 0; background: var(--ink); border-radius: inherit; transition: width .35s ease; }
+.bar.on i { width: 100%; }
+
+.deck { flex: 1; position: relative; min-height: 0; }
+.scard {
+  position: absolute; inset: 0; display: flex; flex-direction: column; overflow: hidden;
+  background: var(--surface); border-radius: 30px; box-shadow: 0 0 0 1px var(--line) inset, 0 18px 40px -26px var(--shadow);
+  transition: transform .5s cubic-bezier(.2, .85, .25, 1), opacity .35s ease;
+  touch-action: pan-y; will-change: transform; user-select: none; -webkit-user-select: none;
+}
+.scard.dragging { transition: none; }
+.band {
+  position: relative; margin: 8px; border-radius: 24px; background: var(--c); color: var(--cink);
+  min-height: 104px; padding: 14px 16px; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; flex: none;
+  box-shadow: 0 0 0 1px rgba(0,0,0,.06) inset;
+}
+.band-top, .band-bot { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; position: relative; z-index: 1; max-width: calc(100% - 92px); }
+.kind { font: 500 12.5px var(--f-ui); padding: 5px 11px; border-radius: 99px; background: color-mix(in srgb, var(--cink) 12%, transparent); }
+.site {
+  display: inline-flex; align-items: center; gap: 4px; font: 500 12px var(--f-ui); padding: 5px 10px; border-radius: 99px;
+  text-decoration: none; box-shadow: 0 0 0 1px color-mix(in srgb, var(--cink) 45%, transparent) inset;
+}
+a.site:active { background: color-mix(in srgb, var(--cink) 15%, transparent); }
+.site svg { width: 11px; height: 11px; }
+.score { font-size: 22px; font-weight: 600; letter-spacing: -.03em; }
+.score small { font: 500 12px var(--f-ui); opacity: .7; margin-left: 4px; }
+.liked-pill { display: inline-flex; align-items: center; gap: 4px; padding: 4px 9px; border-radius: 99px; background: var(--surface); color: var(--heart); font: 600 11.5px var(--f-ui); }
+.liked-pill svg { width: 12px; height: 12px; }
+.band .art { position: absolute; right: 8px; bottom: -14px; width: 92px; pointer-events: none; }
+.band .art svg { width: 100%; display: block; overflow: visible; }
+.scard.top .art svg { animation: bob 3.4s ease-in-out infinite; }
+@keyframes bob { 50% { transform: translateY(-5px) rotate(-3deg); } }
+
+.scroll {
+  flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain;
+  padding: 8px 20px 22px; display: flex; flex-direction: column; gap: 12px;
+}
+.byline { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.byline b { color: var(--ink); font-weight: 600; }
+.scard h3 { margin: 0; font-size: 24px; font-weight: 600; letter-spacing: -.03em; line-height: 1.12; text-wrap: balance; }
+figure { margin: 0; }
+.photo { border-radius: 18px; overflow: hidden; aspect-ratio: 16 / 10; max-width: 100%; background: var(--ground); }
+.photo img { width: 100%; height: 100%; display: block; object-fit: cover; }
+figcaption { margin-top: 6px; }
+.sum { display: flex; flex-direction: column; gap: 10px; }
+.sum p { margin: 0; font-size: 15.5px; line-height: 1.55; max-width: 62ch; }
+.pts { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 8px; }
+.pts li { display: flex; gap: 10px; font-size: 14.5px; line-height: 1.4; }
+.pts li::before { content: ""; flex: none; width: 8px; height: 8px; margin-top: 6px; border-radius: 50%; background: var(--c); box-shadow: 0 0 0 1px rgba(0,0,0,.15) inset; }
+.why { margin: 0; display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; font-size: 13.5px; }
+.why .ui { text-transform: uppercase; letter-spacing: .05em; font-size: 10px; }
+
+.burst { position: absolute; left: 50%; top: 45%; width: 96px; height: 96px; margin: -48px 0 0 -48px; color: var(--heart); pointer-events: none; z-index: 3; animation: burst .7s ease forwards; }
+.burst svg { width: 100%; height: 100%; filter: drop-shadow(0 6px 14px rgba(0,0,0,.2)); }
+@keyframes burst { 0% { transform: scale(.3); opacity: 0; } 25% { transform: scale(1.15); opacity: 1; } 60% { transform: scale(1); opacity: 1; } 100% { transform: scale(1.1) translateY(-20px); opacity: 0; } }
+
+.pill {
+  height: 44px; padding: 0 16px; border-radius: 99px; border: 0; cursor: pointer; flex: none;
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px; text-decoration: none;
+  background: var(--ink); color: var(--ground); font-size: 14px; font-weight: 500;
+}
+.pill.color { background: var(--c2); color: var(--c2ink); box-shadow: 0 0 0 1px rgba(0,0,0,.08) inset; }
+.pill.ghost { background: var(--ground); color: var(--ink); }
+.pill.small { height: 34px; padding: 0 12px; font: 500 12.5px var(--f-ui); }
+.pill svg { width: 13px; height: 13px; }
+.list-head .pill { background: var(--cink); color: var(--c); }
+.scard.end .band { min-height: 170px; }
+.scard.end .band .art { width: 140px; right: 50%; transform: translateX(50%); bottom: -10px; }
+.end-actions { display: flex; flex-direction: column; gap: 8px; margin-top: 4px; }
+.end-actions .pill { height: 50px; font-size: 15px; }
+
+/* ---------- panels: calendar, palettes, tracker ---------- */
+.panel { position: fixed; inset: 0; z-index: 8; background: var(--scrim); display: flex; align-items: flex-end; justify-content: center; opacity: 0; visibility: hidden; transition: opacity .25s, visibility 0s .25s; }
+.panel.open { opacity: 1; visibility: visible; transition-delay: 0s; }
+.panel-card {
+  width: 100%; max-width: 440px; max-height: 88%; overflow-y: auto; overscroll-behavior: contain;
+  background: var(--surface); border-radius: 30px 30px 0 0;
+  padding: 10px max(18px, env(safe-area-inset-right, 0px)) calc(22px + env(safe-area-inset-bottom, 0px)) max(18px, env(safe-area-inset-left, 0px));
+  transform: translateY(30px); transition: transform .3s cubic-bezier(.2, .85, .25, 1);
+}
+.panel.open .panel-card { transform: none; }
+.grabber { width: 40px; height: 5px; border-radius: 99px; background: var(--line); margin: 0 auto 14px; }
+.panel-head { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+.panel-head h2 { margin: 0; flex: 1; font-size: 24px; font-weight: 600; letter-spacing: -.03em; }
+.panel-head .round { width: 38px; height: 38px; }
+
+.cal-nav { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+.cal-nav b { font-size: 17px; font-weight: 600; letter-spacing: -.02em; }
+.cal-nav .round { width: 36px; height: 36px; }
+.cal-nav .round:disabled { opacity: .3; cursor: default; }
+.cal { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; text-align: center; }
+.cal .dow { font: 500 11px var(--f-ui); color: var(--muted); padding-bottom: 4px; }
+.cal button {
+  aspect-ratio: 1; border-radius: 50%; border: 0; cursor: pointer; font: 600 14px var(--f-ui); padding: 0;
+  background: var(--c); color: var(--cink); box-shadow: 0 0 0 1px rgba(0,0,0,.08) inset;
+}
+.cal button.sel { box-shadow: 0 0 0 2px var(--surface), 0 0 0 4px var(--ink); }
+.cal span.off { aspect-ratio: 1; display: grid; place-items: center; font: 500 14px var(--f-ui); color: var(--muted); opacity: .45; }
+.cal span.off.today { opacity: 1; box-shadow: 0 0 0 1.5px var(--line) inset; border-radius: 50%; }
+.panel-note { margin: 14px 0 0; text-align: center; }
+
+.pal { display: flex; flex-direction: column; gap: 8px; }
+.pal button {
+  display: flex; align-items: center; gap: 12px; width: 100%; padding: 10px 12px 10px 14px; border: 0; cursor: pointer; text-align: left;
+  border-radius: 20px; background: var(--ground);
+}
+.pal button.sel { box-shadow: 0 0 0 2px var(--ink) inset; }
+.pal b { flex: 1; font-size: 15px; font-weight: 600; letter-spacing: -.01em; }
+.pal b small { display: block; font: 500 12px var(--f-ui); color: var(--muted); }
+.sw { display: flex; }
+.sw i { width: 26px; height: 26px; border-radius: 50%; margin-left: -7px; box-shadow: 0 0 0 2px var(--ground), 0 0 0 3px rgba(0,0,0,.06); }
+
+.tabs { display: flex; gap: 6px; overflow-x: auto; margin-bottom: 12px; scrollbar-width: none; }
+.tabs button { border: 0; cursor: pointer; flex: none; padding: 8px 14px; border-radius: 99px; background: var(--ground); font: 500 13px var(--f-ui); }
+.tabs button.sel { background: var(--ink); color: var(--ground); }
+.tabs button i { font-style: normal; opacity: .6; margin-left: 4px; }
+.tlist { display: flex; flex-direction: column; gap: 8px; }
+.titem { display: flex; gap: 12px; align-items: flex-start; padding: 12px; border-radius: 20px; background: var(--ground); }
+.tcheck {
+  width: 28px; height: 28px; border-radius: 50%; border: 0; cursor: pointer; flex: none; padding: 0; margin-top: 2px;
+  background: var(--surface); box-shadow: 0 0 0 1.5px var(--line) inset; display: grid; place-items: center;
+}
+.tcheck svg { width: 14px; height: 14px; opacity: 0; }
+.titem.done .tcheck { background: var(--ink); color: var(--ground); box-shadow: none; }
+.titem.done .tcheck svg { opacity: 1; }
+.titem.done .ttxt b { text-decoration: line-through; opacity: .5; }
+.ttxt { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 6px; }
+.ttxt b { font-size: 15px; font-weight: 600; letter-spacing: -.015em; line-height: 1.25; }
+.tact { display: flex; gap: 6px; flex-wrap: wrap; }
+.tact .pill.ghost { background: var(--surface); }
+.tdot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; }
+.tempty { text-align: center; padding: 24px 8px; }
+.tempty b { display: block; font-size: 17px; font-weight: 600; margin-bottom: 4px; }
+
+.toast {
+  position: fixed; left: 50%; bottom: calc(28px + env(safe-area-inset-bottom, 0px)); transform: translate(-50%, 16px);
+  background: var(--ink); color: var(--ground); padding: 10px 16px; border-radius: 99px; font: 500 13px var(--f-ui);
+  opacity: 0; transition: .3s; pointer-events: none; z-index: 20; width: max-content; max-width: calc(100% - 32px); text-align: center;
+}
+.toast.show { opacity: 1; transform: translate(-50%, 0); }
+@keyframes nope { 25% { translate: -10px 0; } 75% { translate: 10px 0; } }
+.nope { animation: nope .3s ease; }
+
+@media (prefers-reduced-motion: reduce) {
+  .scard, .sheet, .bar i, .tcard, .panel, .panel-card { transition: none; }
+  .scard.top .art svg, .nope, .burst { animation: none; }
+}
+</style>
+
+<div class="home" id="home"></div>
+
+<section class="sheet" id="sheet" aria-hidden="true">
+  <div class="sheet-in">
+    <div class="sh-top">
+      <button class="round" id="back" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path id="backIcon" d="M6 9l6 6 6-6"/></svg></button>
+      <div class="sh-title"><span class="ui" id="shLabel"></span><b id="shName"></b></div>
+      <span class="ui" id="shCount"></span>
+    </div>
+    <div class="list" id="list"></div>
+    <div class="reader" id="reader" hidden>
+      <div class="bars" id="bars"></div>
+      <div class="deck" id="deck"></div>
+    </div>
+  </div>
+</section>
+
+<div class="panel" id="panel" aria-hidden="true"><div class="panel-card" id="panelCard" role="dialog" aria-modal="true"></div></div>
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+// Fun first, politics last.
+const TOPICS = [
+  { id: 'movies',   name: 'Movies' },
+  { id: 'music',    name: 'Music' },
+  { id: 'fashion',  name: 'Fashion' },
+  { id: 'politics', name: 'Politics' },
+];
+// What a liked story turns into on the tracker.
+const LISTS = {
+  movies:   { name: 'Watch list',  app: 'Letterboxd',  link: q => `https://letterboxd.com/search/films/${encodeURIComponent(q)}/` },
+  music:    { name: 'Listen list', app: 'Apple Music', link: q => `https://music.apple.com/id/search?term=${encodeURIComponent(q)}` },
+  fashion:  { name: 'Wishlist' },
+  politics: { name: 'To read' },
+};
+// Palettes rotate by day; the four colors are re-dealt to the topics each time.
+const THEMES = [
+  { name: 'Gridster',  colors: ['#000000', '#7D39EB', '#C6FF33', '#FFFFFF'] },
+  { name: 'Ginger',    colors: ['#323232', '#A9C2E0', '#E9631A', '#EBEBDF'] },
+  { name: 'Turbo',     colors: ['#834DFB', '#F0E100', '#18102B', '#F5F3FF'] },
+  { name: 'Oxford',    colors: ['#FF8400', '#8FA0D8', '#F9DFC6', '#0B0829'] },
+  { name: 'Neon',      colors: ['#00FFCC', '#1C1C2E', '#FF2D78', '#CCD6F6'] },
+  { name: 'Cobalt',    colors: ['#282828', '#F9F6EF', '#193497', '#EDA398'] },
+  { name: 'Oceanic',   colors: ['#0A171D', '#FFF6E9', '#003F47', '#FFBD76'] },
+  { name: 'Ember',     colors: ['#171717', '#F25623', '#4D4D4D', '#DEDEDE'] },
+  { name: 'Indigo',    colors: ['#23003F', '#F94500', '#BCACCE', '#FFFDB4'] },
+];
+const SHAPES = ['blob', 'pill', 'flower', 'arch', 'star', 'disc', 'cloud', 'sun'];
+
+/* ---------- small helpers ---------- */
+const $ = id => document.getElementById(id);
+const esc = v => String(v ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+const pad = n => String(n).padStart(2, '0');
+const dkey = d => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;   // local date, not UTC
+const fromKey = k => { const [y, m, d] = k.split('-').map(Number); return new Date(y, m - 1, d); };
+const dayNum = k => { const [y, m, d] = k.split('-').map(Number); return Math.floor(Date.UTC(y, m - 1, d) / 864e5); };
+const todayKey = dkey(new Date());
+const store = {
+  get(k, f) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : f; } catch (e) { return f; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
+};
+function inkFor(hex) {
+  const n = parseInt(hex.slice(1), 16);
+  const lin = v => (v /= 255) <= .03928 ? v / 12.92 : ((v + .055) / 1.055) ** 2.4;
+  const L = .2126 * lin(n >> 16 & 255) + .7152 * lin(n >> 8 & 255) + .0722 * lin(n & 255);
+  return L > .3 ? '#141414' : '#FFFFFF';
+}
+const hid = s => { let h = 5381; for (const c of String(s)) h = ((h * 33) ^ c.charCodeAt(0)) >>> 0; return 'like-' + h.toString(36); };
+const icon = {
+  heart: '<svg viewBox="0 0 24 24"><path d="M12 20.5s-7.5-4.6-7.5-10.4A4.3 4.3 0 0 1 12 7.3a4.3 4.3 0 0 1 7.5 2.8c0 5.8-7.5 10.4-7.5 10.4z" fill="currentColor"/></svg>',
+  heartLine: '<svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>',
+  out: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M9 7h8v8"/></svg>',
+  check: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
+  x: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>',
+  left: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>',
+  right: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 5l7 7-7 7"/></svg>',
+};
+
+/* ---------- characters ---------- */
+const INK = '#141414';
+function eyes(cy, sleepy) {
+  const eye = x => sleepy
+    ? `<path d="M${x - 11} ${cy} a11 11 0 0 0 22 0 Z" fill="#fff"/><circle cx="${x + 2}" cy="${cy + 4}" r="4.5" fill="${INK}"/><path d="M${x - 13} ${cy} h26" stroke="${INK}" stroke-width="3" stroke-linecap="round"/>`
+    : `<circle cx="${x}" cy="${cy}" r="11" fill="#fff"/><circle cx="${x + 3}" cy="${cy + 2}" r="5" fill="${INK}"/>`;
+  return eye(44) + eye(76);
+}
+const ring = (n, r1, r2) => Array.from({ length: n * 2 }, (_, k) => {
+  const a = k * Math.PI / n, r = k % 2 ? r2 : r1;
+  return `${(60 + Math.cos(a) * r).toFixed(1)},${(70 + Math.sin(a) * r).toFixed(1)}`;
+}).join(' ');
+function mascot(shape, fill, sleepy, deco, decoInk = INK) {
+  let body = '', ey = 70;
+  if (shape === 'pill') body = `<rect x="18" y="22" width="84" height="98" rx="42" fill="${fill}"/>`;
+  if (shape === 'arch') { body = `<path d="M14 126 V66 a46 46 0 0 1 92 0 V126 Z" fill="${fill}"/>`; ey = 74; }
+  if (shape === 'disc') body = `<circle cx="60" cy="70" r="50" fill="${fill}"/>`;
+  if (shape === 'blob') body = `<path d="M60 18 C94 16 110 44 106 78 C102 110 78 124 52 120 C24 116 10 94 14 64 C18 36 32 20 60 18Z" fill="${fill}"/>`;
+  if (shape === 'cloud') { body = `<circle cx="38" cy="78" r="28" fill="${fill}"/><circle cx="64" cy="58" r="36" fill="${fill}"/><circle cx="88" cy="80" r="26" fill="${fill}"/><rect x="14" y="78" width="98" height="28" rx="14" fill="${fill}"/>`; ey = 74; }
+  if (shape === 'flower') {
+    for (let k = 0; k < 8; k++) { const a = k * Math.PI / 4; body += `<circle cx="${(60 + Math.cos(a) * 32).toFixed(1)}" cy="${(70 + Math.sin(a) * 32).toFixed(1)}" r="22" fill="${fill}"/>`; }
+    body += `<circle cx="60" cy="70" r="34" fill="${fill}"/>`;
+  }
+  if (shape === 'star') body = `<polygon points="${ring(7, 56, 38)}" fill="${fill}" stroke="${fill}" stroke-width="10" stroke-linejoin="round"/>`;
+  if (shape === 'sun') body = `<polygon points="${ring(12, 54, 42)}" fill="${fill}" stroke="${fill}" stroke-width="5" stroke-linejoin="round"/>`;
+  const extra = deco
+    ? `<path d="M-6 26 q8 -14 16 0 t16 0 t16 0" fill="none" stroke="${decoInk}" stroke-width="3" stroke-linecap="round"/><path transform="translate(114 18)" d="M0 -10 C1 -3 3 -1 10 0 C3 1 1 3 0 10 C-1 3 -3 1 -10 0 C-3 -1 -1 -3 0 -10Z" fill="${decoInk}"/>`
+    : '';
+  return `<svg viewBox="${deco ? '-10 0 140 132' : '6 10 108 120'}" aria-hidden="true">${extra}${body}${eyes(ey, sleepy)}</svg>`;
+}
+// The palette button: a little painter's palette with a face, dotted in today's colors.
+function paletteFace(cols) {
+  const dots = [[12, 13], [20, 9], [28, 12]].map(([x, y], k) => `<circle cx="${x}" cy="${y}" r="3.2" fill="${cols[k]}" stroke="rgba(0,0,0,.15)" stroke-width=".6"/>`).join('');
+  return `<svg viewBox="0 0 40 40" aria-hidden="true">
+    <path d="M20 3C9.5 3 3 10.5 3 19.5 3 29 10 37 19 37c3.2 0 4-2 3-4.2-1-2.3.4-4.3 3-4.3h4.5C34 28.5 37 25 37 20 37 10.5 29.5 3 20 3z" fill="${cols[3]}" stroke="${INK}" stroke-width="1.6"/>
+    ${dots}
+    <circle cx="14.5" cy="22" r="2.2" fill="${INK}"/><circle cx="23.5" cy="22" r="2.2" fill="${INK}"/>
+    <path d="M16.5 26.5q2.5 2 5 0" fill="none" stroke="${INK}" stroke-width="1.6" stroke-linecap="round"/>
+  </svg>`;
+}
+
+/* ---------- looks: palette by day, or picked ---------- */
+let picks = store.get('stack-picks', {});   // { 'YYYY-MM-DD': 'Theme name' }
+function themeFor(key) {
+  return THEMES.find(t => t.name === picks[key]) || THEMES[dayNum(key) % THEMES.length];
+}
+function lookFor(key) {
+  const n = dayNum(key), theme = themeFor(key);
+  const topics = TOPICS.map((t, k) => {
+    const c = theme.colors[(k + n) % 4];
+    return {
+      ...t, c, cink: inkFor(c),
+      m: theme.colors[(k + n + 2) % 4],
+      shape: SHAPES[(k * 3 + n) % SHAPES.length],
+      sleepy: (k + n) % 3 === 0,
+      stories: STORIES.filter(s => s.t === t.id),
+    };
+  });
+  return { key, date: fromKey(key), theme, topics, heroShape: SHAPES[(n + 5) % SHAPES.length] };
+}
+
+/* ---------- data: today's stack + history ---------- */
+let STORIES = [], latestKey = null, viewKey = todayKey, history = [], updated = null, status = 'loading';
+let look = lookFor(todayKey);
+const seenAll = store.get('stack-seen2', {});   // { day: [story keys] }
+const seenFor = () => new Set(seenAll[viewKey] || []);
+function markSeen(s) {
+  const set = seenFor(); if (set.has(s.key)) return;
+  set.add(s.key); seenAll[viewKey] = [...set];
+  for (const k of Object.keys(seenAll)) if (dayNum(todayKey) - dayNum(k) > 60) delete seenAll[k];
+  store.set('stack-seen2', seenAll);
+}
+function useData(d) {
+  STORIES = (d.stories || []).map((s, idx) => ({ ...s, idx, key: s.url || `${d.date}-${idx}` }));
+  viewKey = d.date; updated = d.generated ? new Date(d.generated) : null;
+  look = lookFor(viewKey); status = STORIES.length ? 'ready' : 'empty';
+}
+async function loadDay(key) {
+  try {
+    const r = await fetch(key === latestKey ? 'stories.json' : `history/${key}.json`, { cache: 'no-store' });
+    if (!r.ok) throw r.status;
+    useData(await r.json());
+  } catch (e) { toast('That day isn’t available any more'); }
+  renderHome();
+}
+
+/* ---------- likes: kept in the artifact's private db when available, else on this device ---------- */
+const likes = new Map(Object.entries(store.get('stack-likes', {})));
+let likeCol = null;
+const saveLocal = () => store.set('stack-likes', Object.fromEntries(likes));
+async function connectLikes() {
+  try {
+    if (!window.claude?.use) return;
+    const [db, user] = await Promise.all([window.claude.use('db'), window.claude.use('user')]);
+    const uid = await user?.id();
+    if (!db || !uid) return;
+    const col = db.collection('data/users/' + uid);
+    col.onSnapshot(snap => {
+      likeCol = col;
+      likes.clear();
+      snap.docs.forEach(d => { if (d.id.startsWith('like-')) likes.set(d.id, d.data()); });
+      saveLocal(); refreshLikes();
+    }, () => { likeCol = null; });
+  } catch (e) { likeCol = null; }
+}
+async function writeLike(id, body) {
+  body ? likes.set(id, body) : likes.delete(id);
+  saveLocal(); refreshLikes();
+  if (!likeCol) return;
+  try { body ? await likeCol.doc(id).set(body) : await likeCol.doc(id).delete(); }
+  catch (e) { toast('Couldn’t sync that like. It’s saved on this phone.'); }
+}
+function toggleLike(s) {
+  const id = hid(s.url || s.h);
+  if (likes.has(id)) { writeLike(id, null); toast('Removed from your tracker'); return false; }
+  writeLike(id, {
+    t: s.t, h: s.h, kind: s.kind, src: s.src, site: s.site, url: s.url || null, q: s.q || s.h,
+    day: viewKey, at: Date.now(), done: false,
+  });
+  toast(`Added to ${LISTS[s.t].name}`);
+  return true;
+}
+const isLiked = s => likes.has(hid(s.url || s.h));
+const openLikes = () => [...likes.values()].filter(l => !l.done).length;
+function refreshLikes() {
+  const c = $('likeCount'); if (c) { const n = openLikes(); c.textContent = n; c.hidden = !n; }
+  if (panelKind === 'tracker') renderTracker();
+}
+
+/* ---------- home ---------- */
+const home = $('home');
+const mins = list => Math.max(1, list.reduce((s, x) => s + (x.min || 0), 0));
+function renderHome() {
+  const { date, theme, topics, heroShape } = look;
+  const hour = new Date().getHours();
+  const greet = hour < 12 ? 'Good morning' : hour < 18 ? 'Good afternoon' : 'Good evening';
+  const weekday = date.toLocaleDateString('en-GB', { weekday: 'long' });
+  const seen = seenFor();
+  const past = viewKey !== latestKey && latestKey;
+  const waiting = !past && latestKey && latestKey !== todayKey;
+  const meta = status === 'ready'
+    ? [`<span>${STORIES.length} stories</span>`, `<span>${STORIES.filter(s => seen.has(s.key)).length} read</span>`,
+       updated ? `<span>${waiting ? 'today’s lands at 07:00' : `updated ${updated.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })}`}</span>` : '',
+       past ? '<button class="chip-btn" id="toLatest">Back to latest</button>' : ''].join('')
+    : '';
+  home.innerHTML = `
+    <div class="toprow">
+      <button class="round avatar" id="openCal" aria-label="Calendar and past stacks" style="background:${theme.colors[1]}">
+        ${mascot(heroShape, theme.colors[2], false, false)}<span class="cal-tab">${date.getDate()}</span>
+      </button>
+      <div class="when ui"><b>${date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long' })}</b><br>${theme.name} palette</div>
+      <span class="spacer"></span>
+      <button class="round" id="openTracker" aria-label="Liked stories tracker" style="color:var(--heart)">${icon.heart}<span class="count" id="likeCount"></span></button>
+      <button class="round palette-btn" id="openPalette" aria-label="Pick a color palette">${paletteFace(theme.colors)}</button>
+    </div>
+    <p class="greet">${past ? 'Looking back,' : `${greet},`} Anindita</p>
+    <h1 class="day" style="--len:${weekday.length}">${weekday}</h1>
+    <p class="sub ui">${meta}</p>
+    ${status === 'ready' ? `<div class="stack">
+      ${topics.map(t => {
+        const r = t.stories.filter(s => seen.has(s.key)).length;
+        return `
+        <button class="tcard" data-topic="${t.id}" style="--c:${t.c};--cink:${t.cink}">
+          <div class="tc-top">
+            <span class="badge">${mascot(t.shape, t.m, t.sleepy, false)}</span>
+            ${r ? `<span class="progress-pill ${r === t.stories.length ? 'full' : ''}">${r} of ${t.stories.length} read</span>` : ''}
+          </div>
+          <div class="tc-row small"><span>${esc([...new Set(t.stories.map(s => s.src))].join(' · ')) || 'Nothing today'}</span><span>${t.stories.length} stories</span></div>
+          <div class="tc-row big"><span>${t.name}</span><span>${mins(t.stories)} min</span></div>
+        </button>`;
+      }).join('')}
+    </div>` : `<div class="empty"><div>${mascot('cloud', theme.colors[2], true, true)}
+      <b>${status === 'loading' ? 'Fetching your stack…' : 'No stack yet'}</b>
+      <span>${status === 'loading' ? '' : 'The morning run publishes it around 07:00.'}</span></div></div>`}`;
+  refreshLikes();
+}
+home.addEventListener('click', e => {
+  if (e.target.closest('#openCal')) return openPanel('calendar');
+  if (e.target.closest('#openPalette')) return openPanel('palette');
+  if (e.target.closest('#openTracker')) return openPanel('tracker');
+  if (e.target.closest('#toLatest')) return loadDay(latestKey);
+  const tc = e.target.closest('.tcard');
+  if (tc) openTopic(tc.dataset.topic);
+});
+
+/* ---------- panels ---------- */
+const panel = $('panel'), panelCard = $('panelCard');
+let panelKind = null, calMonth = null, trackTab = 'all';
+function openPanel(kind) {
+  panelKind = kind;
+  if (kind === 'calendar') { const d = fromKey(viewKey); calMonth = new Date(d.getFullYear(), d.getMonth(), 1); renderCalendar(); }
+  if (kind === 'palette') renderPalette();
+  if (kind === 'tracker') renderTracker();
+  panel.classList.add('open'); panel.setAttribute('aria-hidden', 'false');
+}
+function closePanel() { panel.classList.remove('open'); panel.setAttribute('aria-hidden', 'true'); panelKind = null; }
+panel.addEventListener('click', e => { if (e.target === panel || e.target.closest('[data-close-panel]')) closePanel(); });
+const panelHead = title => `<div class="grabber"></div><div class="panel-head"><h2>${title}</h2><button class="round" data-close-panel aria-label="Close">${icon.x}</button></div>`;
+
+function renderCalendar() {
+  const y = calMonth.getFullYear(), m = calMonth.getMonth();
+  const have = new Set(history);
+  const first = history.length ? history[history.length - 1] : todayKey;
+  const firstM = fromKey(first); firstM.setDate(1);
+  const now = new Date(); now.setDate(1);
+  const lead = (new Date(y, m, 1).getDay() + 6) % 7, days = new Date(y, m + 1, 0).getDate();
+  let cells = ['M', 'T', 'W', 'T', 'F', 'S', 'S'].map(d => `<span class="dow">${d}</span>`).join('') + '<span></span>'.repeat(lead);
+  for (let d = 1; d <= days; d++) {
+    const k = `${y}-${pad(m + 1)}-${pad(d)}`;
+    if (have.has(k)) {
+      const c = themeFor(k).colors[dayNum(k) % 4];
+      cells += `<button data-day="${k}" class="${k === viewKey ? 'sel' : ''}" style="--c:${c};--cink:${inkFor(c)}" aria-label="${fromKey(k).toDateString()}">${d}</button>`;
+    } else cells += `<span class="off ${k === todayKey ? 'today' : ''}">${d}</span>`;
+  }
+  panelCard.innerHTML = panelHead('Your stacks') + `
+    <div class="cal-nav">
+      <button class="round" data-month="-1" aria-label="Previous month" ${calMonth <= firstM ? 'disabled' : ''}>${icon.left}</button>
+      <b>${calMonth.toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })}</b>
+      <button class="round" data-month="1" aria-label="Next month" ${calMonth >= now ? 'disabled' : ''}>${icon.right}</button>
+    </div>
+    <div class="cal">${cells}</div>
+    <p class="panel-note ui">History starts ${fromKey(first).toLocaleDateString('en-GB', { day: 'numeric', month: 'long' })}. Every morning adds a day; photos stay for two weeks.</p>`;
+}
+function renderPalette() {
+  const cur = picks[viewKey];
+  const auto = THEMES[dayNum(viewKey) % THEMES.length];
+  const row = (name, cols, sub, sel) => `<button data-pal="${name}" class="${sel ? 'sel' : ''}"><b>${name === '' ? 'Daily surprise' : name}<small>${sub}</small></b><span class="sw">${cols.map(c => `<i style="background:${c}"></i>`).join('')}</span></button>`;
+  panelCard.innerHTML = panelHead('Palette') + `<div class="pal">
+    ${row('', auto.colors, `Today’s pick is ${auto.name}`, !cur)}
+    ${THEMES.map(t => row(t.name, t.colors, 'Just for this day', cur === t.name)).join('')}
+  </div><p class="panel-note ui">Tomorrow goes back to a surprise.</p>`;
+}
+function renderTracker() {
+  const all = [...likes.entries()].map(([id, l]) => ({ id, ...l })).sort((a, b) => (a.done - b.done) || (b.at - a.at));
+  const tabs = [['all', 'All'], ...TOPICS.map(t => [t.id, LISTS[t.id].name])];
+  const shown = trackTab === 'all' ? all : all.filter(l => l.t === trackTab);
+  const colorOf = t => look.topics.find(x => x.id === t)?.c || 'var(--ink)';
+  panelCard.innerHTML = panelHead('Liked') + `
+    <div class="tabs">${tabs.map(([k, n]) => `<button data-tab="${k}" class="${trackTab === k ? 'sel' : ''}">${n}<i>${(k === 'all' ? all : all.filter(l => l.t === k)).filter(l => !l.done).length}</i></button>`).join('')}</div>
+    <div class="tlist">${shown.length ? shown.map(l => {
+      const L = LISTS[l.t] || {};
+      return `<div class="titem ${l.done ? 'done' : ''}">
+        <button class="tcheck" data-done="${l.id}" aria-label="${l.done ? 'Mark as not done' : `Mark as added to ${L.app || 'done'}`}">${icon.check}</button>
+        <div class="ttxt">
+          <span class="ui"><span class="tdot" style="background:${colorOf(l.t)}"></span>${esc(L.name)} · ${esc(l.src)} · ${fromKey(l.day).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}</span>
+          <b>${esc(l.h)}</b>
+          <div class="tact">
+            ${L.link ? `<a class="pill small" href="${esc(L.link(l.q))}" target="_blank" rel="noopener">Find on ${L.app} ${icon.out}</a>` : ''}
+            ${l.url ? `<a class="pill small ghost" href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.site)} ${icon.out}</a>` : ''}
+            <button class="pill small ghost" data-unlike="${l.id}">Remove</button>
+          </div>
+        </div>
+      </div>`;
+    }).join('') : `<div class="tempty"><b>Nothing here yet</b><span class="ui">Double-tap a story to like it. Movies land on your watch list, music on your listen list.</span></div>`}</div>`;
+}
+panelCard.addEventListener('click', e => {
+  const t = e.target;
+  const day = t.closest('[data-day]'); if (day) { closePanel(); return loadDay(day.dataset.day); }
+  const mo = t.closest('[data-month]'); if (mo) { calMonth.setMonth(calMonth.getMonth() + +mo.dataset.month); return renderCalendar(); }
+  const pal = t.closest('[data-pal]');
+  if (pal) {
+    pal.dataset.pal ? (picks[viewKey] = pal.dataset.pal) : delete picks[viewKey];
+    for (const k of Object.keys(picks)) if (k < todayKey && k !== viewKey) delete picks[k];
+    store.set('stack-picks', picks);
+    look = lookFor(viewKey); renderHome(); renderPalette();
+    return;
+  }
+  const tab = t.closest('[data-tab]'); if (tab) { trackTab = tab.dataset.tab; return renderTracker(); }
+  const dn = t.closest('[data-done]');
+  if (dn) { const l = likes.get(dn.dataset.done); if (l) writeLike(dn.dataset.done, { ...l, done: !l.done }); return; }
+  const un = t.closest('[data-unlike]'); if (un) writeLike(un.dataset.unlike, null);
+});
+
+/* ---------- topic sheet ---------- */
+const sheet = $('sheet'), list = $('list'), reader = $('reader'), deck = $('deck'), bars = $('bars');
+let topic = null, cards = [], i = 0, mode = 'list';
+const thumb = s => `<span class="thumb">${s.img ? `<img src="${esc(s.img)}" alt="" loading="lazy" onerror="this.remove()">` : ''}${s.img ? '' : mascot(topic.shape, topic.m, s.idx % 2 === 1, false)}</span>`;
+
+function renderList() {
+  const t = topic, seen = seenFor(), r = t.stories.filter(s => seen.has(s.key)).length;
+  list.innerHTML = `
+    <div class="list-head">
+      <p><b>${t.stories.length} stories</b>${r ? `${r} read · ` : ''}about ${mins(t.stories)} min if you read them all</p>
+      <button class="pill" data-open="0">Read in order</button>
+    </div>
+    ${t.stories.map((s, n) => `
+      <button class="row ${seen.has(s.key) ? 'read' : ''}" data-open="${n}">
+        ${thumb(s)}
+        <span class="row-txt">
+          <span class="ui">${esc(s.src)} · ${esc(s.kind)}</span>
+          <b>${esc(s.h)}</b>
+          <span class="ui">${s.min ? `${s.min} min read` : 'one-liner'}${seen.has(s.key) ? ' · read ✓' : ''}${isLiked(s) ? ' · <span class="liked-dot">♥ liked</span>' : ''}</span>
+        </span>
+      </button>`).join('')}`;
+}
+list.addEventListener('click', e => { const o = e.target.closest('[data-open]'); if (o) openReader(+o.dataset.open); });
+
+function setMode(m) {
+  mode = m;
+  list.hidden = m !== 'list'; reader.hidden = m !== 'reader';
+  $('backIcon').setAttribute('d', m === 'list' ? 'M6 9l6 6 6-6' : 'M15 5l-7 7 7 7');
+  $('back').setAttribute('aria-label', m === 'list' ? 'Back to the stack' : 'Back to the story list');
+  if (m === 'list') { renderList(); $('shCount').textContent = `${topic.stories.length} stories`; }
+}
+function openTopic(id) {
+  topic = look.topics.find(t => t.id === id);
+  if (!topic.stories.length) return toast(`No ${topic.name.toLowerCase()} stories today`);
+  sheet.style.setProperty('--c', topic.c); sheet.style.setProperty('--cink', topic.cink);
+  $('shName').textContent = topic.name;
+  $('shLabel').innerHTML = `<span class="sh-dot"></span>${look.date.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'short' })}`;
+  setMode('list'); list.scrollTop = 0;
+  sheet.classList.add('open'); sheet.setAttribute('aria-hidden', 'false');
+  home.inert = true;
+  setTimeout(() => $('back').focus({ preventScroll: true }), 50);
+}
+function closeSheet() {
+  sheet.classList.remove('open'); sheet.setAttribute('aria-hidden', 'true');
+  home.inert = false; renderHome();
+}
+$('back').onclick = () => mode === 'reader' ? setMode('list') : closeSheet();
+
+function storyCard(s, n, t) {
+  const site = esc(s.site);
+  return `<article class="scard" data-k="${s.idx}">
+    <div class="band">
+      <div class="band-top"><span class="kind">${esc(s.kind)}</span>${s.url
+        ? `<a class="site" href="${esc(s.url)}" target="_blank" rel="noopener" aria-label="Open on ${site}">${site} ${icon.out}</a>`
+        : `<span class="site">${site}</span>`}</div>
+      <div class="art">${mascot(t.shape, t.m, (n + (t.sleepy ? 1 : 0)) % 2 === 1, true, t.cink)}</div>
+      <div class="band-bot">${s.score ? `<span class="score">${esc(s.score)}<small>${esc(s.scoreNote)}</small></span>` : ''}${isLiked(s) ? `<span class="liked-pill">${icon.heart}Liked</span>` : ''}</div>
+    </div>
+    <div class="scroll">
+      <div class="byline ui"><b>${esc(s.src)}</b>${s.min ? `<span>· ${s.min} min read</span>` : ''}${s.published ? `<span>· ${fromKey(s.published).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}</span>` : ''}</div>
+      <h3>${esc(s.h)}</h3>
+      ${s.img ? `<figure><div class="photo"><img src="${esc(s.img)}" alt="" loading="lazy" onerror="this.closest('figure').remove()"></div><figcaption class="ui">Image: ${esc(s.src)}</figcaption></figure>` : ''}
+      <div class="sum">${(s.sum || []).map(p => `<p>${esc(p)}</p>`).join('')}</div>
+      ${s.pts?.length ? `<ul class="pts">${s.pts.map(p => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
+      <p class="why"><span class="ui">Why it’s here</span>${esc(s.why)}</p>
+    </div>
+  </article>`;
+}
+function endCard(t) {
+  const k = look.topics.indexOf(t);
+  const nextT = look.topics.slice(k + 1).find(x => x.stories.length);
+  return `<article class="scard end">
+    <div class="band"><div class="band-top"><span class="kind">End of ${t.name.toLowerCase()}</span></div><div class="art">${mascot(t.shape, t.m, true, true, t.cink)}</div></div>
+    <div class="scroll">
+      <h3>That’s every ${t.name.toLowerCase()} story for this day.</h3>
+      <div class="sum"><p>${nextT ? `Next in the stack is ${nextT.name.toLowerCase()}.` : 'That was the last topic. You’re caught up.'}</p></div>
+      <div class="end-actions">
+        ${nextT ? `<button class="pill color" data-goto="${nextT.id}" style="--c2:${nextT.c};--c2ink:${nextT.cink}">Next: ${nextT.name}</button>` : ''}
+        <button class="pill ghost" data-tolist>Back to the list</button>
+        <button class="pill" data-close>Back to the stack</button>
+      </div>
+    </div>
+  </article>`;
+}
+function openReader(start) {
+  deck.innerHTML = topic.stories.map((s, n) => storyCard(s, n, topic)).join('') + endCard(topic);
+  cards = [...deck.children];
+  bars.innerHTML = topic.stories.map(() => '<div class="bar"><i></i></div>').join('');
+  i = start; setMode('reader'); layout();
+  if (!store.get('stack-tip-like', false)) { store.set('stack-tip-like', true); setTimeout(() => toast('Double-tap a story to like it'), 600); }
+}
+function layout() {
+  const N = cards.length;
+  cards.forEach((el, k) => {
+    const d = k - i;
+    let t, o = 1;
+    if (d < 0) { t = 'translateX(-120%) rotate(-10deg)'; o = 0; }
+    else if (d === 0) t = 'none';
+    else if (d <= 2) t = `translateY(${d * 9}px) scale(${1 - d * .04})`;
+    else { t = 'translateY(18px) scale(.92)'; o = 0; }
+    el.style.transform = t; el.style.opacity = o; el.style.zIndex = N - k;
+    el.classList.toggle('top', d === 0);
+    el.inert = d !== 0;
+  });
+  [...bars.children].forEach((b, k) => b.classList.toggle('on', k <= i));
+  const last = i === N - 1;
+  if (!last) markSeen(topic.stories[i]);
+  $('shCount').textContent = last ? 'done' : `${i + 1} / ${N - 1}`;
+}
+function nope() { const c = cards[i]; c.classList.remove('nope'); void c.offsetWidth; c.classList.add('nope'); }
+function go(n) { if (n >= 0 && n < cards.length) i = n; else nope(); layout(); }
+function likeCard(c) {
+  const s = STORIES[+c.dataset.k]; if (!s) return;
+  const on = toggleLike(s);
+  if (on) {
+    const b = document.createElement('div'); b.className = 'burst'; b.innerHTML = icon.heart;
+    c.appendChild(b); setTimeout(() => b.remove(), 800);
+  }
+  const bot = c.querySelector('.band-bot'), pill = bot.querySelector('.liked-pill');
+  if (on && !pill) bot.insertAdjacentHTML('beforeend', `<span class="liked-pill">${icon.heart}Liked</span>`);
+  if (!on && pill) pill.remove();
+}
+addEventListener('keydown', e => {
+  if (e.key === 'Escape') { if (panelKind) return closePanel(); if (sheet.classList.contains('open')) return mode === 'reader' ? setMode('list') : closeSheet(); }
+  if (!sheet.classList.contains('open') || mode !== 'reader' || panelKind) return;
+  if (e.key === 'ArrowRight') go(i + 1);
+  if (e.key === 'ArrowLeft') go(i - 1);
+});
+
+const toastEl = $('toast');
+let toastTimer;
+function toast(msg) { toastEl.textContent = msg; toastEl.classList.add('show'); clearTimeout(toastTimer); toastTimer = setTimeout(() => toastEl.classList.remove('show'), 2000); }
+
+deck.addEventListener('click', e => {
+  if (e.target.closest('[data-close]')) closeSheet();
+  if (e.target.closest('[data-tolist]')) setMode('list');
+  const g = e.target.closest('[data-goto]'); if (g) openTopic(g.dataset.goto);
+});
+
+/* swipe between stories; double-tap to like */
+let drag = null, lastTap = null;
+deck.addEventListener('pointerdown', e => {
+  const c = e.target.closest('.scard');
+  if (!c || c !== cards[i] || e.target.closest('button, a') || e.button > 0) return;
+  drag = { c, x: e.clientX, y: e.clientY, t: performance.now(), dx: 0, mode: null };
+});
+addEventListener('pointermove', e => {
+  if (!drag) return;
+  const dx = e.clientX - drag.x, dy = e.clientY - drag.y;
+  if (!drag.mode && Math.hypot(dx, dy) > 8) {
+    drag.mode = Math.abs(dx) > Math.abs(dy) ? 'x' : 'y';
+    if (drag.mode === 'x') { drag.c.classList.add('dragging'); try { drag.c.setPointerCapture(e.pointerId); } catch (_) {} }
+  }
+  if (drag.mode === 'x') {
+    drag.dx = dx;
+    const damp = (dx > 0 && i === 0) || (dx < 0 && i === cards.length - 1) ? .25 : 1;
+    drag.c.style.transform = `translateX(${dx * damp}px) rotate(${dx * damp / 22}deg)`;
+  }
+});
+function endDrag(e) {
+  if (!drag) return;
+  const { c, dx, mode: m, t } = drag;
+  drag = null;
+  c.classList.remove('dragging');
+  if (!m && e.type === 'pointerup' && c.dataset.k !== undefined) {
+    const now = performance.now();
+    if (lastTap && lastTap.c === c && now - lastTap.t < 330) { lastTap = null; likeCard(c); }
+    else lastTap = { c, t: now };
+    return;
+  }
+  if (m !== 'x') return;
+  const v = dx / Math.max(1, performance.now() - t);
+  if (dx < -70 || v < -.5) return go(i + 1);
+  if (dx > 70 || v > .5) return go(i - 1);
+  layout();
+}
+addEventListener('pointerup', endDrag);
+addEventListener('pointercancel', endDrag);
+deck.addEventListener('dblclick', e => e.preventDefault());
+
+/* ---------- start ---------- */
+renderHome();
+connectLikes();
+fetch('stories.json', { cache: 'no-store' })
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(d => {
+    latestKey = d.date; useData(d); history = [d.date];
+    renderHome();
+    return fetch('history/index.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).catch(() => null);
+  })
+  .then(idx => { if (idx?.dates) history = [...new Set([latestKey, ...idx.dates])].sort().reverse(); })
+  .catch(() => { status = 'empty'; renderHome(); });
+</script>
+
+</body>
+</html>
