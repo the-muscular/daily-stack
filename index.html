@@ -152,6 +152,9 @@ a { color: inherit; }
   transition: transform .45s cubic-bezier(.2, .85, .25, 1), visibility 0s .45s;
 }
 .sheet.open { transform: none; visibility: visible; transition-delay: 0s; }
+.sheet-in { touch-action: pan-y; }
+.edge-drag { transition: none !important; }
+.edge-back { transition: transform .3s cubic-bezier(.2, .85, .25, 1); }
 .sheet-in {
   height: 100%; max-width: 440px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;
   padding-left: max(16px, env(safe-area-inset-left, 0px));
@@ -822,6 +825,37 @@ deck.addEventListener('click', e => {
   if (e.target.closest('[data-tolist]')) setMode('list');
   const g = e.target.closest('[data-goto]'); if (g) openTopic(g.dataset.goto);
 });
+
+/* pull from the left edge: story → list, list → home */
+let edge = null;
+sheet.addEventListener('pointerdown', e => {
+  if (e.button > 0 || panelKind || e.clientX > 28) return;
+  e.stopPropagation();   // keep the story swipe from starting
+  edge = { x: e.clientX, y: e.clientY, dx: 0, el: mode === 'reader' ? reader : sheet.querySelector('.sheet-in'), on: false };
+}, true);
+addEventListener('pointermove', e => {
+  if (!edge) return;
+  const dx = e.clientX - edge.x, dy = e.clientY - edge.y;
+  if (!edge.on) {
+    if (Math.abs(dy) > 12 && Math.abs(dy) > dx) { edge = null; return; }
+    if (dx < 10) return;
+    edge.on = true; edge.el.classList.add('edge-drag');
+  }
+  edge.dx = Math.max(0, dx);
+  edge.el.style.transform = `translateX(${edge.dx}px)`;
+});
+function endEdge() {
+  if (!edge) return;
+  const { el, dx, on } = edge;
+  edge = null;
+  if (!on) return;
+  el.classList.remove('edge-drag'); el.classList.add('edge-back');
+  el.style.transform = '';
+  setTimeout(() => el.classList.remove('edge-back'), 320);
+  if (dx > 80) mode === 'reader' ? setMode('list') : closeSheet();
+}
+addEventListener('pointerup', endEdge);
+addEventListener('pointercancel', endEdge);
 
 /* swipe between stories; double-tap to like */
 let drag = null, lastTap = null;
