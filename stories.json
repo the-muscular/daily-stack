@@ -1,383 +1,204 @@
 {
-    "date":  "2026-10-25",
-    "generated":  "2026-10-25T18:53:10.1281929+07:00",
+    "date":  "2026-10-26",
+    "generated":  "2026-10-26T10:01:26.4065779+07:00",
     "stories":  [
                     {
                         "t":  "movies",
-                        "kind":  "In cinemas",
-                        "h":  "Clayface: DC\u0027s gory body-horror origin story lands",
-                        "why":  "New release",
+                        "kind":  "Box office",
+                        "h":  "Clayface tops US box office; Theranos doc climbs",
+                        "why":  "Weekend scoreboard at a glance",
                         "sum":  [
-                                    "DC Studios\u0027 Clayface, directed by James Watkins (Eden Lake), follows Matt Hagen, a Hollywood actor who is disfigured in an attack and turns to an experimental treatment that leaves him a shapeshifting, clay-like monster. Tom Rhys Harries leads, with Naomi Ackie as the woman who stands by him.",
-                                    "Screen Daily\u0027s Tim Grierson credits Watkins with real B-movie grit and finds Harries sympathetic, praising the film\u0027s adult tone and graphic violence. But he says the story turns generic and the ending predictable, with too little novelty to fill a feature. Early reaction elsewhere singles out Harries and the brutal effects work."
+                                    "DC\u0027s R-rated body-horror spin-off Clayface opened at No. 1 in North America with about $24m, earning an A- CinemaScore on a reported $44m budget. A24\u0027s three-hour Elizabeth Holmes documentary You Can See Everything did something rare: its takings rose 25% in its second weekend as it expanded, adding $19.5m for $45.1m total, already among the biggest documentaries ever.",
+                                    "Laika\u0027s stop-motion fantasy Wildwood opened third with $11.8m, while Street Fighter fell 72% to fourth. Olivia Colman\u0027s Wicker debuted fifth. The overall weekend reached $94.9m, up nearly 22% on last year, with 2026 running 20% ahead year to date."
                                 ],
                         "pts":  [
-                                    "Runtime 108 min, rated D17+ in Indonesia",
-                                    "Now showing in Indonesian cinemas; US/UK from 23 Oct",
-                                    "Verdict: bold, gory, but familiar"
+                                    "Clayface: $24m domestic, A- CinemaScore",
+                                    "You Can See Everything up 25% in week two",
+                                    "US year-to-date $8.4bn, +20% vs 2025"
+                                ],
+                        "src":  "Screen Daily",
+                        "site":  "screendaily.com",
+                        "url":  "https://www.screendaily.com/news/you-can-see-everything-climbs-in-second-weekend-at-us-box-office-clayface-rules-on-24m/5221754.article",
+                        "min":  3,
+                        "img":  "img/2026-10-26/s01.jpg",
+                        "published":  "2026-10-25"
+                    },
+                    {
+                        "t":  "movies",
+                        "kind":  "News",
+                        "h":  "Clayface\u0027s $43m global start sparks Morbius talk",
+                        "why":  "DC\u0027s new universe under pressure",
+                        "sum":  [
+                                    "Clayface\u0027s worldwide opening came to $43m: $24m in North America plus $19m overseas. Both figures landed under pre-release forecasts of $25–35m domestic and $20–25m international, and some analysts compared it to Sony\u0027s Morbius as a warning sign for DC.",
+                                    "ComicBookMovie argues the comparison is overstated. Relative to budget, Clayface\u0027s opening is roughly in line with Morbius, but its reviews and audience scores are far stronger. The site estimates the film needs around $80–100m worldwide to break even once marketing and theatre splits are counted."
+                                ],
+                        "pts":  [
+                                    "$43m global opening on $44m budget",
+                                    "Missed forecasts at home and abroad",
+                                    "Break-even estimated at $80–100m"
+                                ],
+                        "src":  "ComicBookMovie",
+                        "site":  "comicbookmovie.com",
+                        "url":  "https://comicbookmovie.com/batman/clayface/clayfaces-43m-global-opening-draws-comparisons-to-morbius-but-are-they-unfair-a230636",
+                        "min":  4,
+                        "q":  "Clayface",
+                        "published":  "2026-10-25"
+                    },
+                    {
+                        "t":  "movies",
+                        "kind":  "Review",
+                        "h":  "Clayface: gory, gritty, but predictable",
+                        "why":  "For horror fans curious about DC",
+                        "sum":  [
+                                    "James Watkins directs this Batman-adjacent origin story, written by Mike Flanagan and Hossein Amini. Tom Rhys Harries plays a Hollywood actor on the brink of fame who is disfigured in a violent attack in Gotham and turns to a scientist\u0027s experimental treatment, with Naomi Ackie as the woman by his side.",
+                                    "Screen\u0027s Tim Grierson welcomes how modest, edgy and gruesome it is compared with typical superhero blockbusters, and praises the leads\u0027 warm chemistry. But he finds the monster story and love story don\u0027t fully mesh, the Hollywood satire thin, and the final act generic and easy to predict."
+                                ],
+                        "pts":  [
+                                    "R-rated body horror, 108 minutes",
+                                    "Strong leads, B-movie grit",
+                                    "Familiar beats sink the last act"
                                 ],
                         "src":  "Screen Daily",
                         "site":  "screendaily.com",
                         "url":  "https://www.screendaily.com/reviews/clayface-review-the-batman-villain-gets-an-edgy-spin-off-in-james-watkins-gory-predictable-body-horror/5221662.article",
                         "min":  4,
                         "q":  "Clayface",
-                        "img":  "img/2026-10-25/s01.jpg",
+                        "img":  "img/2026-10-26/s03.jpg",
                         "published":  "2026-10-21"
                     },
                     {
                         "t":  "movies",
                         "kind":  "Review",
-                        "h":  "Wildwood: Laika\u0027s darkest stop-motion epic wins raves",
-                        "why":  "Animation highlight",
+                        "h":  "The Liberation: Carrie Coon\u0027s awards-calibre turn",
+                        "why":  "Prestige drama with a great lead",
                         "sum":  [
-                                    "Laika\u0027s new stop-motion fantasy follows Prue, a Portland girl whose baby brother is snatched by crows and carried into a hidden magical forest. She sets out to find him with her classmate Curtis. Peyton Elizabeth Lee and Jacob Tremblay voice the kids, with Carey Mulligan as the film\u0027s villain.",
-                                    "FOX19\u0027s critic calls the animation a leap forward for the studio, praising the detailed world-building, camera work and Mulligan\u0027s voice performance, and reads the story as a reflection on grief and handmade craft. The film is rated PG-13 and noticeably darker than typical family fare, so parents of young children should take note. Festival reviews have been broadly strong."
+                                    "Guy Nattiv\u0027s drama, inspired by his own grandmother, follows Rita, a woman in 1980s New Jersey whose outwardly settled life hides a heavy past. She is drawn into a group led by a younger, magnetic woman named Ricki, played by Lily James, with Tracy Letts, Odessa Young and Bella Ramsey in support.",
+                                    "Screen calls it expertly observed and singles out Coon\u0027s performance as a tour de force and likely awards contender. The film carefully shows both the pull of the group and the danger beneath it, before tightening into psychological-thriller territory in its last third. It premiered at Telluride and opens in the US in January via Bleecker Street."
                                 ],
                         "pts":  [
-                                    "In US cinemas from 23 Oct",
-                                    "Rated PG-13: dark for small kids",
-                                    "Voices: Peyton Elizabeth Lee, Carey Mulligan"
+                                    "Coon tipped for awards season",
+                                    "Lily James ambiguous and compelling",
+                                    "US release January 2027"
                                 ],
-                        "src":  "FOX19",
-                        "site":  "fox19.com",
-                        "url":  "https://www.fox19.com/2026/10/21/wildwood-laikas-newest-stop-motion-masterpiece/",
-                        "min":  5,
-                        "q":  "Wildwood",
-                        "score":  "5/5",
-                        "scoreNote":  "FOX19",
-                        "img":  "img/2026-10-25/s02.jpg",
-                        "published":  "2026-10-21"
+                        "src":  "Screen Daily",
+                        "site":  "screendaily.com",
+                        "url":  "https://www.screendaily.com/reviews/the-liberation-review-a-remarkable-carrie-coon-powers-guy-nattivs-expertly-observed-us-cult-drama/5221735.article",
+                        "min":  4,
+                        "q":  "The Liberation Carrie Coon",
+                        "img":  "img/2026-10-26/s04.jpg",
+                        "published":  "2026-10-23"
                     },
                     {
                         "t":  "movies",
                         "kind":  "Review",
-                        "h":  "Klara and the Sun: critics pan Waititi\u0027s Ishiguro adaptation",
-                        "why":  "Big-name misfire",
+                        "h":  "Beautiful Pain: good intentions, shallow drama",
+                        "why":  "New Indonesian release in cinemas",
                         "sum":  [
-                                    "Taika Waititi\u0027s take on Kazuo Ishiguro\u0027s novel stars Jenna Ortega as Klara, an AI-powered Artificial Friend chosen by a wealthy, sickly teenager in a polluted future, with Amy Adams as the girl\u0027s mother. It opened in the US and UK on 23 October.",
-                                    "Reviews have been harsh: the film sits at 20% on Rotten Tomatoes, and The Guardian, The Times and The Telegraph all went low, mostly arguing Waititi\u0027s ironic, comic style clashes with the book\u0027s quiet melancholy. Screen Daily is the notable dissent, calling it an engaging, faithful fairytale with a strong Ortega performance, if overstuffed in its final act."
+                                    "This Indonesian drama, in cinemas since 22 October, is Dmaz Brodjonegoro\u0027s feature debut, co-written with Hanung Bramantyo and Titien Wattimena. Raihaanun plays Niken, a wife enduring domestic abuse and infidelity who also faces harassment at work and tries to rebuild her life alone. CNN Indonesia notes it appears inspired by Nikita Mirzani\u0027s life.",
+                                    "The critic gives it 3 and praises its clear message about women resisting violence and patriarchy, plus strong work from Raihaanun, Siti Fauziah and Jajang C Noer. But the plot is simplistic, Baim Wong\u0027s abusive husband is underwritten, and it sometimes slides into soap-opera territory."
                                 ],
                         "pts":  [
-                                    "Runtime 116 min",
-                                    "In US/UK cinemas from 23 Oct; wider rollout to follow",
-                                    "Cast: Jenna Ortega, Amy Adams, Steve Buscemi"
-                                ],
-                        "src":  "ComicBookMovie.com",
-                        "site":  "comicbookmovie.com",
-                        "url":  "https://comicbookmovie.com/sci_fi/klara-and-the-sun-rotten-tomatoes-score-revealed-taika-waititi-and-jenna-ortegas-sci-fi-flops-with-critics-a230470",
-                        "min":  3,
-                        "q":  "Klara and the Sun",
-                        "score":  "20%",
-                        "scoreNote":  "Rotten Tomatoes critics",
-                        "img":  "img/2026-10-25/s03.jpg",
-                        "published":  "2026-10-17"
-                    },
-                    {
-                        "t":  "movies",
-                        "kind":  "Review",
-                        "h":  "Beautiful Pain: well-meant Indonesian drama falls short",
-                        "why":  "Indonesian film",
-                        "sum":  [
-                                    "Dmaz Brodjonegoro\u0027s feature debut stars Raihaanun as Niken, a single mother who leaves an abusive marriage and starts an acting career, only to face harassment and slander that threaten her reputation and custody of her children. Baim Wong, Tarra Budiman and Jajang C Noer co-star; Hanung Bramantyo co-wrote.",
-                                    "CNN Indonesia\u0027s Endro Priherdityo praises its clear message about women\u0027s empowerment and committed turns from Raihaanun and Siti Fauziah. But he finds the conflicts too simple, the husband one-dimensional and the drama sometimes soap-like, with muddled flashbacks and small logic slips. Relatable, he concludes, rather than deeply affecting."
-                                ],
-                        "pts":  [
-                                    "Runtime 1h 39m, rated D17+",
-                                    "In Indonesian cinemas since 22 Oct",
-                                    "Verdict: good intentions, thin execution"
+                                    "Rated 3 by CNN Indonesia",
+                                    "Raihaanun and Siti Fauziah shine",
+                                    "Thin conflicts, soapy at times"
                                 ],
                         "src":  "CNN Indonesia",
                         "site":  "cnnindonesia.com",
                         "url":  "https://www.cnnindonesia.com/hiburan/20261023095159-220-1418681/review-film-beautiful-pain",
-                        "min":  5,
-                        "q":  "Beautiful Pain",
+                        "min":  4,
+                        "q":  "Beautiful Pain film",
                         "score":  "3/5",
                         "scoreNote":  "CNN Indonesia",
-                        "img":  "img/2026-10-25/s04.jpg",
+                        "img":  "img/2026-10-26/s05.jpg",
                         "published":  "2026-10-23"
                     },
                     {
                         "t":  "movies",
-                        "kind":  "Festival",
-                        "h":  "Laut Bercerita closes Jakarta Film Week tonight",
-                        "why":  "Indonesian film",
+                        "kind":  "News",
+                        "h":  "Miracle in Cell No. 7 director shoots Indonesian film Gasigogi",
+                        "why":  "Indonesian tearjerker with Korean pedigree",
                         "sum":  [
-                                    "Yosep Anggi Noen\u0027s adaptation of Leila S. Chudori\u0027s bestselling novel closes the sixth Jakarta Film Week on 25 October, the same evening the festival\u0027s competition winners are announced. Set in 1991 under the New Order, it follows student activist Biru Laut, played by Reza Rahadian, and the people left behind when activists disappear.",
-                                    "The film world-premiered in the main competition at Busan earlier this month. Dian Sastrowardoyo, Christine Hakim, Eva Celia and Yunita Siregar co-star, and Chudori co-wrote the script. Jakarta Film Week ran 21 to 25 October at venues including CGV Grand Indonesia and Taman Ismail Marzuki."
+                                    "Falcon Pictures has announced Gasigogi, directed by South Korea\u0027s Lee Hwan-kyung, who made the original Miracle in Cell No. 7. Vino G. Bastian, who starred in that film\u0027s Indonesian remake, plays Jiwa, a father willing to give up everything to save his son Juna, who has blood cancer.",
+                                    "Pevita Pearce and Faradina Mufti co-star, with Indro Warkop, Dea Panendra and Indra Jegel among the supporting cast. The title is the Korean name for a small fish whose male guards its eggs alone, a symbol of parental sacrifice. The film is still in production and has no release date yet."
                                 ],
                         "pts":  [
-                                    "Nationwide release in Indonesia: 29 Oct",
-                                    "Busan 2026 main competition premiere",
-                                    "Stars Reza Rahadian, Dian Sastrowardoyo"
-                                ],
-                        "src":  "RRI",
-                        "site":  "rri.co.id",
-                        "url":  "https://rri.co.id/en/lifestyle/2764641/the-sea-speaks-his-name-selected-as-closing-film-of-jakarta-film-week-2026",
-                        "min":  3,
-                        "q":  "Laut Bercerita",
-                        "published":  "2026-09-27"
-                    },
-                    {
-                        "t":  "movies",
-                        "kind":  "Box office",
-                        "h":  "80.6 million cinema tickets sold in Indonesia so far in 2026",
-                        "why":  "Local box office",
-                        "sum":  [
-                                    "Indonesia\u0027s Ministry of Culture says 80.6 million admissions were recorded through October, with local films taking 59.3% (about 47.8 million) and foreign titles 40.7%. At least 139 Indonesian films have screened this year, averaging roughly 344,000 viewers each.",
-                                    "No local hit has broken out the way Jumbo and Agak Laen 2 did in 2025: Danur: The Last Chapter leads at about 3.6 million, ahead of Ghost in The Cell and Jangan Buang Ibu. Among imports, the Avengers: Endgame re-release combined total tops 12 million, followed by Spider-Man: Brand New Day near 7 million. Horror still dominates the local top ten."
-                                ],
-                        "pts":  [
-                                    "Local share: 59.3% of admissions",
-                                    "Top local film: Danur: The Last Chapter (3.6M)",
-                                    "Avengers: Doomsday and Dune 3 still to come"
+                                    "Falcon Pictures production, set in Indonesia",
+                                    "Vino G. Bastian, Pevita Pearce lead",
+                                    "No release date yet"
                                 ],
                         "src":  "CNN Indonesia",
                         "site":  "cnnindonesia.com",
-                        "url":  "https://www.cnnindonesia.com/hiburan/20261023154641-220-1418906/806-juta-orang-nonton-di-bioskop-indonesia-per-oktober-2026",
-                        "min":  3,
-                        "img":  "img/2026-10-25/s06.jpg",
-                        "published":  "2026-10-23"
+                        "url":  "https://www.cnnindonesia.com/hiburan/20261025153515-220-1419462/vino-g-bastian-hingga-pevita-pearce-bintangi-film-gasigogi",
+                        "min":  2,
+                        "q":  "Gasigogi",
+                        "img":  "img/2026-10-26/s06.jpg",
+                        "published":  "2026-10-25"
                     },
                     {
                         "t":  "movies",
                         "kind":  "Streaming",
-                        "h":  "Netflix this week: Animals and Sacrifice top the chart",
-                        "why":  "Weekend streaming",
+                        "h":  "Tarantino previews Fincher\u0027s Cliff Booth film at AFI",
+                        "why":  "Big December Netflix event film",
                         "sum":  [
-                                    "Netflix added 24 films in the US this week, mostly library titles such as Gladiator and Gladiator II, The Ides of March and several Bollywood favourites including Gully Boy and English Vinglish. New originals include Paralyzed by Hope, a Judd Apatow documentary about comedian Maria Bamford, and a Theo Von stand-up special.",
-                                    "On the movie chart, Ben Affleck\u0027s kidnapping thriller Animals held the top spot for the week, followed by Sacrifice, Romain Gavras\u0027s cult thriller starring Chris Evans and Anya Taylor-Joy. Regional catalogues differ, so check availability in Indonesia."
+                                    "At AFI Fest in Los Angeles, Quentin Tarantino surprised a crowd by screening the first 17 minutes of The Further Mis-Adventures of Cliff Booth, his script directed by David Fincher, with Brad Pitt back as the stuntman from Once Upon a Time in Hollywood. The footage won\u0027t be released publicly.",
+                                    "Set eight years after the first film, the opening reportedly finds Cliff out of stunt work and managing a Los Angeles revival cinema, before the story drifts into gangsters, blackmail and the movie business. Yahya Abdul-Mateen II and Peter Weller appear. It plays in IMAX worldwide from 25 November, then streams on Netflix from 23 December."
                                 ],
                         "pts":  [
-                                    "No. 1 film: Animals (Ben Affleck)",
-                                    "New doc: Paralyzed by Hope (Maria Bamford)",
-                                    "US list; Indonesian catalogue may vary"
+                                    "Fincher directs, Tarantino wrote",
+                                    "IMAX run from 25 November",
+                                    "On Netflix 23 December"
                                 ],
                         "src":  "What\u0027s on Netflix",
                         "site":  "whats-on-netflix.com",
-                        "url":  "https://www.whats-on-netflix.com/whats-new/new-releases-on-netflix-this-week-and-top-10-movies-series-october-24-2026/",
-                        "min":  6,
-                        "img":  "img/2026-10-25/s07.jpg",
+                        "url":  "https://www.whats-on-netflix.com/news/quentin-tarantino-debut-cliff-booth-afi-film-festival/",
+                        "min":  5,
+                        "q":  "The Further Mis-Adventures of Cliff Booth",
+                        "img":  "img/2026-10-26/s07.jpg",
                         "published":  "2026-10-24"
+                    },
+                    {
+                        "t":  "movies",
+                        "kind":  "Trailer",
+                        "h":  "New Avengers: Doomsday spot reunites Cap and Thor",
+                        "why":  "Year\u0027s biggest blockbuster build-up",
+                        "sum":  [
+                                    "Marvel released a new 30-second extended TV spot for Avengers: Doomsday, following a sneak peek the day before. It gives a longer look at Steve Rogers and Thor reuniting, plus an extended gag where Ant-Man struggles over which Captain America to address, now with U.S. Agent joining in.",
+                                    "The Russo brothers\u0027 film, out 18 December, unites the Avengers, X-Men and Fantastic Four against Doctor Doom, with a huge cast led by Robert Downey Jr., Chris Evans and Chris Hemsworth. Test-screening reactions reportedly praise Doom, and a final trailer is expected before release."
+                                ],
+                        "pts":  [
+                                    "30-second extended TV spot",
+                                    "Release date 18 December",
+                                    "Final trailer still to come"
+                                ],
+                        "src":  "ComicBookMovie",
+                        "site":  "comicbookmovie.com",
+                        "url":  "https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday---steve-rogers-thor-reunite-while-ant-man-tries-to-address-cap-in-new-extended-tv-spot-a230630",
+                        "min":  3,
+                        "q":  "Avengers: Doomsday",
+                        "img":  "img/2026-10-26/s08.jpg",
+                        "published":  "2026-10-25"
                     },
                     {
                         "t":  "movies",
                         "kind":  "Festival",
-                        "h":  "Tokyo film festival opens tomorrow with Garin Nugroho in competition",
-                        "why":  "Indonesian film abroad",
+                        "h":  "Clio Barnard\u0027s Birmingham drama wins Rome Film Fest",
+                        "why":  "Festival picks for your watchlist",
                         "sum":  [
-                                    "The 39th Tokyo International Film Festival runs 26 October to 4 November, opening with Zeze Takahisa\u0027s music drama Sukiyaki and closing with Yeon Sang-ho\u0027s Korean zombie thriller Colony. Takashi Yamazaki\u0027s Godzilla Minus Zero is the centrepiece screening.",
-                                    "Fifteen films compete for the Tokyo Grand Prix, seven of them world premieres. Indonesia is represented by veteran director Garin Nugroho\u0027s Red Before Dawn, premiering in the main competition alongside Singapore\u0027s Magic Atlas by Sun Xun."
+                                    "Clio Barnard\u0027s I See Buildings Fall Like Lightning took best film in the Rome Film Fest\u0027s Progressive Cinema competition, which wrapped on 24 October. The film follows a group of childhood friends nearing 30 who must face that their dreams haven\u0027t worked out; it previously won the audience award in Cannes\u0027 Directors\u0027 Fortnight.",
+                                    "Its star Anthony Boyle shared best actor. Tim Blake Nelson\u0027s Amanda Seyfried prison drama took the grand jury prize, Diego Luna\u0027s Ashes won best screenplay, and Victoria Luengo won best actress for Spanish heist film Saints. The festival sold over 82,000 tickets across 194 films."
                                 ],
                         "pts":  [
-                                    "Dates: 26 Oct to 4 Nov",
-                                    "Indonesia in competition: Red Before Dawn",
-                                    "Centrepiece: Godzilla Minus Zero"
+                                    "Best film: I See Buildings Fall Like Lightning",
+                                    "Anthony Boyle shares best actor",
+                                    "Diego Luna\u0027s Ashes wins screenplay"
                                 ],
-                        "src":  "Outlook India",
-                        "site":  "outlookindia.com",
-                        "url":  "https://www.outlookindia.com/art-entertainment/tokyo-film-festival-full-2026-lineup-revealed",
+                        "src":  "Screen Daily",
+                        "site":  "screendaily.com",
+                        "url":  "https://www.screendaily.com/news/clio-barnards-i-see-buildings-fall-like-lightning-takes-top-prize-at-rome-film-fest/5221752.article",
                         "min":  3,
-                        "q":  "Red Before Dawn",
-                        "img":  "img/2026-10-25/s08.jpg",
-                        "published":  "2026-10-01"
-                    },
-                    {
-                        "t":  "movies",
-                        "kind":  "News",
-                        "h":  "France unrest: cinemas close early as Hollywood shoots worry",
-                        "why":  "Industry news",
-                        "sum":  [
-                                    "Protests over living costs and school conditions that began on 17 October have turned into riots in parts of France, and curfews in Paris, Marseille and Lyon are forcing cinemas to shut early. The national cinema federation says 20 to 30 venues are directly affected, with Paris\u0027s UGC Les Halles moving its last show to 7pm.",
-                                    "Several Hollywood productions are filming in the region, including The White Lotus season 4 on the Riviera and a Natalie Portman project in Nice. Shoots have not been halted, but studio security teams have warned crews to avoid Paris and Marseille, and French producers fear US projects may think twice."
-                                ],
-                        "pts":  [
-                                    "20 to 30 French cinemas affected by curfews",
-                                    "Productions on alert, none halted yet",
-                                    "Protests began 17 Oct"
-                                ],
-                        "src":  "CNN Indonesia",
-                        "site":  "cnnindonesia.com",
-                        "url":  "https://www.cnnindonesia.com/hiburan/20261024143206-220-1419201/prancis-memanas-bioskop-tutup-awal-hingga-hollywood-waspada",
-                        "min":  4,
-                        "img":  "img/2026-10-25/s09.jpg",
+                        "q":  "I See Buildings Fall Like Lightning",
+                        "img":  "img/2026-10-26/s09.jpg",
                         "published":  "2026-10-24"
-                    },
-                    {
-                        "t":  "music",
-                        "kind":  "Album review",
-                        "h":  "Fontaines D.C. go dark New Wave on Dopamine Chamber",
-                        "why":  "Alt rock",
-                        "sum":  [
-                                    "The Dublin band\u0027s fifth album, out 16 October on XL, swaps guitar grit for a synth-heavy, dystopian New Wave palette that Consequence likens to Depeche Mode. Reviewer Paolo Ragusa says it keeps the band\u0027s habit of drawing listeners in before turning on them, and that it refuses to simplify even as their audience grows. A recurring theme of screens, film and spectatorship gives it a loose argument.",
-                                    "Highlights are the hypnotic lead single \"Marianne\", the quietly bitter \"Happy for You\" and the frantic \"Tongue\". The weak points: there is no obvious festival anthem, and the Rosalía duet \"Where Is Gone?\" is called the driest track. Overall it reads as a bolder, better-built follow-up to Romance."
-                                ],
-                        "pts":  [
-                                    "Grade B+ (Consequence)",
-                                    "Start with \"Marianne\", \"Happy for You\", \"Tongue\"",
-                                    "For fans of Depeche Mode, Romance-era Fontaines"
-                                ],
-                        "src":  "Consequence",
-                        "site":  "consequence.net",
-                        "url":  "https://consequence.net/2026/10/fontaines-dc-dopamine-chamber-review/",
-                        "min":  4,
-                        "q":  "Fontaines D.C. Dopamine Chamber",
-                        "score":  "B+",
-                        "scoreNote":  "Consequence",
-                        "img":  "img/2026-10-25/s10.jpg",
-                        "published":  "2026-10-14"
-                    },
-                    {
-                        "t":  "music",
-                        "kind":  "New list",
-                        "h":  "Stereogum\u0027s 5 best songs of the week",
-                        "why":  "Indie",
-                        "sum":  [
-                                    "Stereogum\u0027s weekly staff picks lean indie this time. Cloud Nothings\u0027 \"Death Keeps Me Alive\" gets the strongest praise, possibly the band\u0027s best song, adding metal heft to their old chaotic energy. Worldpeace DMT\u0027s \"Ringtone\" is a charming love song that revives 2000s blog-era twee with a cyborg twist.",
-                                    "The rest: sadie\u0027s buoyant \"Little Things\", which makes ordinary life feel magical; Hannah Frances\u0027 \"Circadian Heart\", a restless folk-jazz track about chasing emotionally unavailable people that ends cathartically; and Bassvictim\u0027s \"White Flag\", a combative lo-fi electroclash song about surrender."
-                                ],
-                        "pts":  [
-                                    "Start with Cloud Nothings, \"Death Keeps Me Alive\"",
-                                    "Five tracks, roughly 20 minutes of listening",
-                                    "For fans of noisy indie and art-folk"
-                                ],
-                        "src":  "Stereogum",
-                        "site":  "stereogum.com",
-                        "url":  "https://stereogum.com/2515345/the-5-best-songs-of-the-week-649/lists/the-5-best-songs-of-the-week",
-                        "min":  3,
-                        "img":  "img/2026-10-25/s11.jpg",
-                        "published":  "2026-10-23"
-                    },
-                    {
-                        "t":  "music",
-                        "kind":  "News",
-                        "h":  "Cloud Nothings go heavy on new album",
-                        "why":  "Alt rock",
-                        "sum":  [
-                                    "Cloud Nothings announced What Kind of Hell Did You Survive?, a nine-track album due 29 January on Pure Noise. It follows 2024\u0027s Final Summer. Frontman Dylan Baldi says the record pays tribute to heavy music he has been listening to, naming Queens of the Stone Age, Motörhead, Earth and Electric Wizard.",
-                                    "The lead single \"Death Keeps Me Alive\" is a doomy riff-driven track, with a video by Alex Scalzo-Brown. Stereogum compares it to Cave-In and the Wipers. The band also listed 12 November dates in the UK, Spain and Portugal."
-                                ],
-                        "pts":  [
-                                    "Out 29 January via Pure Noise",
-                                    "Single: \"Death Keeps Me Alive\"",
-                                    "For fans of Attack On Memory, QOTSA"
-                                ],
-                        "src":  "Stereogum",
-                        "site":  "stereogum.com",
-                        "url":  "https://stereogum.com/2515191/cloud-nothings-announce-new-album-what-kind-of-hell-did-you-survive-hear-death-keeps-me-alive/music",
-                        "min":  3,
-                        "q":  "Cloud Nothings",
-                        "img":  "img/2026-10-25/s12.jpg",
-                        "published":  "2026-10-21"
-                    },
-                    {
-                        "t":  "music",
-                        "kind":  "Album review",
-                        "h":  "Ugly\u0027s proggy debut The South Facade dazzles",
-                        "why":  "Indie",
-                        "sum":  [
-                                    "South London\u0027s Ugly, a live fixture for about a decade, released their debut The South Facade on 23 October. Best Fit\u0027s Cal Cashin says they have moved from early indie rock, influenced by King Krule and Bloc Party, into jazz fusion and prog, chasing the open spirit of 1970s music rather than showing off.",
-                                    "The review says the dense arrangements and bursts of fierce playing stay catchy because sweet melodies balance them. It points to Steely Dan, Primus and XTC as reference points and to Black Country, New Road as peers. It calls the album one of 2026\u0027s most creative debuts, with \"Gavement\" as its peak."
-                                ],
-                        "pts":  [
-                                    "Score 8/10 (Best Fit)",
-                                    "Start with \"Gavement\", \"Wasteland\"",
-                                    "For fans of Black Country, New Road"
-                                ],
-                        "src":  "The Line of Best Fit",
-                        "site":  "thelineofbestfit.com",
-                        "url":  "https://www.thelineofbestfit.com/albums/ugly-are-anything-but-on-their-sparkling-proggy-debut",
-                        "min":  3,
-                        "q":  "Ugly The South Facade",
-                        "score":  "8/10",
-                        "scoreNote":  "The Line of Best Fit",
-                        "published":  "2026-10-23"
-                    },
-                    {
-                        "t":  "music",
-                        "kind":  "Album review",
-                        "h":  "Michael Kiwanuka\u0027s Fudge, made before his stroke",
-                        "why":  "Indie / soul rock",
-                        "sum":  [
-                                    "Kiwanuka\u0027s new album Fudge (Polydor, out 23 October) was finished before the stroke that upended his life. NME\u0027s Fred Garratt-Stanley says it continues 2024\u0027s Small Changes, with warm guitars, soft soul and strings, but is more playful and experimental and has some darker corners.",
-                                    "Knowing about his illness and recovery gives the vocals and lyrics extra weight, and the review frames the record as a snapshot of an artist just before a turning point. Standouts named are \"Sing\", \"California\", \"Drowning in Your Heart\" and \"Love In My Heart\"."
-                                ],
-                        "pts":  [
-                                    "Out 23 October on Polydor",
-                                    "Start with \"Sing\", \"California\"",
-                                    "For fans of Small Changes, Love \u0026 Hate"
-                                ],
-                        "src":  "NME",
-                        "site":  "nme.com",
-                        "url":  "https://www.nme.com/reviews/album/michael-kiwanuka-fudge-review-3973478",
-                        "min":  3,
-                        "q":  "Michael Kiwanuka Fudge",
-                        "img":  "img/2026-10-25/s14.jpg",
-                        "published":  "2026-10-19"
-                    },
-                    {
-                        "t":  "music",
-                        "kind":  "News",
-                        "h":  "Ryan Gosling\u0027s Dead Man\u0027s Bones return after 17 years",
-                        "why":  "Indie",
-                        "sum":  [
-                                    "Dead Man\u0027s Bones, the eerie indie project from Ryan Gosling and Zach Shields, posted a spooky teaser promising new music on 27 October, just before Halloween. ANTI-, which released their 2009 self-titled debut, shared the teaser too. The post doesn\u0027t say whether it\u0027s a single, EP or album, or give a title.",
-                                    "The 2009 record featured the Silverlake Conservatory Children\u0027s Choir, and the band toured briefly around that Halloween before going quiet. Fans had spotted hints from Gosling\u0027s stylist beforehand, and Eva Mendes reposted the teaser."
-                                ],
-                        "pts":  [
-                                    "New music due 27 October",
-                                    "Label: ANTI-",
-                                    "For fans of haunted, choir-backed indie"
-                                ],
-                        "src":  "Stereogum",
-                        "site":  "stereogum.com",
-                        "url":  "https://stereogum.com/2515395/ryan-goslings-spooky-indie-band-dead-man-bones-announce-first-new-music-in-17-years/news",
-                        "min":  2,
-                        "q":  "Dead Man\u0027s Bones",
-                        "img":  "img/2026-10-25/s15.jpg",
-                        "published":  "2026-10-23"
-                    },
-                    {
-                        "t":  "music",
-                        "kind":  "News",
-                        "h":  "The Black Parade turns 20: why it\u0027s MCR\u0027s masterpiece",
-                        "why":  "Alt rock",
-                        "sum":  [
-                                    "Tom Breihan\u0027s anniversary essay argues My Chemical Romance\u0027s 2006 album is a true classic because the band went all-in on a huge theatrical concept. He says the costumes, the concept and producer Rob Cavallo placed them alongside the rock giants of the \u002770s to \u002790s rather than their emo peers. He admits he underrated the album at the time.",
-                                    "He ties it to the mid-2000s emo boom, the last time guitar rock ruled youth culture. He also recalls that it debuted at No. 2 behind the Hannah Montana soundtrack, went quadruple platinum and gave the band their only top-10 hit. He praises \"I Don\u0027t Love You\" as a rare modern power ballad and calls \"Teenagers\" his favourite."
-                                ],
-                        "pts":  [
-                                    "Long read, about 2,400 words",
-                                    "Start with \"Welcome To The Black Parade\", \"Teenagers\"",
-                                    "The reunited band plays it in full on tour"
-                                ],
-                        "src":  "Stereogum",
-                        "site":  "stereogum.com",
-                        "url":  "https://stereogum.com/2515071/the-black-parade-turns-20/reviews/the-anniversary",
-                        "min":  10,
-                        "q":  "My Chemical Romance The Black Parade",
-                        "img":  "img/2026-10-25/s16.jpg",
-                        "published":  "2026-10-23"
-                    },
-                    {
-                        "t":  "music",
-                        "kind":  "News",
-                        "h":  "Indie rock club Bottom of the Hill is saved",
-                        "why":  "Indie",
-                        "sum":  [
-                                    "San Francisco\u0027s Bottom of the Hill, a long-time stop on the indie rock touring circuit, won\u0027t close after all. Its owners announced in January that 2026 would be its last year, but after an outpouring of support they decided to sell instead. The buyer is Michele Bronson, a biotech scientist who has been a regular since the early \u002790s.",
-                                    "She plans to keep the staff, keep it independent and focused on emerging artists, keep taking no cut of band merch sales, and maybe bring back its old Sunday barbecues. After a month-long refit, the outgoing owners will host a farewell week of shows at year\u0027s end, including Shannon Shaw and Mark Eitzel."
-                                ],
-                        "pts":  [
-                                    "New owner keeps the staff and booking ethos",
-                                    "Closes for one month for a refit",
-                                    "Farewell week of shows at year\u0027s end"
-                                ],
-                        "src":  "Stereogum",
-                        "site":  "stereogum.com",
-                        "url":  "https://stereogum.com/2515460/bottom-of-the-hill-isnt-closing-after-all/news",
-                        "min":  2,
-                        "img":  "img/2026-10-25/s17.jpg",
-                        "published":  "2026-10-23"
                     },
                     {
                         "t":  "music",
@@ -396,401 +217,578 @@
                         "min":  0
                     },
                     {
-                        "t":  "fashion",
+                        "t":  "music",
                         "kind":  "News",
-                        "h":  "Telfar SS27: Paris invite, Brooklyn runway",
-                        "why":  "Telfar",
+                        "h":  "Dallas Cowboys Cheerleaders take My Chemical Romance to court",
+                        "why":  "Alt-rock icons, Black Parade anniversary",
                         "sum":  [
-                                    "Telfar teased a Paris Fashion Week comeback for 6 October, then put the actual SS27 show on in Brooklyn and livestreamed it to the guests waiting in Paris. The collection turned office suiting inside out for the street and brought in pixelated leopard and snake prints, made by scanning real skins, on sheer shirts and baby tees.",
-                                    "New T-shirt shapes include a plus-sign \u0027Cross-T\u0027 and a \u0027Skew-T\u0027 inspired by pager culture. Inside-out fleece became cashmere-like cardigans, and worn sweats were padded into moto-style armour. A new mystery bag shape appeared on the runway and is due next year. A big sample sale opened alongside the show."
+                                    "My Chemical Romance are playing The Black Parade in full at the Hollywood Bowl for its 20th anniversary, and the staging includes a fictional regime storyline. During the show on October 22, dancers dressed like Dallas Cowboys Cheerleaders did a routine during \"Teenagers\", then joined a staged shootout with the regime\u0027s soldiers during \"Disenchanted\".",
+                                    "The company that owns the Cheerleaders brand asked a court for a temporary restraining order and injunction. It says fans online mistook the dancers for the real squad and that the violent skit could harm its image. MCR ignored a cease-and-desist letter and repeated the bit at the second Bowl show."
                                 ],
                         "pts":  [
-                                    "Shown 6 Oct 2026, Brooklyn, livestreamed to Paris",
-                                    "New bag silhouette due in 2027",
-                                    "No SS27 shop date yet"
+                                    "Filing seeks a restraining order and injunction",
+                                    "Band repeated the skit the next night anyway",
+                                    "Filed the same day the real Cheerleaders unionized"
                                 ],
-                        "src":  "Hypebae",
-                        "site":  "hypebae.com",
-                        "url":  "https://hypebae.com/2026/10/telfar-ss27-runway-collection-pfw-sample-sale-bags-info",
+                        "src":  "Stereogum",
+                        "site":  "stereogum.com",
+                        "url":  "https://www.stereogum.com/2515526/dallas-cowboys-cheerleaders-take-legal-action-against-my-chemical-romance-over-staged-shootout/news",
                         "min":  3,
-                        "img":  "img/2026-10-25/s19.jpg",
-                        "published":  "2026-10-07"
-                    },
-                    {
-                        "t":  "fashion",
-                        "kind":  "Sneaker drops",
-                        "h":  "Salomon x Protect \u0027Slushie\u0027 drops Oct 28",
-                        "why":  "Sneakers · loud colors",
-                        "sum":  [
-                                    "London streetwear label Protect has redone Salomon\u0027s ACS NEXT with a \u0027Lava Falls/Cyber Yellow\u0027 colourway. Gradients in the style of a slushie drink fade across the upper, with bright yellow hits and sharp accents throughout.",
-                                    "It\u0027s a global release this Wednesday, sold only through Protect\u0027s own webstore, so expect it to move fast. It\u0027s an easy way to add colour to a casual tomboy outfit, and the trail-runner shape keeps it practical for Jakarta rain."
-                                ],
-                        "pts":  [
-                                    "Release: 28 Oct 2026, global",
-                                    "Only at protectldn.com",
-                                    "Price not announced"
-                                ],
-                        "src":  "Hypebae",
-                        "site":  "hypebae.com",
-                        "url":  "https://hypebae.com/2026/10/salomon-protect-acs-next-protect-slushie-sneaker-collab-release-date-where-to-buy",
-                        "min":  2,
-                        "img":  "img/2026-10-25/s20.jpg",
-                        "published":  "2026-10-23"
-                    },
-                    {
-                        "t":  "fashion",
-                        "kind":  "Collab",
-                        "h":  "Converse x Vaquera turn a skate shoe into a kitten heel",
-                        "why":  "Niche · whimsy · sneakers",
-                        "sum":  [
-                                    "Vaquera, the New York label known for its oddball humour, has turned Converse\u0027s archived CS Pro-1 skate shoe into the VX-1 Heel, a kitten-heel version. It keeps the skate details: perforated suede, a padded mesh tongue, wide laces through moulded eyelet covers, the Star Chevron logo and a gum sole, with a see-through heel added.",
-                                    "Kim Petras fronts the campaign, posed inside a tiny dollhouse to play with scale. It follows the pair\u0027s 2025 Chuck Taylor collab, and it\u0027s a cheeky way to wear sneakers when you\u0027d rather not wear heels."
-                                ],
-                        "pts":  [
-                                    "Release: 27 Oct 2026",
-                                    "Converse and vaquera.nyc",
-                                    "Price not listed"
-                                ],
-                        "src":  "Hypebae",
-                        "site":  "hypebae.com",
-                        "url":  "https://hypebae.com/2026/10/converse-vaquera-collaboration-skate-shoe-vx-1-heel-kim-petras-release-date-where-to-buy",
-                        "min":  2,
-                        "img":  "img/2026-10-25/s21.jpg",
-                        "published":  "2026-10-21"
-                    },
-                    {
-                        "t":  "fashion",
-                        "kind":  "Sneaker drops",
-                        "h":  "Vans \u0027Meet The Vans\u0027 holiday: sequins, fleece, plaid",
-                        "why":  "Sneakers · rock · playful",
-                        "sum":  [
-                                    "For the second season of its \u0027Meet The Vans\u0027 holiday campaign, Vans cast musicians and skaters including Nettspend, Samara Cyn, Devon Again and Geoff Rowley. The collection has two halves. Weatherised Half Cab and Sk8-Hi pairs get thermal insulation and grippy soles. Old Skool, Knu Skool, Authentic and Mule Platform styles get party textures: high-pile fleece, metallic sequins and winter plaids.",
-                                    "The standout is a Premium Old Skool 36 with silver sequins on the eyestay and laces over grey-and-white tweed. It\u0027s skate-punk with some sparkle, and works with baggy jeans."
-                                ],
-                        "pts":  [
-                                    "Out now",
-                                    "vans.com and select retailers",
-                                    "Prices not listed"
-                                ],
-                        "src":  "Hypebae",
-                        "site":  "hypebae.com",
-                        "url":  "https://hypebae.com/2026/10/vans-holiday-26-collection-nettspend-samara-cyn-devon-again-sneakers-campaign-info-where-to-buy",
-                        "min":  2,
-                        "img":  "img/2026-10-25/s22.jpg",
-                        "published":  "2026-10-23"
-                    },
-                    {
-                        "t":  "fashion",
-                        "kind":  "News",
-                        "h":  "Jakarta Fashion Week 2027 opens tomorrow at PIM 3",
-                        "why":  "Jakarta scene · local labels",
-                        "sum":  [
-                                    "JFW 2027 runs from 26 October to 1 November 2026 at City Hall, Pondok Indah Mall 3, under the theme \u0027City of New Lights\u0027. 111 designers will show, alongside the Fashion Force Awards, Fashionlink and Dewi Fashion Knights programmes.",
-                                    "The SEA WAVES exhibition, run with the Ministry of Tourism, adds installations on Southeast Asian weaving and traditional craft. Tickets are sold through ISMAYA+. Some shows are open to the public after registering, while others are invite-only, so check the schedule before you head down to PIM."
-                                ],
-                        "pts":  [
-                                    "26 Oct – 1 Nov 2026",
-                                    "City Hall, Pondok Indah Mall 3",
-                                    "Tickets via ISMAYA+"
-                                ],
-                        "src":  "Popmama",
-                        "site":  "popmama.com",
-                        "url":  "https://www.popmama.com/life/fashion-and-beauty/pekan-mode-terbesar-tanah-air-jakarta-fashion-week-jfw-2027-00-2jg2k-j66z8y",
-                        "min":  3,
-                        "img":  "img/2026-10-25/s23.jpg",
-                        "published":  "2026-10-20"
-                    },
-                    {
-                        "t":  "fashion",
-                        "kind":  "Sneaker drops",
-                        "h":  "Focus x New Balance 480 \u0027unicorn\u0027 skate shoe",
-                        "why":  "Sneakers · color · whimsy",
-                        "sum":  [
-                                    "Scottish skate shop Focus has made a New Balance Numeric 480 inspired by Scotland\u0027s national animal, the unicorn, with trippy unicorn graphics. Teal suede and white pebbled leather nod to the Scottish flag, and orange accents are a wink at Irn-Bru soda.",
-                                    "It\u0027s on sale now through Focus, in a special box edition, and through other skate shops. A colourful, slightly silly skate shoe like this is a good fit for a tomboy-casual wardrobe."
-                                ],
-                        "pts":  [
-                                    "Out now",
-                                    "US$115–150",
-                                    "Focus webstore + skate shops"
-                                ],
-                        "src":  "Highsnobiety",
-                        "site":  "highsnobiety.com",
-                        "url":  "https://www.highsnobiety.com/p/focus-new-balance-numeric-480/",
-                        "min":  2,
+                        "q":  "My Chemical Romance The Black Parade",
+                        "img":  "img/2026-10-26/s11.jpg",
                         "published":  "2026-10-24"
                     },
                     {
-                        "t":  "fashion",
-                        "kind":  "Sneaker drops",
-                        "h":  "JW Anderson previews the teal \u0027Run Rabbit\u0027 runner",
-                        "why":  "Sneakers · color · whimsy",
+                        "t":  "music",
+                        "kind":  "News",
+                        "h":  "Turnstile play to 60,000 at the Washington Monument for aid",
+                        "why":  "Rock\u0027s biggest crossover band right now",
                         "sum":  [
-                                    "Jonathan Anderson has given a first look at the \u0027Run Rabbit\u0027, a new running-style sneaker for JW Anderson. It takes the proportions of a modern runner and adds the label\u0027s exaggerated styling, in saturated teal suede with ochre-yellow accents.",
-                                    "The details are playful: two-tone patterned flat laces paired with a round teal rope lace, and an orange charm like a die with a running rabbit on it. Price, release date and stockists are still to be confirmed."
+                                    "Baltimore hardcore band Turnstile closed the latest leg of their Never Enough tour with a free benefit show at the Washington Monument on Saturday, drawing an estimated 60,000 people. Run with Human Concern International, it raised money for humanitarian relief in Palestine, Sudan and Lebanon, beating a $100,000 goal to pass $220,000 by Sunday.",
+                                    "Frontman Brendan Yates, nursing an injured ankle, called it a homecoming and led a 19-song, 75-minute set. The free show echoes Fugazi\u0027s 1990s gigs near the same spot. Turnstile won two Grammys this year, including Best Rock Album, and play Camp Flog Gnaw next month."
                                 ],
                         "pts":  [
-                                    "Release date TBC",
-                                    "Price TBC",
-                                    "Teal suede, ochre accents"
+                                    "Estimated 60,000 people, free entry",
+                                    "Over $220,000 raised, more than double the goal",
+                                    "Echoes Fugazi\u0027s free DC shows of the 1990s"
                                 ],
-                        "src":  "Hypebeast",
-                        "site":  "hypebeast.com",
-                        "url":  "https://hypebeast.com/2026/10/jonathan-anderson-previews-the-jw-anderson-run-rabbit-runner",
+                        "src":  "Consequence",
+                        "site":  "consequence.net",
+                        "url":  "https://consequence.net/2026/10/turnstile-draw-60000-fans-to-washington-monument-raise-over-220000-for-humanitarian-aid/",
                         "min":  2,
-                        "img":  "img/2026-10-25/s25.jpg",
+                        "q":  "Turnstile Never Enough",
+                        "img":  "img/2026-10-26/s12.jpg",
+                        "published":  "2026-10-25"
+                    },
+                    {
+                        "t":  "music",
+                        "kind":  "News",
+                        "h":  "Sam Fender scraps premium standing tickets after fan backlash",
+                        "why":  "Indie-rock star taking on ticket pricing",
+                        "sum":  [
+                                    "Fans complained about prices for Sam Fender\u0027s 2027 UK stadium tour, which included a front-standing tier costing about £131 at Wembley. Fender said he hadn\u0027t known about the split standing areas and that prices had climbed higher than he wanted. He has now dropped the premium tier, so every standing ticket has the same chance of reaching the front.",
+                                    "General standing is now £85 and seats run from £55 to £95, before fees. The tour starts with two shows at St James\u0027 Park in Newcastle in June, with Wunderhorse supporting. Fans who pre-order his upcoming fourth album get a pre-sale on October 28. General sale opens October 30."
+                                ],
+                        "pts":  [
+                                    "Front-standing tier dropped; standing now £85",
+                                    "Album pre-order pre-sale starts Oct 28",
+                                    "Wunderhorse support the stadium dates"
+                                ],
+                        "src":  "NME",
+                        "site":  "nme.com",
+                        "url":  "https://www.nme.com/news/music/sam-fender-scraps-front-standing-tickets-reduced-prices-2027-stadium-tour-3974164",
+                        "min":  3,
+                        "img":  "img/2026-10-26/s13.jpg",
+                        "published":  "2026-10-25"
+                    },
+                    {
+                        "t":  "music",
+                        "kind":  "New list",
+                        "h":  "Stereogum\u0027s 5 best songs: Cloud Nothings go heavy",
+                        "why":  "Indie playlist fodder, Pitchfork-style picks",
+                        "sum":  [
+                                    "Stereogum\u0027s weekly top five puts Cloud Nothings first with \"Death Keeps Me Alive\", a standout from a new album where metal sharpens the band\u0027s sound. Next is Bassvictim\u0027s \"White Flag\", a harsh lo-fi electroclash song about surrender that sounds more like a fight. Third is Hannah Frances\u0027s \"Circadian Heart\", a restless, shape-shifting song about chasing people you can\u0027t have that ends in release.",
+                                    "The last two are sadie\u0027s bright, bouncy \"Little Things\", which makes ordinary details feel magical, and Worldpeace DMT\u0027s \"Ringtone\", a catchy love song that is both elegant and cheesy. Indie and alt fans have a lot to add to their playlists here."
+                                ],
+                        "pts":  [
+                                    "No. 1: Cloud Nothings, \"Death Keeps Me Alive\"",
+                                    "Also: Bassvictim, Hannah Frances, sadie, Worldpeace DMT",
+                                    "Heavy on indie and alt-rock"
+                                ],
+                        "src":  "Stereogum",
+                        "site":  "stereogum.com",
+                        "url":  "https://stereogum.com/2515345/the-5-best-songs-of-the-week-649/lists/the-5-best-songs-of-the-week/",
+                        "min":  3,
+                        "q":  "Cloud Nothings Death Keeps Me Alive",
+                        "img":  "img/2026-10-26/s14.jpg",
+                        "published":  "2026-10-23"
+                    },
+                    {
+                        "t":  "music",
+                        "kind":  "Album review",
+                        "h":  "Ugly\u0027s debut The South Facade is a prog-pop thrill",
+                        "why":  "Adventurous UK indie in your lane",
+                        "sum":  [
+                                    "London band Ugly have built a following over about ten years. Their debut album leaves behind the Bloc Party-style indie of their early singles for progressive rock and jazz fusion. The Line of Best Fit compares them to Black Country, New Road: dense arrangements, intricate melodies and bright harmonies that stay catchy rather than tiring.",
+                                    "Highlights include the yacht-rock gloss of \"Die Another Day\", the piano-rock and Santana-style solo of \"In Samphedoo\", and \"Gavement\", which the review calls the peak. It places Ugly closer to eccentric British pop like XTC than to show-off prog. The verdict: one of 2026\u0027s most creative debuts."
+                                ],
+                        "pts":  [
+                                    "Prog and jazz-fusion turn from a London indie band",
+                                    "For fans of Black Country, New Road",
+                                    "Best track: \"Gavement\""
+                                ],
+                        "src":  "The Line of Best Fit",
+                        "site":  "thelineofbestfit.com",
+                        "url":  "https://www.thelineofbestfit.com/albums/ugly-are-anything-but-on-their-sparkling-proggy-debut",
+                        "min":  2,
+                        "q":  "Ugly The South Facade",
+                        "score":  "8/10",
+                        "scoreNote":  "The Line of Best Fit",
+                        "published":  "2026-10-23"
+                    },
+                    {
+                        "t":  "music",
+                        "kind":  "Album review",
+                        "h":  "Michael Kiwanuka\u0027s FUDGE drifts beautifully, sometimes too long",
+                        "why":  "Soulful alt-rock for slow mornings",
+                        "sum":  [
+                                    "Kiwanuka\u0027s new album was delayed almost a year by health problems. It is his first since 2012 made without producers Inflo and Danger Mouse, yet it keeps their dreamy, psychedelic looseness. The Line of Best Fit praises the floating opening stretch, including \"Summer Clothes\" and \"Love In My Heart\", plus the fuzzier guitars of \"Stars\".",
+                                    "The main complaint is length. At just over an hour, tracks like \"You Sent Me Flying\" and \"Steve\u0027s Paradis\" linger without going anywhere. Still, the review finds it moving that he lets himself wander after a hard stretch, calling the album often beautiful and sometimes strange. NME is warmer and reads it as a powerful portrait of fragility."
+                                ],
+                        "pts":  [
+                                    "First album since 2012 without Inflo and Danger Mouse",
+                                    "Standout tracks: \"Summer Clothes\" and \"Stars\"",
+                                    "Main complaint: over an hour long"
+                                ],
+                        "src":  "The Line of Best Fit",
+                        "site":  "thelineofbestfit.com",
+                        "url":  "https://www.thelineofbestfit.com/albums/on-fudge-michael-kiwanuka-makes-peace-with-taking-his-time",
+                        "min":  3,
+                        "q":  "Michael Kiwanuka FUDGE",
+                        "score":  "7/10",
+                        "scoreNote":  "The Line of Best Fit",
+                        "published":  "2026-10-21"
+                    },
+                    {
+                        "t":  "music",
+                        "kind":  "Album review",
+                        "h":  "The Black Parade at 20: emo\u0027s arena-sized masterpiece",
+                        "why":  "Alt-rock classic, timely with MCR news",
+                        "sum":  [
+                                    "For the album\u0027s 20th anniversary, Stereogum\u0027s Tom Breihan says he was wrong to brush off The Black Parade in 2006. He argues it is My Chemical Romance\u0027s masterpiece and the defining record of emo\u0027s arena era, the last time guitar rock truly dominated youth culture. The band went all in on a concept, costumes and a story mapped out before the songs were written.",
+                                    "He hears them reaching for Queen and the Smashing Pumpkins rather than their Warped Tour peers. He admits flaws like the \"Mama\" section and names \"Teenagers\" the best track. The album went quadruple platinum, and he says the stadium-sized reunion shows confirm its standing."
+                                ],
+                        "pts":  [
+                                    "Writer admits he underrated it in 2006",
+                                    "Best track, he says: \"Teenagers\"",
+                                    "Went 4x platinum; reunion shows play it in full"
+                                ],
+                        "src":  "Stereogum",
+                        "site":  "stereogum.com",
+                        "url":  "https://stereogum.com/2515071/the-black-parade-turns-20/reviews/the-anniversary",
+                        "min":  8,
+                        "q":  "My Chemical Romance The Black Parade",
+                        "img":  "img/2026-10-26/s17.jpg",
+                        "published":  "2026-10-23"
+                    },
+                    {
+                        "t":  "fashion",
+                        "kind":  "News",
+                        "h":  "Cabinet Couture: the Instagram tracking Indonesian officials\u0027 luxury",
+                        "why":  "Jakarta scene, fashion as protest",
+                        "sum":  [
+                                    "An anonymous collective behind the Instagram account Cabinet Couture photographs Indonesian politicians and their families flaunting designer goods, identifies each item and reposts it with a price tag. It started days after the September 2025 protests sparked by the police killing of delivery rider Affan Kurniawan, gained almost 120,000 followers in a week and now has over 277,000.",
+                                    "Its original account was geo-blocked inside Indonesia by the communications ministry, so the team relaunched as season 2. Their core point is the gap between officials\u0027 declared wealth reports (LHKPN) and their visible lifestyles. Fans and luxury-industry insiders send tips, and the group links the work to the wider 17+8 reform demands."
+                                ],
+                        "pts":  [
+                                    "Started after the Sept 2025 Jakarta protests; 277k+ followers",
+                                    "First account blocked in Indonesia, now @cabinetcouture_season2",
+                                    "Compares LHKPN wealth reports with flexed designer buys"
+                                ],
+                        "src":  "Dazed",
+                        "site":  "dazeddigital.com",
+                        "url":  "https://www.dazeddigital.com/fashion/article/71217/1/cabinet-couture-instagram-young-indonesians-fashion-expose-corrupt-government",
+                        "min":  4,
+                        "img":  "img/2026-10-26/s18.jpg",
                         "published":  "2026-10-22"
                     },
                     {
                         "t":  "fashion",
-                        "kind":  "Collab",
-                        "h":  "KEEN x Collina Strada: hiking shoes with flowers",
-                        "why":  "Niche · whimsy · color",
-                        "sum":  [
-                                    "Collina Strada, Hillary Taymour\u0027s colourful and eco-minded label, has reworked two KEEN outdoor shoes. The Targhee EXP boot gets a side zip and a big handmade rosette. The Jasper Rocks sneaker gets a translucent climbing sole, plaid and floral details, and a removable fabric flower clipped through the laces.",
-                                    "Both have vegan satin-look uppers inspired by Victorian boots, with recycled linings. It\u0027s gorpcore with a romantic twist that still feels sporty."
-                                ],
-                        "pts":  [
-                                    "Out now, limited edition",
-                                    "keenfootwear.com, collinastrada.com",
-                                    "Prices not listed"
-                                ],
-                        "src":  "Hypebae",
-                        "site":  "hypebae.com",
-                        "url":  "https://hypebae.com/2026/10/keen-collina-strada-collaboration-jasper-rocks-targhee-exp-gorpcore-where-to-buy",
-                        "min":  2,
-                        "img":  "img/2026-10-25/s26.jpg",
-                        "published":  "2026-10-16"
-                    },
-                    {
-                        "t":  "fashion",
                         "kind":  "New label",
-                        "h":  "Eden Sherry\u0027s laced leather lands on Chappell Roan",
-                        "why":  "Rock · niche label",
+                        "h":  "Chappell Roan\u0027s laced leather top is from Eden Sherry",
+                        "why":  "Rock-edged look from an indie label",
                         "sum":  [
-                                    "Chappell Roan joined Charli xcx on tour for a viral \u0027Boom Clap\u0027 duet, wearing a slashed black leather top with grommets, held together by laces, from London designer Eden Sherry. Stylist Hunter Clem commissioned it to match the rock-leaning feel of Charli\u0027s latest era.",
-                                    "Sherry graduated from London College of Fashion in 2024 and launched her label in 2025. She works in deadstock leather and builds clothes to survive nights out. FKA twigs has also worn her work on a Rolling Stone cover. She hopes to stage her first live presentation next summer."
+                                    "When Chappell Roan guested on Charli xcx\u0027s tour, she wore a slashed black leather top studded with grommets and stitched together with laces. Stylist Hunter Clem commissioned it from Eden Sherry, a 2024 London College of Fashion graduate who made it in a single day from London deadstock leather. She calls the shape a cascade of falling belts.",
+                                    "Sherry was born in New Zealand and raised in Hong Kong, and she launched her label in 2025 after winning an award in Portugal. She credits Lady Gaga\u0027s Bad Romance era and McQueen as influences, and FKA twigs has worn one of her bag tops on a Rolling Stone cover. Her first live presentation is planned for next summer."
                                 ],
                         "pts":  [
-                                    "Label launched 2025, London",
-                                    "Deadstock leather, made for nights out",
-                                    "First live show planned 2027"
+                                    "Grommeted, lace-hemmed top made from deadstock leather",
+                                    "Label launched in 2025; FKA twigs is already a fan",
+                                    "First live show planned for summer 2027"
                                 ],
                         "src":  "Dazed",
                         "site":  "dazeddigital.com",
                         "url":  "https://www.dazeddigital.com/fashion/article/71230/1/chappell-roan-charli-xcx-boom-clap-rising-designer-eden-sherry",
                         "min":  4,
-                        "img":  "img/2026-10-25/s27.jpg",
+                        "img":  "img/2026-10-26/s19.jpg",
                         "published":  "2026-10-23"
                     },
                     {
                         "t":  "fashion",
-                        "kind":  "News",
-                        "h":  "Cabinet Couture: the Instagram tracking officials\u0027 luxury",
-                        "why":  "Indonesia · fashion culture",
+                        "kind":  "Style note",
+                        "h":  "Sophia Wilson styles Dr. Martens as a former tomboy",
+                        "why":  "Tomboy-grunge boots inspiration",
                         "sum":  [
-                                    "Dazed profiles Cabinet Couture, an anonymous Indonesian Instagram account that reposts public photos of political elites, identifies the luxury goods they\u0027re wearing and lists the prices. It started in September 2025 after the protests over lawmakers\u0027 allowances and now has more than 277,000 followers.",
-                                    "The original handle was geo-blocked in Indonesia by the communications ministry. The team says officials\u0027 declared wealth often can\u0027t explain what they\u0027re seen wearing. Followers now send in tips, and people who work in luxury retail help identify the pieces. It shows fashion being used for accountability at home."
+                                    "For Dr. Martens\u0027 With Bouncing Soles campaign, which also features Chloë Sevigny and Naomi Watanabe, photographer Sophia Wilson made a portrait series called The Joy of Girlhood. It centers on the brand\u0027s Crazy Horse leather line, which is built to weather with wear. The styling mixes grunge, vintage tailoring and preppy pieces, chosen to show off each sitter\u0027s personality.",
+                                    "Wilson calls herself a former tomboy whose first Docs were holographic. She says artists should make work from their own point of view instead of chasing trends. The project launched with a New York party on October 8, where she wore new 1461s."
                                 ],
                         "pts":  [
-                                    "277k+ followers",
-                                    "Original account geo-blocked in Indonesia",
-                                    "Crowd-sourced tips from followers"
+                                    "Crazy Horse leather is made to age and scuff",
+                                    "Mix of grunge, vintage tailoring and prep",
+                                    "Wilson wore 1461 shoes to the NYC launch"
                                 ],
-                        "src":  "Dazed",
-                        "site":  "dazeddigital.com",
-                        "url":  "https://www.dazeddigital.com/fashion/article/71217/1/cabinet-couture-instagram-young-indonesians-fashion-expose-corrupt-government",
-                        "min":  6,
-                        "img":  "img/2026-10-25/s28.jpg",
+                        "src":  "i-D",
+                        "site":  "i-d.co",
+                        "url":  "https://i-d.co/article/sophia-wilson-dr-martens-bouncing-soles/",
+                        "min":  3,
+                        "img":  "img/2026-10-26/s20.jpg",
+                        "published":  "2026-10-23"
+                    },
+                    {
+                        "t":  "fashion",
+                        "kind":  "Sneaker drops",
+                        "h":  "TYAKASHA x KEEN mismatched green-and-blue slide",
+                        "why":  "Whimsical, colorful, niche Japanese label",
+                        "sum":  [
+                                    "Japanese label TYAKASHA reworked KEEN\u0027s Howser III slip-on so each foot is different: one is forest green and the other is icy Mediterranean blue. Both have nubby fleece-like uppers, warm brown trim, bright orange bungee laces and embroidered patches of the brand\u0027s mascots, Mr. Green and Oring.",
+                                    "It also has a chunky rubber sole and a plush brown lining. The slide released on October 21 for ¥12,650 (about US$80) through KEEN Japan\u0027s online store."
+                                ],
+                        "pts":  [
+                                    "Mismatched colors: green on one foot, blue on the other",
+                                    "Orange bungee laces and mascot embroidery",
+                                    "About US$80 on keenfootwear.jp"
+                                ],
+                        "src":  "Hypebeast",
+                        "site":  "hypebeast.com",
+                        "url":  "https://hypebeast.com/2026/10/tyakasha-keen-howser-iii-slide-mr-green-oring-1032615-release-info",
+                        "min":  1,
+                        "img":  "img/2026-10-26/s21.jpg",
+                        "published":  "2026-10-21"
+                    },
+                    {
+                        "t":  "fashion",
+                        "kind":  "Sneaker drops",
+                        "h":  "Liberaiders turns the adidas Superstar into fuzzy blue",
+                        "why":  "Playful, colorful Superstar",
+                        "sum":  [
+                                    "Tokyo label Liberaiders swapped the adidas Superstar\u0027s smooth leather for long-haired blue material, with smoother blue panels on the eyestays and tongue. The shell toe, laces, sole and Three Stripes are creamy off-white, and the sidewall branding is gold.",
+                                    "An embroidered white origami crane, Liberaiders\u0027 emblem, sits on the tongue and appears again on the insoles and packaging. It comes in this one colorway only and was set to drop on October 24 through Japanese retailer SOULGOODS. The price was not yet confirmed."
+                                ],
+                        "pts":  [
+                                    "Shaggy blue upper on a classic shell toe",
+                                    "Origami crane embroidered on the tongue",
+                                    "One colorway only, sold at SOULGOODS"
+                                ],
+                        "src":  "Hypebeast",
+                        "site":  "hypebeast.com",
+                        "url":  "https://hypebeast.com/2026/10/liberaiders-adidas-originals-superstar-blue-pony-hair-collaboration-soulgoods-release-info",
+                        "min":  1,
+                        "img":  "img/2026-10-26/s22.jpg",
                         "published":  "2026-10-22"
                     },
                     {
-                        "t":  "politics",
-                        "kind":  "Free Palestine",
-                        "h":  "Israel locks down Hebron, 2,000+ forced from homes",
-                        "why":  "West Bank occupation",
+                        "t":  "fashion",
+                        "kind":  "Sneaker drops",
+                        "h":  "Kiko Kostadinov x ASICS GEL-SJ33 in plum and green",
+                        "why":  "Odd, colorful designer runner",
                         "sum":  [
-                                    "Netanyahu ordered a full lockdown of the occupied West Bank after two Palestinian gunmen attacked an Israeli reserve base on Friday, killing two soldiers before being killed. In Hebron, the mayor told Al Jazeera 2,200 people have been forced from their homes, while Defence Minister Israel Katz put it at about 2,000 and said they cannot return until Israel deals with Hamas in the city.",
-                                    "The Palestinian Prisoners\u0027 Society reported around 70 arrests in raids across at least 15 areas. The PA and Israeli rights group B\u0027Tselem called it collective punishment, and UN chief Guterres voiced deep concern over closures and demolitions. Analysts say politicians are exploiting the attack ahead of Tuesday\u0027s Israeli election."
+                                    "Kiko Kostadinov\u0027s ASICS GEL-SJ33 is back in two new colorways. Moonrock/Tatami Green has a taupe-to-grey mesh with teal and mint linework and pale blue stripes. Deep Plum/Fresh Grass has a violet base with black and purple lines, maroon accents and bright green branding.",
+                                    "The shoe is based on the 2010s GEL-Super J33 and adds a heel counter and a medial strap. It runs on GEL-Cumulus 16 tooling with FlyteFoam cushioning. Both pairs released on October 23 for US$170 at asics.com, following two coffee-toned pairs from this summer."
                                 ],
                         "pts":  [
-                                    "Israeli elections Tuesday 27 Oct; all West Bank crossings to close that day",
-                                    "Palestinian workers barred from most areas Sunday to Monday",
-                                    "Activist Issa Amro says about 800,000 people in the Hebron area are under closure"
+                                    "Two colorways: grey/mint and plum/green",
+                                    "US$170 on asics.com",
+                                    "Based on the 2010s GEL-Super J33"
                                 ],
-                        "src":  "Al Jazeera",
-                        "site":  "aljazeera.com",
-                        "url":  "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids",
-                        "min":  5,
-                        "img":  "img/2026-10-25/s29.jpg",
+                        "src":  "Hypebeast",
+                        "site":  "hypebeast.com",
+                        "url":  "https://hypebeast.com/2026/10/kiko-kostadinov-asics-us8-s-gel-sj33-collaboration-moonrock-tatami-green-1203b116-250-deep-plum-fresh-grass-1203b116-500-release-info",
+                        "min":  2,
+                        "img":  "img/2026-10-26/s23.jpg",
+                        "published":  "2026-10-21"
+                    },
+                    {
+                        "t":  "fashion",
+                        "kind":  "Collab",
+                        "h":  "Burna Boy x On: a bright-red Cloudmonster",
+                        "why":  "Loud single-color sneaker",
+                        "sum":  [
+                                    "Burna Boy\u0027s first sneakers with On are out now, tied to his No Giant Stands Alone campaign. The Cloudmonster BB is bright red all over, with darker red tonal branding. THE ROGER Clubhouse BB is an all-white tennis shoe with shaggy textured laces and two red stitch details on the heel.",
+                                    "A Cloudtilt Remix is also planned for the capsule, but it hasn\u0027t been shown yet. Prices start at US$150, through on.com and selected stores. Burna Boy became an On ambassador just over a year ago."
+                                ],
+                        "pts":  [
+                                    "All-red Cloudmonster plus an all-white tennis shoe",
+                                    "From US$150, available now",
+                                    "Cloudtilt Remix still to come"
+                                ],
+                        "src":  "Hypebeast",
+                        "site":  "hypebeast.com",
+                        "url":  "https://hypebeast.com/2026/10/burna-boy-on-debut-first-collaborative-sneakers-cloudmonster-bb-roger-clubouse-release-info",
+                        "min":  2,
+                        "img":  "img/2026-10-26/s24.jpg",
+                        "published":  "2026-10-24"
+                    },
+                    {
+                        "t":  "fashion",
+                        "kind":  "Collab",
+                        "h":  "SATISFY x adidas second running capsule lands Oct 30",
+                        "why":  "Niche cult label, soft colors",
+                        "sum":  [
+                                    "Paris running label SATISFY and adidas are releasing their second Adizero collab: the Adios Pro Evo 2 and an Adios built on the Adios 9, made for track sessions, tempo runs and races up to 10 km. Each comes in an earthy brown or a light blue colorway.",
+                                    "Both have metallic silver Three Stripes, matte gold SATISFY lettering and SATISFY\u0027s tagline printed under the heel tab. The tech includes a Lightlock stretch upper, Lightstrike Pro foam and Continental rubber on the forefoot. The limited release lands October 30 on adidas.com. No price has been announced."
+                                ],
+                        "pts":  [
+                                    "Two shoes, each in Earth brown or light Blue",
+                                    "Limited release on October 30 at adidas",
+                                    "Gold lettering and silver stripes"
+                                ],
+                        "src":  "Hypebeast",
+                        "site":  "hypebeast.com",
+                        "url":  "https://hypebeast.com/2026/10/satisfy-adidas-adios-pro-evo-2-second-collaborative-capsule-release-info",
+                        "min":  2,
+                        "img":  "img/2026-10-26/s25.jpg",
+                        "published":  "2026-10-25"
+                    },
+                    {
+                        "t":  "fashion",
+                        "kind":  "Sneaker drops",
+                        "h":  "Air Max 90 \u0027Light Orewood Brown\u0027 goes patent and see-through",
+                        "why":  "Easy casual sneaker with a twist",
+                        "sum":  [
+                                    "Nike\u0027s latest Air Max 90 has a mesh base with translucent overlays on the sidewalls and around the laces, plus glossy beige patent leather mudguards. The tongue labels and heel tab are clear and glassy, and the outsole is semi-translucent. The palette is mostly Light Orewood Brown and sail, with small touches of blue tint and olive.",
+                                    "A metallic Swoosh hangtag carries a pattern that also appears on the printed insoles. It drops November 1 on nike.com for US$145."
+                                ],
+                        "pts":  [
+                                    "Patent mudguards with clear, glassy details",
+                                    "US$145, out November 1",
+                                    "Neutral base with blue and olive hints"
+                                ],
+                        "src":  "Hypebeast",
+                        "site":  "hypebeast.com",
+                        "url":  "https://hypebeast.com/2026/10/nike-air-max-90-light-orewood-brown-ix8056-104-release-info",
+                        "min":  2,
+                        "img":  "img/2026-10-26/s26.jpg",
+                        "published":  "2026-10-25"
+                    },
+                    {
+                        "t":  "fashion",
+                        "kind":  "New label",
+                        "h":  "Matt Hui\u0027s SS27 turns childhood uniforms into whimsy",
+                        "why":  "Playful niche Asian label",
+                        "sum":  [
+                                    "For his second season, Hong Kong designer Matt Hui riffs on clothes from childhood: school uniforms, PE kits, scout gear, workwear and pajamas. Scarves and ties are built into the garments, pinstripes recur, and the tailoring is softened with odd proportions.",
+                                    "He uses cotton lawn, jersey, paper yarn and cashmere, with floral embroidery, pointelle knits and hand-crocheted flower accessories. Everything follows his one-size-fits-all approach. The campaign is shot as a dreamlike game of hide-and-seek, and no stockists or release dates have been announced yet."
+                                ],
+                        "pts":  [
+                                    "School-uniform and PE-kit references",
+                                    "Crocheted flowers and pointelle knits",
+                                    "One-size-fits-all cuts"
+                                ],
+                        "src":  "Hypebeast",
+                        "site":  "hypebeast.com",
+                        "url":  "https://hypebeast.com/2026/10/matt-hui-spring-summer-2027-collection-live-to-the-fullest-lookbooks-info",
+                        "min":  2,
+                        "img":  "img/2026-10-26/s27.jpg",
                         "published":  "2026-10-24"
                     },
                     {
                         "t":  "politics",
                         "kind":  "Free Palestine",
-                        "h":  "Gaza bakeries shut as flour stops arriving",
-                        "why":  "Gaza humanitarian crisis",
+                        "h":  "Israel strikes Gaza\u0027s Islamic University twice in hours; eight killed across Gaza",
+                        "why":  "Gaza: ceasefire killings continue",
                         "sum":  [
-                                    "Ten of Gaza\u0027s 17 operating commercial bakeries have closed because no commercial flour has entered for about 10 days, according to the head of Gaza\u0027s bakery owners\u0027 association. Residents are queuing for hours for bread, and Gaza\u0027s social development ministry warned of an imminent humanitarian catastrophe and accused Israel of a policy of starvation.",
-                                    "Israel suspended commercial shipments on 14 October, citing a tax dispute with Hamas-run authorities, which Hamas and importers deny. At the same time, the WFP is cutting food aid to more than 500,000 people over lack of funding. Under the October 2025 ceasefire Israel agreed to at least 600 aid trucks a day; about 200 enter on average."
+                                    "Israeli attacks killed at least eight Palestinians across Gaza on Sunday, Al Jazeera reports. Two strikes hit the Islamic University campus in Gaza City within hours: a drone strike wounded seven female students, then an air strike killed three security guards. Other deaths were reported in al-Mawasi near Khan Younis, east of Deir el-Balah and near Hamad Hospital in the north, according to hospitals and the Wafa agency.",
+                                    "Gaza\u0027s Health Ministry says at least 1,551 people have been killed since the October 2025 ceasefire began, and 74,544 since October 2023. UNESCO estimates nearly 95% of Gaza\u0027s higher-education campuses are destroyed or damaged. Israel controls or restricts almost two-thirds of the Strip while food shortages worsen."
                                 ],
                         "pts":  [
-                                    "21 WFP-backed bakeries cover only about a quarter of bread needs",
-                                    "UN/IPC: 1.4 million people face crisis-level hunger or worse",
-                                    "More bakeries may close within days without new flour"
+                                    "Islamic University hit twice in one day; three guards killed, seven students hurt",
+                                    "Health Ministry: 1,551 killed since the \u0027ceasefire\u0027 began",
+                                    "UNESCO: ~95% of Gaza university campuses damaged or destroyed"
                                 ],
-                        "src":  "Middle East Eye",
-                        "site":  "middleeasteye.net",
-                        "url":  "https://www.middleeasteye.net/news/gaza-bakeries-shut-israel-blocks-flour-shipments",
-                        "min":  3,
-                        "img":  "img/2026-10-25/s30.jpg",
-                        "published":  "2026-10-23"
+                        "src":  "Al Jazeera",
+                        "site":  "aljazeera.com",
+                        "url":  "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites",
+                        "min":  2,
+                        "img":  "img/2026-10-26/s28.jpg",
+                        "published":  "2026-10-25"
                     },
                     {
                         "t":  "politics",
                         "kind":  "Free Palestine",
-                        "h":  "Activists win injunction, take US Gaza case to ICC",
-                        "why":  "Antizionist legal win",
+                        "h":  "Hebron under lockdown: 2,500 forced out, homes turned into army posts",
+                        "why":  "West Bank: displacement and annexation",
                         "sum":  [
-                                    "A Seattle-based group, Taxpayers Alliance Against Genocide, together with DAWN, won a preliminary injunction on 13 October blocking the Trump administration from targeting them for working with sanctioned parties. They had argued that Executive Order 14203, which threatens fines up to $1 million and 20 years in prison for providing a service to sanctioned figures, violated their free-speech rights.",
-                                    "The order had stopped them sharing evidence with UN rapporteur Francesca Albanese and ICC officials. In a Mondoweiss op-ed, founder Tariq Ra\u0027ouf says the group will now submit over a year of evidence to the ICC alleging top US officials aided genocide in Gaza, days after Washington sanctioned the entire court."
+                                    "Israel has sealed off Hebron after a Friday checkpoint shooting that killed two soldiers and two Palestinian suspects. The Palestinian Prisoner\u0027s Society says at least 47 people have been detained since; about 2,500 residents have been forced out, homes converted into military posts and dozens of buildings slated for demolition. In Ein Deir Bahha, the municipality says nearly 500 families were uprooted from 350 dunams.",
+                                    "Al Jazeera explains why this matters beyond the city: Hebron produces about 40% of Palestinian industrial output, so closures squeeze the whole West Bank economy. Rights researchers call it an eviction campaign and collective punishment, while Finance Minister Smotrich has moved to seize planning powers over the Ibrahimi Mosque and the H2 zone."
                                 ],
                         "pts":  [
-                                    "US sanctioned the whole ICC on 9 October",
-                                    "Evidence includes testimony from ex-GHF contractor Anthony Aguilar",
-                                    "Palestine is a Rome Statute state party, giving the ICC jurisdiction"
+                                    "~2,500 displaced, 47 detained, mass demolitions under way",
+                                    "Hebron is ~40% of Palestinian industry; lockdown hits whole West Bank",
+                                    "Smotrich claims planning power over Ibrahimi Mosque, eroding 1997 deal"
                                 ],
-                        "src":  "Mondoweiss",
-                        "site":  "mondoweiss.net",
-                        "url":  "https://mondoweiss.net/2026/10/we-beat-the-trump-administration-in-court-now-were-going-to-the-icc-to-hold-the-u-s-accountable-for-the-gaza-genocide/",
-                        "min":  6,
-                        "img":  "img/2026-10-25/s31.jpg",
-                        "published":  "2026-10-22"
-                    },
-                    {
-                        "t":  "politics",
-                        "kind":  "Free Palestine",
-                        "h":  "AIPAC drops endorsements as its brand turns toxic",
-                        "why":  "Antizionist organizing",
-                        "sum":  [
-                                    "Citing Jewish Insider, Mondoweiss reports that AIPAC will stop endorsing candidates and stop directly bundling donations to them, about five years after it launched its super PAC. Michael Arria argues the change reflects how unpopular the lobby has become, after Democratic primary voters organised against it in 2026 and its money became a liability for some candidates.",
-                                    "AIPAC will keep spending through its United Democracy Project super PAC, which Arria says makes its role less visible rather than smaller. The New York Times reported about $9 million in AIPAC-linked money for Republican Mike Rogers against Abdul El-Sayed in Michigan\u0027s Senate race."
-                                ],
-                        "pts":  [
-                                    "US midterms are on 3 November",
-                                    "IMEU poll: most likely voters in six swing states back blocking arms sales to Israel",
-                                    "Possible 2028 Democrats like Newsom and Buttigieg still back Israel"
-                                ],
-                        "src":  "Mondoweiss",
-                        "site":  "mondoweiss.net",
-                        "url":  "https://mondoweiss.net/2026/10/the-shift-aipac-has-grown-so-toxic-that-it-has-to-shift-its-electoral-strategy/",
-                        "min":  5,
-                        "img":  "img/2026-10-25/s32.jpg",
-                        "published":  "2026-10-22"
-                    },
-                    {
-                        "t":  "politics",
-                        "kind":  "Indonesia",
-                        "h":  "Prabowo\u0027s allies back away from free meals program",
-                        "why":  "Indonesian politics",
-                        "sum":  [
-                                    "Reuters, via The Jakarta Post, reports that two parties in Prabowo\u0027s ruling coalition have privately decided to distance themselves from his flagship free nutritious meals program, and a third fears electoral damage. The program has been hit by at least 57,000 food poisoning cases since January 2025 and by corruption arrests, including a former program chief in June.",
-                                    "An early-October SMRC poll found about 62% of the public opposed the program, and Prabowo\u0027s approval fell to 44.5%, his lowest yet. The coalition holds about 80% of the DPR, which has not cast a single dissenting vote on government bills. Gerindra insists the coalition remains solid."
-                                ],
-                        "pts":  [
-                                    "Rp 240 trillion budgeted for the program next year",
-                                    "One coalition member warns the bloc could fracture by mid-2027 without fixes",
-                                    "Next elections due early 2029"
-                                ],
-                        "src":  "The Jakarta Post",
-                        "site":  "thejakartapost.com",
-                        "url":  "https://www.thejakartapost.com/indonesia/2026/10/23/prabowos-allies-distance-themselves-from-flagship-free-meals-program",
+                        "src":  "Al Jazeera",
+                        "site":  "aljazeera.com",
+                        "url":  "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank",
                         "min":  4,
-                        "img":  "img/2026-10-25/s33.jpg",
+                        "img":  "img/2026-10-26/s29.jpg",
+                        "published":  "2026-10-25"
+                    },
+                    {
+                        "t":  "politics",
+                        "kind":  "Free Palestine",
+                        "h":  "Amnesty: Israel\u0027s election must not distract from its crimes",
+                        "why":  "Pressure on Israel ahead of its vote",
+                        "sum":  [
+                                    "Ahead of Israel\u0027s 27 October parliamentary vote, Amnesty International warns that Palestinians have little reason to expect change. It says candidates have used dehumanising language, pledged to entrench West Bank annexation and threatened more destruction in Gaza, while parties across the spectrum tried to disqualify Balad leader Sami Abu Shehadeh, a Palestinian citizen of Israel.",
+                                    "Amnesty lists ongoing demolitions, settler attacks during the olive harvest, post-ceasefire killings in Gaza and attacks in Lebanon and Syria. It notes millions under Israeli control cannot vote, though settlements get polling stations. It urges an arms embargo, suspension of the EU-Israel Association Agreement and pressure to end what it calls genocide and apartheid."
+                                ],
+                        "pts":  [
+                                    "Israel votes 27 October; Amnesty expects no rights improvement",
+                                    "Bid to disqualify Palestinian Balad leader Abu Shehadeh",
+                                    "Calls for arms embargo and suspending EU-Israel trade deal"
+                                ],
+                        "src":  "Amnesty International",
+                        "site":  "amnesty.org",
+                        "url":  "https://www.amnesty.org/en/latest/news/2026/10/israel-opt-elections-must-not-deflect-attention-from-israels-international-crimes/",
+                        "min":  3,
+                        "img":  "img/2026-10-26/s30.jpg",
                         "published":  "2026-10-23"
                     },
                     {
                         "t":  "politics",
-                        "kind":  "Indonesia",
-                        "h":  "Govt denies censoring wildfire criticism online",
-                        "why":  "Civil liberties",
+                        "kind":  "Investigation",
+                        "h":  "Google DeepMind engineer quits over military AI and Israel contracts",
+                        "why":  "Tech-worker resistance to Israel contracts",
                         "sum":  [
-                                    "As haze from forest and peatland fires in Sumatra and Kalimantan spreads across the region, users of Instagram, Threads and TikTok say posts criticising the government\u0027s slow response were hidden or removed. Some allege feeds were tuned to suppress critical content.",
-                                    "Communications and Digital Minister Meutya Hafid denied the government removed posts, asked platforms to do so, or moderated algorithms, saying it is open to factual information about the fires. The article gives no figures on takedowns and names no affected accounts. The row follows student protests on 20 October demanding the fires be declared a national disaster."
+                                    "The Intercept profiles Sofia Liguori, a DeepMind research engineer in London who resigned in protest at Google\u0027s military work, including Project Nimbus with Israel and a classified Pentagon AI contract announced in April. She joined to build AI for power grids, then became active with No Tech for Apartheid and helped organise a demonstration outside the London office.",
+                                    "Liguori says internal posts using the word genocide were deleted and HR told her to watch her tone; Google says it reviews contracts consistently and lets staff raise concerns without retaliation. She argues AI targeting dehumanises people and blurs accountability, and that DeepMind\u0027s new union should consider striking rather than petitioning."
                                 ],
                         "pts":  [
-                                    "Minister says she has pressed platforms for algorithm transparency",
-                                    "No investigation or platform action announced",
-                                    "Comes amid wider concern over shrinking civic space"
+                                    "Resigned over Project Nimbus and Pentagon AI deals",
+                                    "Says posts mentioning genocide were deleted internally",
+                                    "DeepMind staff unionised in May; she urges strike action"
                                 ],
-                        "src":  "The Jakarta Post",
-                        "site":  "thejakartapost.com",
-                        "url":  "https://www.thejakartapost.com/indonesia/2026/10/22/govt-denies-censoring-wildfire-posts-on-social-media",
-                        "min":  2,
-                        "img":  "img/2026-10-25/s34.jpg",
-                        "published":  "2026-10-22"
+                        "src":  "The Intercept",
+                        "site":  "theintercept.com",
+                        "url":  "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
+                        "min":  7,
+                        "img":  "img/2026-10-26/s31.jpg",
+                        "published":  "2026-10-21"
                     },
                     {
                         "t":  "politics",
                         "kind":  "Indonesia",
-                        "h":  "Students rally as Prabowo marks two years",
-                        "why":  "Protest movement",
+                        "h":  "Two years of Prabowo-Gibran, through women activists\u0027 eyes",
+                        "why":  "Civil liberties under Prabowo",
                         "sum":  [
-                                    "Students and civil society groups protested in Jakarta, Bandung and Yogyakarta on 20 October, the second anniversary of Prabowo Subianto\u0027s presidency. In Jakarta, hundreds of students rallied at the Tugu Tani monument, while Greenpeace activists climbed the Welcome Monument at Bundaran HI to hang banners over the government\u0027s handling of the wildfires.",
-                                    "Demands included declaring the forest fires a national disaster, prosecuting companies responsible for environmental damage, protecting freedom of expression, tackling corruption, and making education and health care affordable. Fires across Sumatra, Kalimantan and Papua in a severe El Nino dry season have closed schools and disrupted flights."
+                                    "Konde.co marks the government\u0027s second anniversary by interviewing Afifah of Perempuan Mahardhika and NTT rights activist Sarah Lery Mboeik. The piece cites Amnesty International Indonesia\u0027s count of at least 406 attacks on human rights defenders and concern that the revised TNI law weakens civilian control. Afifah says wages barely rose while the free-meals programme drew most of its Rp335 trillion budget from education funds.",
+                                    "Mboeik describes gender-blind disaster response after the Flores quake, criminalisation of customary land defenders, militarisation via new army commands, fuel shortages and health-centre downgrades in eastern Indonesia. Both point to arrests after the August 2025 protests and rushed laws, and urge movements to centre eastern Indonesian women and link labour, Indigenous, Papuan and queer struggles."
                                 ],
                         "pts":  [
-                                    "Protesters also raised cost of living and civil liberties",
-                                    "Haze has reached Singapore and Malaysia",
-                                    "Fires burning across Sumatra, Kalimantan and Papua"
+                                    "Amnesty Indonesia: 406+ attacks on rights defenders in two years",
+                                    "MBG budget reportedly 83% from education funds",
+                                    "Calls to decentralise movements away from Jakarta"
                                 ],
-                        "src":  "The Jakarta Post",
-                        "site":  "thejakartapost.com",
-                        "url":  "https://www.thejakartapost.com/indonesia/2026/10/21/growing-discontent-spills-into-streets-as-prabowo-marks-two-years-in-office",
-                        "min":  2,
-                        "img":  "img/2026-10-25/s35.jpg",
+                        "src":  "Konde.co",
+                        "site":  "konde.co",
+                        "url":  "https://www.konde.co/2026/10/wawancara-aktivis-perempuan-afifah-dan-sarah-lery-mboeik-tentang-2-tahun-rezim-prabowo-gibran/",
+                        "min":  11,
+                        "img":  "img/2026-10-26/s32.jpg",
                         "published":  "2026-10-20"
                     },
                     {
                         "t":  "politics",
-                        "kind":  "Muslim wins",
-                        "h":  "HSBC to review halal fund\u0027s Palantir stake",
-                        "why":  "Muslim investor pressure",
+                        "kind":  "Indonesia",
+                        "h":  "Karo families seek justice after free-meal poisoning",
+                        "why":  "Flagship programme failing families",
                         "sum":  [
-                                    "HSBC will review the Palantir holding in its Islamic Global Equity Index Fund, described as the UK\u0027s largest halal fund, after scrutiny from Muslim savers. Muslim outlet The Hyphen revealed the fund bought $38 million of Palantir shares in the first half of 2026. Palantir\u0027s CEO has publicly defended the Israeli military\u0027s use of its technology.",
-                                    "Nest, the UK state-backed workplace pension whose sharia fund invests in HSBC\u0027s fund for about 40,000 members, raised concerns after member inquiries. MEE\u0027s own analysis found the fund bought over $100 million in five Israeli-military-linked companies, including $35.7 million in RTX. HSBC says it will review the holding with independent advisers."
+                                    "Konde.co follows the family of F, a 16-year-old in Karo, North Sumatra, among 353 students suspected of being poisoned by free nutritious meals (MBG) on 13 August. She developed seizures and memory problems; after five facilities, Jakarta\u0027s RSCM attributed symptoms to stress, which the family disputes. Lab tests found Bacillus cereus, Staphylococcus aureus and E. coli in the food, results the family got only after a local DPRD hearing.",
+                                    "The family filed a police report against the school, the local kitchen and the National Nutrition Agency. Monitoring group JPPI counts 43,838 poisoning victims nationwide since 2025, and CELIOS calls for a moratorium. The Constitutional Court has ordered MBG funding separated from the education budget by 2028."
                                 ],
                         "pts":  [
-                                    "No timeline or commitment yet to sell",
-                                    "Nest executives are in talks with HSBC",
-                                    "Pressure came from Muslim media and pension members"
+                                    "353 students suspected poisoned in one Karo incident",
+                                    "JPPI: 43,838 MBG poisoning victims since 2025",
+                                    "No clear compensation mechanism in the presidential regulation"
                                 ],
-                        "src":  "Middle East Eye",
-                        "site":  "middleeasteye.net",
-                        "url":  "https://www.middleeasteye.net/news/hsbc-review-islamic-funds-38m-investment-palantir",
-                        "min":  2,
-                        "img":  "img/2026-10-25/s36.jpg",
+                        "src":  "Konde.co",
+                        "site":  "konde.co",
+                        "url":  "https://www.konde.co/2026/10/we-packed-their-lunches-were-traumatized-stories-from-parents-of-children-poisoned-by-the-free-nutritious-meals-program-in-karo/",
+                        "min":  8,
+                        "published":  "2026-10-21"
+                    },
+                    {
+                        "t":  "politics",
+                        "kind":  "Investigation",
+                        "h":  "A year after Padang\u0027s flash floods, survivors still waiting",
+                        "why":  "State neglect after climate disaster",
+                        "sum":  [
+                                    "Project Multatuli returns to Batu Busuk, Padang, nearly a year after the November 2025 floods from the Batang Kuranji river destroyed homes, a prayer house and the only paved road. The permanent housing site has only been levelled, the living allowance ended in March, and most farmers lost their fields, turning to hauling driftwood, labour or domestic work. Residents blame upstream land clearing; a geologist also cites steep slopes, extreme rain and climate change.",
+                                    "A geologist says cleanup is far slower than after the 2012 flood. The deputy mayor estimates reconstruction at Rp3.7–3.8 trillion, says the city can\u0027t pay and that rivers and bridges are Jakarta\u0027s responsibility. Residents remain unclear about a promised Rp1.5 trillion aid package."
+                                ],
+                        "pts":  [
+                                    "Permanent housing not yet built; living allowance stopped in March",
+                                    "Around 60% of residents were farmers, many lost their land",
+                                    "City and central government trade responsibility for rebuilding"
+                                ],
+                        "src":  "Project Multatuli",
+                        "site":  "projectmultatuli.org",
+                        "url":  "https://projectmultatuli.org/hampir-setahun-banjir-padang-pemerintah-lamban-bergerak-sawah-masih-rusak-warga-makin-terdesak/",
+                        "min":  14,
+                        "img":  "img/2026-10-26/s34.jpg",
+                        "published":  "2026-10-23"
+                    },
+                    {
+                        "t":  "politics",
+                        "kind":  "Indonesia",
+                        "h":  "Aceh Tamiang: palm oil on riverbanks and the post-flood livelihood trap",
+                        "why":  "Land, palm oil and disaster risk",
+                        "sum":  [
+                                    "Project Multatuli examines palm plantations along Aceh\u0027s Tamiang River nearly a year after the late-2025 Sumatra floods. Smallholders describe trees and homes swept away, incomes collapsing and husbands migrating for work; some sell timber before it matures or replant palms on credit. The district has about 24,759 hectares of smallholder palm, and its spatial plan reserves over 8,500 hectares as river buffers.",
+                                    "WALHI Aceh and Sawit Watch say riverbanks shouldn\u0027t be replanted with palm, but any transition needs mixed gardens, seedlings and markets so farmers aren\u0027t pushed back to palm. The province says it\u0027s checking corporate concession permits first. Several agencies didn\u0027t respond to questions before publication."
+                                ],
+                        "pts":  [
+                                    "Farm incomes fell sharply after floods destroyed riverside palms",
+                                    "Buffer-zone rules exist but replanting support is slow",
+                                    "Activists: ban palm on banks only with alternative livelihoods"
+                                ],
+                        "src":  "Project Multatuli",
+                        "site":  "projectmultatuli.org",
+                        "url":  "https://projectmultatuli.org/sawit-di-bibir-sungai-tamiang-urgensi-tata-kelola-dan-dilema-sumber-nafkah-pasca-bencana/",
+                        "min":  15,
+                        "img":  "img/2026-10-26/s35.jpg",
                         "published":  "2026-10-21"
                     },
                     {
                         "t":  "politics",
                         "kind":  "World",
-                        "h":  "Brazil\u0027s runoff today is a vote on Israel ties",
-                        "why":  "Global solidarity politics",
+                        "h":  "Serbia\u0027s Vucic concedes defeat to student-led movement",
+                        "why":  "Mass protest movement wins power",
                         "sum":  [
-                                    "Brazilians vote today, 25 October, in a presidential runoff between incumbent Lula da Silva and Flavio Bolsonaro, who narrowly led the first round on 5 October. Mondoweiss argues the race is also a referendum on Brazil\u0027s stance toward Israel. Bolsonaro, a self-described evangelical, has pledged to move the embassy to Jerusalem, voiced support for settlers, and plans to join the Israel-led Isaac Accords.",
-                                    "Lula recalled Brazil\u0027s ambassador to Israel in 2024, joined South Africa\u0027s ICJ genocide case in 2025, and suspended arms exports to Israel, though he has not imposed a full embargo and trade continues. The piece frames Brazil as the last big holdout against a pro-Israel right turn in Latin America."
+                                    "Aleksandar Vucic conceded that his Serbian Progressive Party, in power since 2012, lost Sunday\u0027s snap parliamentary election to the Student List. By his own projection the students won 135–140 of 250 seats, against about 105 for his list. The movement grew out of nearly two years of protests after a railway station canopy collapse in Novi Sad killed 16 people in November 2024.",
+                                    "Turnout was the highest since 1992. Watchdog CRTA reported voter pressure at nearly a third of observed polling stations, and CeSID logged about 260 possible irregularities. Crowds celebrated in Belgrade and Novi Sad. Many Student List candidates are doctors and teachers with no political experience."
                                 ],
                         "pts":  [
-                                    "Brazil is about a third of Latin America\u0027s population and economy",
-                                    "Evangelicals make up about 27% of the electorate"
+                                    "Student List projected to win a majority of 250 seats",
+                                    "Movement born from Novi Sad canopy collapse protests",
+                                    "Record turnout despite reported voter pressure"
                                 ],
-                        "src":  "Mondoweiss",
-                        "site":  "mondoweiss.net",
-                        "url":  "https://mondoweiss.net/2026/10/brazils-election-is-a-referendum-on-israel-and-the-last-hurdle-for-latin-americas-pro-israel-right/",
+                        "src":  "Al Jazeera",
+                        "site":  "aljazeera.com",
+                        "url":  "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+                        "min":  3,
+                        "img":  "img/2026-10-26/s36.jpg",
+                        "published":  "2026-10-25"
+                    },
+                    {
+                        "t":  "politics",
+                        "kind":  "World",
+                        "h":  "Lula beats Flavio Bolsonaro in Brazil runoff comeback",
+                        "why":  "Left holds off far right",
+                        "sum":  [
+                                    "Luiz Inácio Lula da Silva won Brazil\u0027s presidential runoff with just over 51% against right-wing Senator Flavio Bolsonaro, a margin of more than four million votes, after trailing in the first round. He campaigned on cost of living, a shorter workweek and floated free weekend public transport. At 80, he begins a fourth term on 5 January 2027.",
+                                    "Bolsonaro has not conceded, calling the result unacceptable and objecting to a court-backed two-hour voting extension, which both campaigns had requested. Al Jazeera notes Lula faces a right-leaning Congress. Trump-era tariffs and sanctions on Brazilian judges had backed the Bolsonaro family; Sheinbaum and Sanders congratulated Lula."
+                                ],
+                        "pts":  [
+                                    "Lula ~51% to Bolsonaro ~48%",
+                                    "First modern Brazilian to lose round one and win",
+                                    "Bolsonaro refuses to concede, seeks annulment"
+                                ],
+                        "src":  "Al Jazeera",
+                        "site":  "aljazeera.com",
+                        "url":  "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election",
                         "min":  5,
-                        "img":  "img/2026-10-25/s37.jpg",
-                        "published":  "2026-10-24"
+                        "img":  "img/2026-10-26/s37.jpg",
+                        "published":  "2026-10-26"
                     }
                 ]
 }
