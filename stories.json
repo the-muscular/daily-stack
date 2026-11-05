@@ -1,228 +1,357 @@
 {
-  "date": "2026-11-04",
-  "generated": "2026-11-04T06:53:32.889608+07:00",
+  "date": "2026-11-05",
+  "generated": "2026-11-05T09:32:11.025042+07:00",
   "stories": [
     {
       "t": "movies",
-      "kind": "Review",
-      "h": "La Bola Negra: Los Javis' Lorca epic soars",
-      "why": "Ambitious queer period epic",
-      "sum": [
-        "Spanish duo Javier Ambrossi and Javier Calvo, known as Los Javis, make their feature debut with a 159-minute drama loosely drawn from Federico García Lorca. It weaves three timelines: a 1932 initiation into an exclusive men's club at a casino, a 1937 bond between a Nationalist soldier and the Republican fighter he must guard, and a 2017 Madrid playwright who inherits a link to that past.",
-        "Little White Lies calls it ambitious and moving, likening its structure to Cloud Atlas and reading it as a meditation on political liberty, memory and modern prudishness. Penélope Cruz's cabaret turn is a highlight, Glenn Close co-stars, and only a brief tonal dip after the lively opening chapter holds it back. An awards contender."
-      ],
-      "pts": [
-        "Three timelines: 1932, 1937 and 2017",
-        "Penélope Cruz singled out; Glenn Close also stars",
-        "UK release 6 November"
-      ],
-      "src": "Little White Lies",
-      "site": "lwlies.com",
-      "url": "https://www.lwlies.com/reviews/la-bola-negra",
-      "min": 3,
-      "q": "La Bola Negra",
-      "score": "4/5",
-      "scoreNote": "Little White Lies",
-      "img": "img/2026-11-04/s01.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "movies",
-      "kind": "Review",
-      "h": "Garin Nugroho's Red Before Dawn stirs",
-      "why": "Major new Indonesian auteur film",
-      "sum": [
-        "Garin Nugroho's latest, which premiered in Tokyo competition, is set in 1946 as Indonesia fights its way out of Dutch rule. A mixed-race Dutch-Indonesian mining engineer must carry vital survey documents to the provisional capital, and the chaos pushes him onto backroads where he gathers companions. Nicholas Saputra (also producing), Laura Basuki, Bront Palarae and Tissa Biani star.",
-        "Screen's Elizabeth Kerr finds it formally daring, mixing archive footage, folk motifs, animation and theatrical staging, and praises its focus on ordinary civilians over famous figures. The dialogue is often heavy-handed and the melodrama sometimes soapy, and she expects a tough theatrical sell even at home, but calls it a vital, still-resonant history lesson."
-      ],
-      "pts": [
-        "Premiered in Tokyo International Film Festival competition",
-        "Nicholas Saputra and Laura Basuki lead",
-        "Blunt dialogue, but a vital subject"
-      ],
-      "src": "Screen Daily",
-      "site": "screendaily.com",
-      "url": "https://www.screendaily.com/reviews/red-before-dawn-review-garin-nugrohos-stirring-period-piece-explores-the-development-of-post-independence-indonesia/5221896.article",
-      "min": 4,
-      "q": "Red Before Dawn Garin Nugroho",
-      "img": "img/2026-11-04/s02.jpg",
-      "published": "2026-10-29"
-    },
-    {
-      "t": "movies",
       "kind": "Festival",
-      "h": "Singapore fest: Ah Girl wins; Putri Marino shares acting prize",
-      "why": "Indonesian win at regional festival",
+      "h": "Manchevski's Sister Brother Manhole Cover wins Tokyo's top prize",
+      "why": "Festival-circuit discoveries",
       "sum": [
-        "Singaporean director Ang Geck Geck's debut Ah Girl won best Asian feature at the 37th Singapore International Film Festival's Silver Screen Awards. The comedy-drama follows a seven-year-old coping with her parents' separation in 1990s Singapore and began life at the festival's Southeast Asian Film Lab in 2015.",
-        "Indonesia's Putri Marino shared best performance for Four Seasons in Java with Nepal's Pushpa Thing Lama (Elephants in the Fog). Afghan filmmaker Shahrbanoo Sadat took best director for No Good Men. Juror Anthony Wong judged remotely after air pollution forced him to cancel his trip. Encore screenings of winners run on 7 November."
+        "Milcho Manchevski's North Macedonian social satire Sister Brother Manhole Cover won the top award at the Tokyo International Film Festival on 4 November. It follows two siblings on society's bottom rung who survive by stealing bronze statues and manhole covers; jury president Rolf de Heer praised its mix of humour, tragedy and compassion.",
+        "The special jury prize went to Sun Xun's hand-crafted animated feature Magic Atlas, made over more than a decade. Argentina's Lisandro Alonso was named best director for Double Freedom, about a forest woodcutter who must care for his sister, and Hu Ling won best actress."
       ],
       "pts": [
-        "Ah Girl named best Asian feature",
-        "Putri Marino wins shared best performance",
-        "Encore screenings 7 November"
+        "Top prize: Sister Brother Manhole Cover",
+        "Special jury prize: animated Magic Atlas",
+        "Best director: Lisandro Alonso"
       ],
       "src": "Screen Daily",
       "site": "screendaily.com",
-      "url": "https://www.screendaily.com/news/local-title-ah-girl-wins-top-award-at-singapore-film-festival/5222006.article",
-      "min": 3,
-      "q": "Ah Girl",
-      "img": "img/2026-11-04/s03.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "movies",
-      "kind": "News",
-      "h": "Makbul Mubarak's next film wins Purin grant",
-      "why": "Indonesian arthouse pipeline",
-      "sum": [
-        "Bangkok's Purin Film Fund named its autumn 2026 grantees, sharing $155,000 across five Southeast Asian projects. They include Watch It Burn, the second feature from Indonesian director Makbul Mubarak (Autobiography), about a mother who sells her ancestral farm to protect her son from violence, only for that protection to turn harmful. It's produced by KawanKawan Media's Yulia Evina Bhara.",
-        "Vietnam's Pham Thien An, the Camera d'Or winner, gets support for Heaven in a Wildflower. First features from Malaysia's Ananth Subramaniam and the Philippines' Sam Manacsa (a Philippines–Indonesia co-production) are also funded, plus a Thai documentary in post-production."
-      ],
-      "pts": [
-        "Watch It Burn is Makbul Mubarak's second feature",
-        "Pham Thien An's next film also funded",
-        "$155,000 across five projects"
-      ],
-      "src": "Screen Daily",
-      "site": "screendaily.com",
-      "url": "https://www.screendaily.com/news/pham-thien-an-makbul-mubarak-secure-grants-from-purin-film-fund/5221991.article",
-      "min": 3,
-      "q": "Makbul Mubarak Watch It Burn",
-      "img": "img/2026-11-04/s04.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "movies",
-      "kind": "News",
-      "h": "Netflix buys Joel Coen's gothic Jack of Spades",
-      "why": "New Coen film incoming",
-      "sum": [
-        "Netflix has taken worldwide rights to Jack of Spades, Joel Coen's new film, and plans a theatrical release in autumn 2027. It's billed as a sinister gothic mystery of intrigue and betrayal in the Scottish Highlands, written by Eleanor Catton, Joel and Ethan Coen, and Conor McPherson.",
-        "Patsy Ferran leads, with Josh O'Connor, Damian Lewis and Lesley Manville. Frances McDormand is among the producers, and it's Coen's second Netflix project after The Ballad of Buster Scruggs."
-      ],
-      "pts": [
-        "Worldwide rights; theatrical release autumn 2027",
-        "Patsy Ferran, Josh O'Connor, Lesley Manville star",
-        "Co-written with Eleanor Catton and Conor McPherson"
-      ],
-      "src": "Screen Daily",
-      "site": "screendaily.com",
-      "url": "https://www.screendaily.com/news/netflix-acquires-joel-coens-jack-of-spades/5221957.article",
-      "min": 2,
-      "q": "Jack of Spades Joel Coen",
-      "img": "img/2026-11-04/s05.jpg",
-      "published": "2026-11-02"
-    },
-    {
-      "t": "movies",
-      "kind": "News",
-      "h": "Statham and Ritchie reteam for Netflix's Dogfight",
-      "why": "Crowd-pleasing action pick ahead",
-      "sum": [
-        "Guy Ritchie and Jason Statham are making their seventh film together. Dogfight is a Netflix revenge action film set in London's criminal underworld, with shooting in the UK early next year.",
-        "Ritchie writes, directs and produces through Toff Guy Films. Statham stars and produces via Punch Palace, with Black Bear's John Friedberg also producing. The pair go back to Lock, Stock and Two Smoking Barrels and Snatch, and they also have Viva La Madness on the way."
-      ],
-      "pts": [
-        "Seventh Ritchie–Statham collaboration",
-        "London gangland revenge story for Netflix",
-        "Shoots in the UK early 2027"
-      ],
-      "src": "Screen Daily",
-      "site": "screendaily.com",
-      "url": "https://www.screendaily.com/news/jason-statham-reunites-with-guy-ritchie-for-netflix-revenge-film-dogfight/5222023.article",
-      "min": 1,
-      "q": "Dogfight Guy Ritchie",
-      "img": "img/2026-11-04/s06.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "movies",
-      "kind": "Box office",
-      "h": "Clayface holds No.1 in a sleepy Halloween weekend",
-      "why": "Global box-office pulse",
-      "sum": [
-        "With no major new release over Halloween, Warner Bros/DC's Clayface topped the worldwide chart for a second weekend on a soft $22.8m. Its total is now $83.0m ($44.1m North America, $38.9m international). Screen calls the number dismally low for a chart-topper, though the film's drops are respectable for a comic-book title and its reported $44m budget points to profit.",
-        "The UK and Ireland is Clayface's biggest international market. Laika's stop-motion Wildwood climbed to second with $11.5m as it expanded to 47 countries, taking it to $35.2m worldwide with more territories still to open."
-      ],
-      "pts": [
-        "Clayface: $83m worldwide after two weekends",
-        "Wildwood rises to second with $35.2m total",
-        "Quietest global top spot in months"
-      ],
-      "src": "Screen Daily",
-      "site": "screendaily.com",
-      "url": "https://www.screendaily.com/news/clayface-stays-top-of-global-box-office-in-quiet-halloween-weekend-session/5221958.article",
+      "url": "https://www.screendaily.com/news/tokyo-film-festival-unveils-2026-winners/5222049.article",
       "min": 4,
-      "q": "Clayface",
-      "img": "img/2026-11-04/s07.jpg",
-      "published": "2026-11-02"
+      "q": "Sister Brother Manhole Cover",
+      "img": "img/2026-11-05/s01.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Gugu's World: Brazil's Oscar pick is a colourful queer coming-of-age",
+      "why": "Colourful, tender queer cinema",
+      "sum": [
+        "Screen Daily calls Allan Deberton's Gugu's World a touching, sweetly appealing drama about an 11-year-old queer boy growing up with his grandmother in Brazil's northeast backlands. Young lead Yuri Gomes is singled out for a poised, natural performance as a promising footballer who loves beads, glitter and bright scarves.",
+        "The film blends grief, resilience and self-acceptance, and its pink-and-blue production design mirrors Gugu's riot of colour. It won Berlin's Generation Kplus Crystal Bear, is Brazil's official Oscar submission, and opens in Brazil on 5 November."
+      ],
+      "pts": [
+        "Brazil's Oscar submission",
+        "Berlinale Generation Kplus winner",
+        "Standout child lead Yuri Gomes"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/reviews/gugus-world-review-brazils-oscar-submission-is-colourful-compassionate-coming-of-age-delight/5222015.article",
+      "min": 4,
+      "q": "Gugu's World",
+      "img": "img/2026-11-05/s02.jpg",
+      "published": "2026-11-03"
     },
     {
       "t": "movies",
       "kind": "Box office",
-      "h": "Wicker tops UK box office; Primetime third",
+      "h": "Wicker tops the UK box office; Pattinson's Primetime opens third",
       "why": "What's playing in cinemas now",
       "sum": [
-        "Black Bear has its first UK-Ireland number one with Wicker, a romantic fantasy starring Olivia Colman as a solitary fisherwoman who asks Alexander Skarsgård's basket weaver to make her a husband. It took £1.7m from 676 cinemas.",
-        "Ghosts: The Possession of Button House came second with £1.5m, helped by Halloween. A24's Primetime, with Robert Pattinson as Chris Hansen, opened third on £1.3m, and Clayface fell to fourth. The BFI's 4K restoration of Ken Russell's The Devils had the weekend's best per-screen average."
+        "Black Bear scored its first UK-Ireland number one with Wicker, a romantic fantasy starring Olivia Colman as a fisherwoman who asks a basket weaver (Alexander Skarsgård) to make her a husband. It took £1.7m over 30 October to 1 November from 676 cinemas.",
+        "A24's Primetime, with Robert Pattinson as To Catch a Predator host Chris Hansen, opened third on £1.3m. Ghosts: The Possession of Button House held second, while Laika's Wildwood has reached £2.8m and a BFI 4K restoration of The Devils drew a strong £220,000 from 73 venues."
       ],
       "pts": [
-        "Wicker opens with £1.7m",
-        "Primetime debuts third on £1.3m",
-        "The Devils restoration had the best per-screen average"
+        "Wicker: £1.7m opening",
+        "Primetime debuts third",
+        "The Devils restoration strong"
       ],
       "src": "Screen Daily",
       "site": "screendaily.com",
       "url": "https://www.screendaily.com/news/black-bears-wicker-tops-uk-ireland-box-office-a24s-primetime-opens-third/5221978.article",
       "min": 4,
-      "q": "Wicker Olivia Colman",
-      "img": "img/2026-11-04/s08.jpg",
+      "q": "Wicker",
+      "img": "img/2026-11-05/s03.jpg",
       "published": "2026-11-02"
+    },
+    {
+      "t": "movies",
+      "kind": "Festival",
+      "h": "La Bola Negra wins London Film Festival audience award",
+      "why": "Queer period drama, crowd favourite",
+      "sum": [
+        "Javier Ambrossi and Javier Calvo's La Bola Negra, an exploration of early-20th-century queer culture in Spain starring Guitarricadelafuente, Miguel Bernardeau and Penélope Cruz, won the BFI London Film Festival's audience award for best feature. It earlier premiered in Cannes competition, won TIFF's People's Choice award and is Spain's Oscar submission.",
+        "Grace Harper Brighouse's documentary Dependence, about loving an addict told through decades of home movies, was voted best British discovery. London screenings hit record 96% occupancy. La Bola Negra opens in UK-Ireland cinemas on 6 November; Netflix holds US rights."
+      ],
+      "pts": [
+        "Spain's Oscar submission",
+        "Also won TIFF People's Choice",
+        "UK release 6 November"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/la-bola-negra-wins-bfi-london-film-festival-2026-audience-award/5222063.article",
+      "min": 2,
+      "q": "La Bola Negra",
+      "img": "img/2026-11-05/s04.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "movies",
+      "kind": "News",
+      "h": "Elsinore and I See Buildings Fall Like Lightning lead Bifa nominations",
+      "why": "UK indie awards season starts",
+      "sum": [
+        "Simon Stone's Elsinore, about actor Ian Charleson's final run as Hamlet, leads the 2026 British Independent Film Awards with 12 nominations, including best film, best director and best lead for Andrew Scott. Clio Barnard's I See Buildings Fall Like Lightning follows with eight.",
+        "Barnard's film, a Cannes Directors' Fortnight winner, follows five Birmingham friends in their 30s amid the housing crisis and is up for best ensemble. Ashley Walters' prison drama Animol, his directing debut, has seven nods including best debut director."
+      ],
+      "pts": [
+        "Elsinore: 12 nominations",
+        "Barnard's film: eight",
+        "Animol: seven"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/elsinore-i-see-buildings-fall-like-lightning-lead-bifa-2026-nominations/5221999.article",
+      "min": 3,
+      "q": "I See Buildings Fall Like Lightning",
+      "img": "img/2026-11-05/s05.jpg",
+      "published": "2026-11-03"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Kefi: an irreverent, eye-catching Japanese debut about three sisters",
+      "why": "Bold, offbeat world cinema",
+      "sum": [
+        "Kisin Saito's debut Kefi, premiering in Tokyo's Nippon Cinema Now strand, follows three sisters reuniting in the family home after their estranged father dies. Screen Daily says any likeness to Kore-eda's Our Little Sister ends there: this is wilfully unpredictable, sometimes baffling, and thrillingly alive.",
+        "Saito shoots it himself and ditches the grey, under-lit look common in indie cinema for something brighter and bolder. The review predicts it will divide audiences but calls it a loud arrival of a new voice, ideal for anyone tired of soft-focus romances."
+      ],
+      "pts": [
+        "World premiere in Tokyo",
+        "Director is his own cinematographer",
+        "Divisive but exciting"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/reviews/kefi-review-three-sisters-reconnect-after-the-death-of-their-father-in-surprising-irreverent-japanese-debut/5222055.article",
+      "min": 4,
+      "q": "Kefi Kisin Saito",
+      "img": "img/2026-11-05/s06.jpg",
+      "published": "2026-11-04"
     },
     {
       "t": "movies",
       "kind": "Streaming",
-      "h": "November home-viewing picks: The Host to Imamura",
-      "why": "Restorations for the collector",
+      "h": "Letterboxd's November Unreleased Gems: festival hits, rentable for 30 days",
+      "why": "Hidden indie finds to stream",
       "sum": [
-        "Katie Rife's monthly Shelf Life column picks restorations and new disc releases. Bong Joon Ho's The Host returns in a 20th-anniversary 4K restoration, in North American cinemas on 20 November and on disc on 8 December. Radiance has a six-film Shōhei Imamura box set of bawdy, cynical satires including Pigs and Battleships and The Insect Woman.",
-        "Criterion puts out David Lynch's Palme d'Or winner Wild at Heart in its unrated cut. Nicolas Roeg's The Man Who Fell to Earth with David Bowie gets a 4K re-release. Second Run has Jerzy Kawalerowicz's possession drama Mother Joan of the Angels. Train to Busan and Raise the Red Lantern anniversaries also get a mention."
+        "Letterboxd's Video Store has a new batch of Unreleased Gems: festival favourites with no distribution yet, available to rent digitally for 30 days only. This month's picks come from Tribeca, Slamdance and SXSW.",
+        "The lineup ranges from a raucous comedy about Jackass-style stunt performers to a documentary at the crossroads of fashion and hip-hop, a politically charged thriller about disillusioned youth and a tender film on male friendship. Availability and prices vary by region."
       ],
       "pts": [
-        "The Host 4K restoration for its 20th anniversary",
-        "Six-film Imamura box set from Radiance",
-        "Wild at Heart on Criterion 4K"
+        "Rent for 30 days only",
+        "Tribeca, Slamdance, SXSW picks",
+        "Fashion x hip-hop doc included"
+      ],
+      "src": "Letterboxd Journal",
+      "site": "letterboxd.com",
+      "url": "https://letterboxd.com/journal/unreleased-gems-november-2026/",
+      "min": 8,
+      "img": "img/2026-11-05/s07.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "movies",
+      "kind": "Streaming",
+      "h": "Shelf Life: November's best restorations and re-releases",
+      "why": "Classics worth rewatching",
+      "sum": [
+        "Letterboxd's monthly Shelf Life column rounds up repertory screenings and physical-media releases, built around connections between films and filmmakers. Highlights include a Japanese New Wave master's collected works, David Bowie's most luminous star vehicle and Bong Joon Ho's monster movie.",
+        "Also flagged: a 10th-anniversary Train to Busan 4K set, a 35th-anniversary re-release of Zhang Yimou's Raise the Red Lantern, My Sassy Girl at 25 and a new restoration of Edward Yang's That Day, on the Beach."
+      ],
+      "pts": [
+        "Train to Busan 4K box set",
+        "Raise the Red Lantern returns",
+        "Edward Yang restoration"
       ],
       "src": "Letterboxd Journal",
       "site": "letterboxd.com",
       "url": "https://letterboxd.com/journal/shelf-life-november-2026/",
-      "min": 8,
-      "q": "The Host 2006",
-      "img": "img/2026-11-04/s09.jpg",
+      "min": 10,
+      "img": "img/2026-11-05/s08.jpg",
+      "published": "2026-11-03"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "My Chemical Romance finally hit No. 1 with The Black Parade, 20 years late",
+      "why": "Emo-era alt-rock vindication",
+      "sum": [
+        "My Chemical Romance have scored their first-ever No. 1 on the Billboard 200 with The Black Parade, two decades after it first came out and stalled at No. 2. A 20th-anniversary deluxe edition had only re-entered the chart at No. 139 before rocketing to the top of the Nov. 7 chart.",
+        "It is the longest wait on record for an album to reach No. 1, and the biggest leap to the summit since Taylor Swift's Fearless re-recording in 2021. MCR knocked Olivia Rodrigo to No. 2; she recently posted about attending one of their shows."
+      ],
+      "pts": [
+        "Jumped from No. 139 to No. 1",
+        "Longest-ever wait for a chart-topper",
+        "Olivia Rodrigo slips to No. 2"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2516272/my-chemical-romance-land-first-1-album-with-the-black-parade-20-years-after-its-original-release/news/",
+      "min": 2,
+      "q": "My Chemical Romance The Black Parade",
+      "img": "img/2026-11-05/s09.jpg",
       "published": "2026-11-02"
     },
     {
-      "t": "movies",
-      "kind": "In cinemas",
-      "h": "Wild Horse Nine and 20 great buddy comedies",
-      "why": "New McDonagh plus a watchlist",
+      "t": "music",
+      "kind": "Album review",
+      "h": "Eterna's Push drifts from slacker rock into blissed-out post-rock",
+      "why": "Indie rock with a dreamy turn",
       "sum": [
-        "Martin McDonagh's Wild Horse Nine opens in US cinemas on 8 November from Searchlight. John Malkovich and Sam Rockwell play bickering CIA agents Chris and Lee, who head to Easter Island after a military coup. To mark it, Letterboxd's Rory Doherty picks twenty buddy comedies built on chemistry and friction.",
-        "The list runs from McDonagh's own In Bruges and The Banshees of Inisherin to Planes, Trains & Automobiles, Hot Fuzz, The Nice Guys and The Sting. It also reaches further afield with Gentlemen Prefer Blondes, the Czech classic Daisies and the Bollywood landmark Sholay."
+        "Guillem Peeters, the Barcelona-born, London-based musician who drummed on bar italia's Tracey Denim, releases his third Eterna album Push on 6 November. The Line of Best Fit's reviewer admits the first two records failed their personal slacker-rock test, but says this one finally shows real care.",
+        "The scrappy home-demo collage has given way to carefully shaped, hazy post-rock expanses, with tracks like \"Kyrie\" singled out for moments of genuine magic. The verdict: a confident leap from shrugging indie into something richer and more immersive."
       ],
       "pts": [
-        "Wild Horse Nine opens in the US on 8 November",
-        "Malkovich and Rockwell as CIA partners",
-        "Twenty picks, from Laurel and Hardy to Sholay"
+        "Out 6 November",
+        "From bar italia's drummer",
+        "Hazy post-rock over slacker shrugs"
       ],
-      "src": "Letterboxd Journal",
-      "site": "letterboxd.com",
-      "url": "https://letterboxd.com/journal/buddy-comedies-starter-pack-wild-horse-nine/",
-      "min": 7,
-      "q": "Wild Horse Nine",
-      "img": "img/2026-11-04/s10.jpg",
-      "published": "2026-11-03"
+      "src": "The Line of Best Fit",
+      "site": "thelineofbestfit.com",
+      "url": "https://www.thelineofbestfit.com/albums/recovering-slacker-eterna-cares-an-awful-lot-on-his-third-album-push",
+      "min": 4,
+      "q": "Eterna Push",
+      "score": "8/10",
+      "scoreNote": "The Line of Best Fit",
+      "img": "img/2026-11-05/s10.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Mamalarky announce fourth album Hover, share \"Sad Songs\"",
+      "why": "Colorful, hooky indie rock",
+      "sum": [
+        "Austin indie rockers Mamalarky are following April 2025's Hex Key quickly: their new album Hover arrives in February on Epitaph. The first taste, \"Sad Songs,\" is a lightly psychedelic pop-rock track that Stereogum calls a gem, with a breakup-weary hook from Livvy Bennett.",
+        "Bennett describes it as the feeling of the first sunny day after a long low stretch, meant to keep company with anyone dealing with loneliness or loss. The 12-track album also includes \"Sycamore Tree,\" \"Mirage\" and \"Sweet Tooth.\""
+      ],
+      "pts": [
+        "Hover out in February on Epitaph",
+        "Lead single: \"Sad Songs\"",
+        "12 tracks"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2516471/mamalarky-announce-new-album-hover-hear-sad-songs/music/",
+      "min": 2,
+      "q": "Mamalarky Sad Songs",
+      "img": "img/2026-11-05/s11.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Oso Oso's Jade Lilitri on chasing the perfect hook for six albums",
+      "why": "Emo-adjacent indie, all hooks",
+      "sum": [
+        "SPIN profiles Jade Lilitri, the songwriter behind Oso Oso, arguing he may be the best hook writer in emo right now. Lilitri jokes that he has been writing the same song across six albums, but the piece frames it as a long pursuit of the ideal version of his project.",
+        "Now 34, he talks about legacy: leaving a body of music that paints a picture of who he was, and pushing each record to its potential before Oso Oso eventually ends. He also discusses wanting listeners to feel their emotional and financial investment is respected."
+      ],
+      "pts": [
+        "Six albums of big emo hooks",
+        "Lilitri reflects on legacy at 34",
+        "In-depth SPIN interview"
+      ],
+      "src": "SPIN",
+      "site": "spinmagazine.com",
+      "url": "https://www.spinmagazine.com/2026/11/oso-oso-is-perfecting-the-art-of-being-themselves/",
+      "min": 6,
+      "q": "Oso Oso the facts",
+      "img": "img/2026-11-05/s12.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Kiwi Jr. release \"Something Wicked,\" a Blowin' Up outtake",
+      "why": "Jangly, witty indie rock",
+      "sum": [
+        "Toronto indie rockers Kiwi Jr. shared \"Something Wicked,\" a sparkling indie-pop song cut from the Detroit sessions for their recent album Blowin' Up, which featured guests including members of Protomartyr and Alvvays.",
+        "Frontman Jeremy Gaudet says it was one of the first songs written for the record but no longer fit by the end. Its lyric riffs on Shakespeare's witches brewing up trouble. The band starts a European run on 6 November at Pitchfork Festival London."
+      ],
+      "pts": [
+        "Outtake from Blowin' Up sessions",
+        "Shakespeare-inspired lyric",
+        "European tour starts 6 Nov"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2516446/kiwi-jr-something-wicked-blowin-up/music/",
+      "min": 2,
+      "q": "Kiwi Jr. Something Wicked",
+      "img": "img/2026-11-05/s13.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Hannah Jadagu returns with sleek new single \"Curse\"",
+      "why": "Glossy indie-pop discovery",
+      "sum": [
+        "A year after her well-loved 2025 album Describe, alt-pop artist Hannah Jadagu is back with \"Curse.\" Stereogum describes it as sleek in texture and grand in scope, with gleaming synthetic production and a magnetic vocal about wanting to understand where it hurts and what it costs.",
+        "Jadagu co-created the accompanying video with Sam Wilbert. No album has been announced yet."
+      ],
+      "pts": [
+        "First new music since Describe",
+        "Self-made video with Sam Wilbert",
+        "Polished alt-pop"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2516488/hannah-jadagu-curse/music/",
+      "min": 1,
+      "q": "Hannah Jadagu Curse",
+      "img": "img/2026-11-05/s14.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Lafa Pratomo, Jason Ranti and Isyana Sarasvati rap about AI anxiety",
+      "why": "Jakarta indie names, timely theme",
+      "sum": [
+        "Indonesian guitarist Lafa Pratomo released \"Dogs Are Always True\" on 3 November, pairing Jason Ranti and Isyana Sarasvati on an electro-pop track where both rap about fears around artificial intelligence and the noise of online life. It is the fifth release from his EP Garis Tegak.",
+        "The song grew out of Jason telling Lafa about a neighbour who lost their job to AI. The trio built it almost from scratch in jam sessions, and Isyana says it is a reminder to stay careful with unverified information online."
+      ],
+      "pts": [
+        "Fifth single from EP Garis Tegak",
+        "Inspired by an AI layoff",
+        "Built from scratch in jam sessions"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/sehidup-semusik/lafa-pratomo-jason-ranti-dan-isyana-sarasvati-suarakan-keresahan-soal-ai/",
+      "min": 3,
+      "q": "Lafa Pratomo Dogs Are Always True",
+      "img": "img/2026-11-05/s15.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "music",
+      "kind": "Album review",
+      "h": "mpq's Dignified Losers is about living with unfinished defeat",
+      "why": "Local indie with heart",
+      "sum": [
+        "Pophariini reviews Dignified Losers, the second album by Indonesian band mpq, reading it as a record about small, everyday defeats: work never started because it has to be perfect, tiring habits that are scarier to quit.",
+        "Opener \"Not For Anyone Else\" comes from Alit Djarot's struggle with overthinking and perfectionism, while closer \"Miles & Miles\" carries Daniel Hasudungan's view that as long as you're alive, there's still something to chase. The review frames the album as a journey from what holds you back to a reason to keep trying."
+      ],
+      "pts": [
+        "Second album from mpq",
+        "Perfectionism and persistence",
+        "Opens and closes on two outlooks"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/review/ulasan-album-mpq-dignified-losers-menjalani-kekalahan-yang-belum-selesai/",
+      "min": 8,
+      "q": "mpq Dignified Losers",
+      "published": "2026-10-30"
     },
     {
       "t": "music",
@@ -239,582 +368,361 @@
       "min": 0
     },
     {
-      "t": "music",
-      "kind": "Album review",
-      "h": "daine trades cloud-rap for emo-tinged indie rock",
-      "why": "Indie rock with emo bite",
-      "sum": [
-        "Melbourne artist daine's debut studio album, In Endless Awe & Agony (out 6 November), moves away from the emo cloud-rap that built their following and into indie rock, splicing electro-pop, twee and Midwest emo, sometimes inside a single song. The Line of Best Fit hears echoes of early Modern Baseball, mid-2010s Grimes and glitchy third-wave emo.",
-        "Unlike most of the indie sleaze revival, the record skips party-and-drugs clichés for wry, detached songs about class, consumerism and lost futures, finding dark humour in bleak times. The reviewer singles out the electroclash opener 'I Used To Kill', '(I Want You In) Dakota', 'Product of Profit (P.O.P.)' and 'Supervillain', and calls it sharp, distinctive songwriting."
-      ],
-      "pts": [
-        "Scored 8/10",
-        "Genre-hopping debut: emo, electro-pop, indie rock",
-        "Out 6 November"
-      ],
-      "src": "The Line of Best Fit",
-      "site": "thelineofbestfit.com",
-      "url": "https://www.thelineofbestfit.com/albums/daine-brings-an-emo-touch-to-the-indie-sleaze-revival-on-in-endless-awe-agony",
-      "min": 3,
-      "q": "daine In Endless Awe & Agony",
-      "score": "8/10",
-      "scoreNote": "The Line of Best Fit",
-      "img": "img/2026-11-04/s12.jpg",
-      "published": "2026-11-02"
-    },
-    {
-      "t": "music",
-      "kind": "Album review",
-      "h": "DIIV go lean and glossy on ZIRP!, with mixed results",
-      "why": "Shoegaze heroes change course",
-      "sum": [
-        "DIIV's new album ZIRP! (out 30 October) swaps the dense, heavy shoegaze of Deceiver and Frog in Boiling Water for a leaner, poppier sound shaped by producer A.G. Cook, which the band has dubbed a new kind of alternative. Lyrically it keeps circling economic collapse and inequality, but The Line of Best Fit finds the treatment lighter and sometimes surface-level.",
-        "Highlights are 'Kid', which marries Cook's sheen to the band's dream-pop instincts, and 'When the Glow Came for Us'; 'Trillions' is the divisive emotional core. The reviewer feels the clipped, restrained distortion drains the band's tension and the last third drifts into aimless glitch, an overcorrection that loses some of what made DIIV special."
-      ],
-      "pts": [
-        "Scored 6/10",
-        "Produced by A.G. Cook",
-        "Best tracks: 'Kid', 'When the Glow Came for Us'"
-      ],
-      "src": "The Line of Best Fit",
-      "site": "thelineofbestfit.com",
-      "url": "https://www.thelineofbestfit.com/albums/diiv-confront-social-turmoil-with-more-simplicity-on-zirp",
-      "min": 3,
-      "q": "DIIV ZIRP!",
-      "score": "6/10",
-      "scoreNote": "The Line of Best Fit",
-      "img": "img/2026-11-04/s13.jpg",
-      "published": "2026-10-27"
-    },
-    {
-      "t": "music",
-      "kind": "Album review",
-      "h": "Stereogum's Album of the Week: Willi Carlisle's The Universal Bubba",
-      "why": "Indie outlet's pick of the week",
-      "sum": [
-        "Stereogum picked Arkansas songwriter Willi Carlisle's The Universal Bubba as its Album of the Week. It is a sprawling double album, co-produced by Tyler Childers, and the most ambitious thing yet from a writer the site frames as a big-tent folksinger with a country-rock streak.",
-        "Carlisle says the record is meant to both celebrate and poke at Southern culture, and he aimed for a deliberately rowdy, chaotic feel. Chris DeVille's verdict is warm: the messiness is the point, and it holds together. It's rootsier than your usual fare, but it's the week's top pick from one of your core indie outlets."
-      ],
-      "pts": [
-        "Stereogum Album of the Week",
-        "Double album co-produced by Tyler Childers",
-        "Out this Friday"
-      ],
-      "src": "Stereogum",
-      "site": "stereogum.com",
-      "url": "https://www.stereogum.com/2516368/album-of-the-week-willi-carlisle-the-universal-bubba/reviews/album-of-the-week/",
-      "min": 5,
-      "q": "Willi Carlisle The Universal Bubba",
-      "img": "img/2026-11-04/s14.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "music",
-      "kind": "Album review",
-      "h": "mpq's Dignified Losers sits with failure instead of fixing it",
-      "why": "Indonesian indie, quietly honest",
-      "sum": [
-        "Pophariini reviews Dignified Losers, the second album from Indonesian act mpq (Alit Djarot and Daniel Hasudungan), released 23 October. The music is intimate and calm, with steady rhythms and drifting, airy moods that sound more relaxed than the songs' subjects: perfectionism, overthinking, fear of risk, friendships fading and grief that has no words yet.",
-        "The reviewer praises 'Into Me', where a breezy sound reads as denial, the bouncy 'The Entourage', 'Goodbye Everest' with Nabila Hanina, and 'Ode to Grief', whose wordless choir is moving but keeps sorrow at arm's length. Some tracks fade next to the members' own explanations, but the album's honesty, admitting nothing is solved, is its strength."
-      ],
-      "pts": [
-        "Second album, out 23 October",
-        "Standouts: 'Into Me', 'Ode to Grief', 'Miles & Miles'",
-        "No numeric score"
-      ],
-      "src": "Pophariini",
-      "site": "pophariini.com",
-      "url": "https://pophariini.com/review/ulasan-album-mpq-dignified-losers-menjalani-kekalahan-yang-belum-selesai/",
-      "min": 7,
-      "q": "mpq Dignified Losers",
-      "published": "2026-10-30"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Saya Gray drops glitch-grunge EP QWERTY III",
-      "why": "Fuzzed-out, left-field alt",
-      "sum": [
-        "Canadian art-pop artist Saya Gray has released QWERTY III on Dirty Hit, the third in her series of between-albums EPs following volumes in 2023 and 2024. She describes them as experiments and throwaways that document how it feels to live in a strange world.",
-        "Stereogum calls the sound glitch-grunge: singer-songwriter melodies run through fuzzed-out guitars and jarring stop-start production, on songs like 'YOU??? HUH???'. It caps a big stretch for Gray, whose 2025 album SAYA earned a Polaris Prize nomination and who recently opened for Turnstile."
-      ],
-      "pts": [
-        "Out now on Dirty Hit",
-        "Third QWERTY EP",
-        "Recently toured with Turnstile"
-      ],
-      "src": "Stereogum",
-      "site": "stereogum.com",
-      "url": "https://www.stereogum.com/2516416/saya-gray-releases-new-ep-qwerty-iii/music/",
-      "min": 2,
-      "q": "Saya Gray QWERTY III",
-      "img": "img/2026-11-04/s16.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Chastity Belt share final pre-album single 'Friends For This'",
-      "why": "Seattle indie rock, album this week",
-      "sum": [
-        "Seattle indie rockers Chastity Belt have released 'Friends For This', the last preview of their new album All My Friends, out 6 November on Suicide Squeeze. The album had been rolled out in pairs of songs, including 'Pavement' and 'Designs'.",
-        "Guitarist and singer Lydia Lund wrote it right after moving back to Seattle from two years in England, about picking friendships back up. The vocals were cut in her basement with her bandmates, and Stereogum flags the big, cathartic wails near the end."
-      ],
-      "pts": [
-        "Album All My Friends out 6 November",
-        "Song about reconnecting after two years away",
-        "Label: Suicide Squeeze"
-      ],
-      "src": "Stereogum",
-      "site": "stereogum.com",
-      "url": "https://www.stereogum.com/2516394/chastity-belt-friends-for-this/music/",
-      "min": 2,
-      "q": "Chastity Belt Friends For This",
-      "img": "img/2026-11-04/s17.jpg",
-      "published": "2026-11-02"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Dutch Uncles announce Polygon Hotel, share 'No Note'",
-      "why": "Wiry, clever British indie",
-      "sum": [
-        "Manchester art-pop band Dutch Uncles will release Polygon Hotel on 19 February via Memphis Industries, their first album since 2023's True Entertainment and their first as a six-piece. The band produced it themselves.",
-        "Lead single 'No Note' is a busy, marimba-heavy song with shifting melodies that Stereogum likens to XTC and Tears For Fears; singer Duncan Wallis calls it a lament about time wasted staring at your phone. A UK tour follows in March, ending in Leeds after a London date at the 100 Club."
-      ],
-      "pts": [
-        "Album due 19 February",
-        "First record as a sextet",
-        "UK tour in March"
-      ],
-      "src": "Stereogum",
-      "site": "stereogum.com",
-      "url": "https://www.stereogum.com/2516440/dutch-uncles-announce-new-album-polygon-hotel-hear-no-note/music/",
-      "min": 2,
-      "q": "Dutch Uncles No Note",
-      "img": "img/2026-11-04/s18.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Charlotte Adigéry & Bolis Pupul announce Mainland Madinina",
-      "why": "Smart, danceable art-pop",
-      "sum": [
-        "Belgian duo Charlotte Adigéry and Bolis Pupul will follow 2022's Topical Dancer with Mainland Madinina on 5 February via DeeWee/Because, again co-produced by Soulwax. They wrote it between Ghent and Martinique, home of Adigéry's late mother, and it is their first music since both became parents.",
-        "New single 'From Healer To Dealer' is an eight-and-a-half-minute, twitchy funk-pop track about two narcissists talking almost entirely in buzzwords. Tour dates run February to April across Europe and North America."
-      ],
-      "pts": [
-        "Album due 5 February",
-        "Co-produced by Soulwax",
-        "Tour across Europe and North America"
-      ],
-      "src": "Stereogum",
-      "site": "stereogum.com",
-      "url": "https://www.stereogum.com/2516425/charlotte-adigery-bolis-pupul-announce-new-album-mainland-madinina-hear-from-healer-to-dealer/music/",
-      "min": 2,
-      "q": "Charlotte Adigéry Bolis Pupul From Healer To Dealer",
-      "img": "img/2026-11-04/s19.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "AMI Awards 2026 takes over Jakarta tonight",
-      "why": "Big night for local music",
-      "sum": [
-        "The 29th AMI Awards, Indonesia's main music awards, is held tonight, 4 November, at Ciputra Artpreneur in South Jakarta. This year's theme, Ruang Nada Nusantara, puts traditional music, regional instruments and songs in local languages alongside modern work.",
-        "Performers include KLa Project, enau, Andien, Idgitaf, Ghea Indrawari, Raim Laode and SMASH. There are 67 categories, with four new ones including Best Rap/Hip Hop Album and a hipdut production award. Culture Minister Fadli Zon and his deputy Giring Ganesha backed the show at a press event in Makassar."
-      ],
-      "pts": [
-        "Tonight at Ciputra Artpreneur",
-        "67 categories, 4 new",
-        "Line-up includes enau and Idgitaf"
-      ],
-      "src": "Pophariini",
-      "site": "pophariini.com",
-      "url": "https://pophariini.com/news/ami-awards-2026-siapkan-panggung-untuk-kla-project-hingga-idgitaf/",
-      "min": 2,
-      "img": "img/2026-11-04/s20.jpg",
-      "published": "2026-11-02"
-    },
-    {
       "t": "fashion",
-      "kind": "Restock",
-      "h": "Telfar restocks the Shmedium in 12 colours",
-      "why": "Telfar's everyday bag in playful colours",
+      "kind": "Collab",
+      "h": "Chopova Lowena taps Violet Grohl for its Clubhouse campaign",
+      "why": "Playful, rock-tinged niche label",
       "sum": [
-        "Telfar's homepage is flagging a Shmedium Shopping Bag restock. The in-between size, bigger than the small and smaller than the medium, is back at $195 in twelve shades. That includes neutrals like black, cream and tan plus the fun ones: lavender, grape, eggplant, kush and oxblood.",
-        "No colour shows as sold out right now, but Telfar restocks usually move fast. A banner also offers a free logo hat on orders over $200, so one Shmedium plus a small add-on gets you the freebie."
+        "Cult London label Chopova Lowena released a campaign starring Violet Grohl, shot by Grace Difford, celebrating its first shop: the Clubhouse at 84 Teesdale Street in East London, which opened in August with custom furniture and vintage curiosities.",
+        "At its centre is Petal, the brand's club mascot, on an exclusive line of striped tees, camo bandanas, socks, boyshorts, caps and stickers. The store also has a Skirt Bar where visitors design their own Chopova Lowena skirt from deadstock and vintage fabrics, in the brand's mix of folklore, sportswear and subculture."
       ],
       "pts": [
-        "Shmedium bag, $195, 12 colourways",
-        "Lavender, grape, eggplant and kush back in stock",
-        "Spend $200+ for a free Telfar hat"
-      ],
-      "src": "Telfar",
-      "site": "telfar.net",
-      "url": "https://www.telfar.net/collections/all-shmedium-shoppers",
-      "min": 1,
-      "img": "img/2026-11-04/s21.jpg",
-      "published": "2026-11-04"
-    },
-    {
-      "t": "fashion",
-      "kind": "Accessories",
-      "h": "Telfar's Baby Bag Charm now glows in the dark",
-      "why": "Small, whimsical Telfar add-on",
-      "sum": [
-        "Telfar has added a Glow in the Dark version to its tiny Baby Bag Charm. It's a miniature Shopping Bag that clips onto a bigger bag, keys or a belt loop. The homepage marks it new and out now.",
-        "The charm costs $78 and comes in twelve finishes, including Azalea, Acid, Ballerina, Denim Washed, Silver and Yellow. Black Rainbow is already sold out. The site also lists new fall Skullys at $68, in leopard, snake and star prints."
-      ],
-      "pts": [
-        "Glow in the Dark Baby Bag Charm, $78",
-        "12 finishes; Black Rainbow sold out",
-        "Printed fall Skully beanies, $68"
-      ],
-      "src": "Telfar",
-      "site": "telfar.net",
-      "url": "https://www.telfar.net/collections/baby-bag-charm",
-      "min": 1,
-      "img": "img/2026-11-04/s22.jpg",
-      "published": "2026-11-04"
-    },
-    {
-      "t": "fashion",
-      "kind": "News",
-      "h": "Violet Grohl fronts Chopova Lowena's Clubhouse campaign",
-      "why": "Rock-kid energy meets colourful niche label",
-      "sum": [
-        "Chopova Lowena, the London label known for its pleated, carabiner-clipped folk skirts, cast musician and actress Violet Grohl in a new campaign shot by Grace Difford. The campaign celebrates the brand's first shop, the East London Clubhouse at 84 Teesdale Street, which opened in August.",
-        "The Clubhouse sells an exclusive line starring Petal, the club mascot: striped tees, camo bandanas, socks, caps, boyshorts and stickers. A Skirt Bar lets you build your own skirt from deadstock, vintage Bulgarian and new fabrics. You can shop in store or on chopovalowena.com."
-      ],
-      "pts": [
-        "Violet Grohl stars, shot by Grace Difford",
-        "Clubhouse-exclusive Petal merch drop",
-        "Build-your-own Skirt Bar in East London"
+        "Stars Violet Grohl",
+        "Mascot merch: tees, bandanas, caps",
+        "Design-your-own Skirt Bar"
       ],
       "src": "Hypebae",
       "site": "hypebae.com",
       "url": "https://hypebae.com/2026/11/chopova-lowena-violet-grohl-clubhouse-campaign-london-grace-difford-where-to-buy",
-      "min": 2,
-      "img": "img/2026-11-04/s23.jpg",
+      "min": 3,
+      "img": "img/2026-11-05/s18.jpg",
       "published": "2026-11-03"
-    },
-    {
-      "t": "fashion",
-      "kind": "Sneaker drops",
-      "h": "NEIGHBORHOOD x Converse All Star LGCY Hi lands Nov 9",
-      "why": "Beat-up, rock-leaning Chucks",
-      "sum": [
-        "NEIGHBORHOOD and Converse are working together again for the first time in seven years, this time on the All Star LGCY Hi. The upper is cord cloth, a sturdy fabric often used on military jackets, and the whole shoe is aged to look worn in, down to a weathered sole.",
-        "Converse heel labels and NEIGHBORHOOD patches are swapped between the left and right shoes for an asymmetric look. The insoles are co-branded. It releases November 9 through neighborhood.jp and converse.co.jp. Price and colourway haven't been confirmed yet."
-      ],
-      "pts": [
-        "Release: November 9 (Japan webstores)",
-        "Cord-cloth upper with an all-over distressed finish",
-        "Mismatched heel patches left and right"
-      ],
-      "src": "Hypebeast",
-      "site": "hypebeast.com",
-      "url": "https://hypebeast.com/2026/11/neighborhood-converse-all-star-lgcy-hi-collaboration-release-info",
-      "min": 2,
-      "img": "img/2026-11-04/s24.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "fashion",
-      "kind": "Sneaker drops",
-      "h": "Nike and atmos etch Harajuku's streets onto an AF1",
-      "why": "Clean street sneaker with a nerdy map detail",
-      "sum": [
-        "Nike and Tokyo boutique atmos revealed an Air Force 1 '01 Harajuku for this weekend's atmoscon. It's an all-white pair, and the toe and heel overlays are laser-etched with a map of Harajuku's streets. That's a quieter take on the 2016 atmoscon pair, which carried TYO and NYC lettering.",
-        "It uses the reissued '01 shape seen on recent Nigo and Steven Victor collabs. For now the shoe will be shown at Nike's atmoscon booth in Tokyo, with chances to win a pair. Nike hasn't confirmed a wider release or a price."
-      ],
-      "pts": [
-        "Laser-etched Harajuku street map",
-        "Debuts at atmoscon Tokyo this weekend",
-        "Wider release not yet announced"
-      ],
-      "src": "Hypebeast",
-      "site": "hypebeast.com",
-      "url": "https://hypebeast.com/2026/11/nike-air-force-1-low-01-harajuku-atmoscon-reveal-first-look",
-      "min": 2,
-      "img": "img/2026-11-04/s25.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "fashion",
-      "kind": "Sneaker drops",
-      "h": "Converse made Chucks for kitchen shifts",
-      "why": "Everyday Chucks that can take a beating",
-      "sum": [
-        "Converse's new At Your Service collection turns the Chuck Taylor into a work shoe for kitchens. It comes as a high-top, a low-top and a slip-on, all with slip-resistant diamond-tread outsoles that Converse says meet or beat ASTM and ISO workplace standards. CX foam adds cushioning for long shifts.",
-        "Canvas pairs repel water and oil, and leather versions wipe clean. The collection launched November 3 on Converse.com and at select retailers. Hypebeast didn't list prices."
-      ],
-      "pts": [
-        "High, Low and Slip-On styles",
-        "Non-slip soles and CX cushioning",
-        "Out now since Nov 3 on Converse.com"
-      ],
-      "src": "Hypebeast",
-      "site": "hypebeast.com",
-      "url": "https://hypebeast.com/2026/11/converse-kitchen-ready-chucks-at-your-service-collection",
-      "min": 2,
-      "img": "img/2026-11-04/s26.jpg",
-      "published": "2026-11-02"
-    },
-    {
-      "t": "fashion",
-      "kind": "New label",
-      "h": "Madrid's Reparto goes all-in on bad taste",
-      "why": "Loud, ironic, colourful niche label",
-      "sum": [
-        "Madrid label Reparto named its SS27 collection Niche and Chic. It plays with the line between elegance and excess, nodding to the bohemians of late-1800s Paris, when chic first became shorthand for sophistication. It follows the brand's FW26 Backlot show.",
-        "Expect leopard-print sequins, taffeta, custom badges, asymmetric button-downs and slogan tees reading Fashion Victim and Everything Looks The Same. Hot pink clashes with black throughout, and prints and textures are mixed on purpose. You can shop it at repartostudio.com."
-      ],
-      "pts": [
-        "SS27 collection titled Niche and Chic",
-        "Leopard sequins, hot pink and slogan tees",
-        "Available via repartostudio.com"
-      ],
-      "src": "Hypebae",
-      "site": "hypebae.com",
-      "url": "https://hypebae.com/2026/10/reparto-ss27-niche-and-chic-collection-madrid-where-to-buy",
-      "min": 2,
-      "img": "img/2026-11-04/s27.jpg",
-      "published": "2026-10-29"
-    },
-    {
-      "t": "fashion",
-      "kind": "Accessories",
-      "h": "Nike launches its own jewellery line",
-      "why": "Sporty, tomboy-friendly jewellery",
-      "sum": [
-        "Nike is moving into jewellery with an in-house collection built on its heritage codes. It includes necklaces, rings, bracelets and Just Do It nameplates, from simple everyday pieces to bolder statement ones.",
-        "The standout is a fine curb chain with tiny Swooshes worked into the links, made for layering. Pieces come in sterling silver and 14k gold vermeil. They drop in time for the holidays on Nike.com and the SNKRS app. Prices haven't been announced."
-      ],
-      "pts": [
-        "Swoosh-link curb chains for layering",
-        "Sterling silver and 14k gold vermeil",
-        "Sold on Nike.com and SNKRS"
-      ],
-      "src": "Hypebae",
-      "site": "hypebae.com",
-      "url": "https://hypebae.com/2026/10/nike-swoosh-jewelry-collection-necklace-earrings-info-where-to-buy",
-      "min": 2,
-      "img": "img/2026-11-04/s28.jpg",
-      "published": "2026-10-30"
-    },
-    {
-      "t": "fashion",
-      "kind": "Collab",
-      "h": "Dazed's 10 biggest collabs of October",
-      "why": "One-stop catch-up on quirky collabs",
-      "sum": [
-        "Dazed rounded up October's top fashion collaborations. Highlights include Vaquera's VX-1 Heel for Converse, a skate-shoe-meets-kitten-heel worn by Kim Petras, and JW Anderson's UGG boots in orange, brown and green. There's also a latex adidas Firebird tracksuit by JENNAX and Ganni's leopard print on lululemon.",
-        "Also on the list: Acne Studios reviving Hussein Chalayan's early-2000s ideas, Aries x Sorel chukkas, Kiko Kostadinov's latest Crocs and Oakley drops, I.AM.GIA with Playboi Carti's Young Vamp Life, END x Samsøe Samsøe, and a Talia Byre capsule for Topshop."
-      ],
-      "pts": [
-        "Converse x Vaquera heeled skate shoe",
-        "JW Anderson UGGs in bold colours",
-        "Kiko Kostadinov x Crocs now online"
-      ],
-      "src": "Dazed",
-      "site": "dazeddigital.com",
-      "url": "https://www.dazeddigital.com/fashion/article/71269/1/the-biggest-fashion-collaborations-of-october-streetwear-adidas-converse-vaquera",
-      "min": 4,
-      "img": "img/2026-11-04/s29.jpg",
-      "published": "2026-10-30"
     },
     {
       "t": "fashion",
       "kind": "Style note",
-      "h": "Inside fakemink's costume-only Halloween gig",
-      "why": "Underground gig style with playful DIY looks",
+      "h": "Lagos Fashion Week's street style went full colour",
+      "why": "Colourful street-style inspo",
       "sum": [
-        "London rapper fakemink played a Halloween show at The Underworld in Camden on October 31, and Dazed published a 37-photo street-style gallery. He never set a dress code, but fans decided in his comments that no costume meant no entry. The spooky theme matched his May album Terrified., which borrows from Dante's Inferno and David Lynch.",
-        "The crowd came as zombies, creepy mimes, killer dolls, Ghostface, Jason and Donnie Darko's Frank. Some went sillier, with Minions, Teletubbies, a SWAT team and Toy Story's Slinky Dog."
+        "Dazed's photo story from Lagos Fashion Week shows why the once-a-year event matters for Africa's labels and its street-style crowd. On the runway, Orange Culture returned home from Berlin with kaleidoscopic modernism, Fruché showed sculptural wooden bodices and IAMISIGO wove statuesque shapes from natural fibres.",
+        "Outside, guests went big on colour and silhouette: crimson overshirts pinned with gold brooches, chartreuse slip dresses with gold bangles and plenty of bold layering."
       ],
       "pts": [
-        "Costume-mandatory crowd at Camden's Underworld",
-        "37-shot gallery by Cameron Hendry",
-        "From horror classics to Teletubbies"
+        "Lagos FW happens once a year",
+        "Orange Culture returns home",
+        "Bold colour everywhere"
       ],
       "src": "Dazed",
       "site": "dazeddigital.com",
-      "url": "https://www.dazeddigital.com/fashion/article/71278/1/fakemink-halloween-photos-spooky-street-style-best-costumes-camden-town",
+      "url": "https://www.dazeddigital.com/fashion/article/71286/1/lagos-fashion-week-2026-street-style-ss27-photos-nigeria",
       "min": 2,
-      "img": "img/2026-11-04/s30.jpg",
+      "img": "img/2026-11-05/s19.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "Denim Tears x adidas: Stan Smith and Superstar in market-bag plaid",
+      "why": "Story-driven sneakers with colour",
+      "sum": [
+        "Tremaine Emory's Denim Tears has revealed its first adidas Originals collaboration: the Stan Smith and Superstar wrapped in black, blue, red and cream woven plaid taken from the Ghana Must Go market bag, with cream soles and shell toe.",
+        "A Sankofa symbol sits under co-branded tongue details. In an interview with Hypebeast, Emory explains the humble bag's place in fashion history. No release date yet."
+      ],
+      "pts": [
+        "Stan Smith and Superstar",
+        "Ghana Must Go plaid",
+        "Release date to come"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/denim-tears-adidas-originals-collaboration-tremaine-emory-interview",
+      "min": 4,
+      "img": "img/2026-11-05/s20.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "PUMA x JiyongKim weather the CELL Geo, out 7 November",
+      "why": "Niche-designer sneaker",
+      "sum": [
+        "South Korean designer Jiyong Kim, known for ageing fabric with sun and the elements instead of chemical dyes, has reworked PUMA's futuristic CELL Geo with worn-in fabrics, weathered finishes, raw trims and frayed laces.",
+        "The sculptural CELL heel unit and streamlined running shape stay intact underneath. It drops globally on 7 November via PUMA, JiyongKim and select stores, with a limited Black colourway sold only by JiyongKim."
+      ],
+      "pts": [
+        "Drops 7 November",
+        "Sun-bleached, lived-in look",
+        "Exclusive Black via JiyongKim"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/puma-jiyongkim-cell-geo-sneaker-collab-release-date-where-to-buy",
+      "min": 3,
+      "img": "img/2026-11-05/s21.jpg",
       "published": "2026-11-02"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Barbour and FARM Rio bring tropical prints to British jackets again",
+      "why": "Colourful twist on outerwear",
+      "sum": [
+        "Barbour and Brazil's FARM Rio have reunited for a third collection. FARM Rio reworks Barbour's signature tartan into two exclusive prints: one in classic browns and blues, the other bursting with florals and banana motifs.",
+        "The prints run across showerproof and quilted jackets, reversible liners, overshirts, knitwear, skirts and dresses, with floral-lined interiors and dual-branded details."
+      ],
+      "pts": [
+        "Third Barbour x FARM Rio drop",
+        "Tartan remixed with bananas",
+        "Jackets, knits, dresses"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/barbour-farm-rio-collaboration-collection-jackets-outerwear-where-to-buy",
+      "min": 3,
+      "img": "img/2026-11-05/s22.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "fashion",
+      "kind": "Guide",
+      "h": "This week's drops: Supreme x Vaquera, Palace x Burberry and more",
+      "why": "Streetwear drops at a glance",
+      "sum": [
+        "Hypebeast's weekly drop roundup leads with Supreme and Vaquera's campy Fall 2026 capsule, from graphic hoodies to a duvet set. Palace marks its new Poland Street flagship in London with a store-only Burberry capsule, and BAPE and adidas push a Y2K basketball line led by the Crazy Energy+.",
+        "Also out: Crenshaw Skate Club x Sprite's barbershop-inspired streetwear, a sixth Pas Normal Studios x Salomon running capsule, and The North Face x Cecilie Bahnsen's floral-embroidered cropped Nuptse."
+      ],
+      "pts": [
+        "Supreme x Vaquera camp capsule",
+        "Palace x Burberry, London only",
+        "Floral cropped Nuptse"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/best-drops-november-week-1-supreme-palace-bape",
+      "min": 2,
+      "img": "img/2026-11-05/s23.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "fashion",
+      "kind": "News",
+      "h": "Coperni shuts down after dispute with its distributor",
+      "why": "Industry shake-up",
+      "sum": [
+        "Paris label Coperni, eight years old, is closing. Founders Arnaud Vaillant and Sébastien Meyer said operating company Coperni SAS will cease trading after failing to settle a dispute over unpaid sums and licensing with distributor and shareholder Tomorrow.",
+        "Tomorrow had ended the licence amid debts, pushing Coperni into court protection earlier this year. The founders tried to buy back the brand, but governance fights, financial strain and a cancelled Fall/Winter 2026 show ended it."
+      ],
+      "pts": [
+        "Coperni SAS ceases operations",
+        "Licensing fight with Tomorrow",
+        "FW26 show had been cancelled"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/coperni-closes-brand-founders-arnaud-vaillant-sebastien-meyer-cease-operations-news",
+      "min": 2,
+      "img": "img/2026-11-05/s24.jpg",
+      "published": "2026-11-04"
     },
     {
       "t": "politics",
       "kind": "Indonesia",
-      "h": "Civil society coalition rejects new agrarian reform law",
-      "why": "Land conflict and DPR lawmaking",
+      "h": "Ex-police chief Listyo Sigit named suspect in alleged wiretapping of Prabowo",
+      "why": "Power struggle inside the state",
       "sum": [
-        "The DPR passed the Agrarian Reform Regulation Law (UU PRA) on September 22 after less than a week of deliberation with the government. A coalition including Solidaritas Perempuan and YLBHI says the process shut out the public and that the official text still hasn't been published.",
-        "The coalition lists seven objections: rushed passage, a new presidential agency (BRAN) now headed by a police general, exclusions for national strategic projects, state-firm and military land, strict eligibility rules that can shut out displaced women and indigenous communities, no agrarian court, and retained criminal provisions. YLBHI cites 94 agrarian cases it handled in 2025 and at least 160 complaints to Komnas HAM about police conduct in land conflicts."
+        "Former national police chief Listyo Sigit Prabowo has been named a suspect, with two other police officers, in an alleged illegal wiretapping of President Prabowo Subianto and other political figures, Bareskrim announced on 3 November. All three are detained at police headquarters; a fourth person remains a witness.",
+        "The case began with a 30 October report by a police officer alleging illegal interception, deletion of electronic data and illegal access. Investigators say they seized 11 phones, an iPad and four flash drives. The charges under the new Criminal Code and the ITE law carry up to 10 years in prison."
       ],
       "pts": [
-        "Law drafted and passed in about a month",
-        "Strategic project, state-firm and military land excluded",
-        "Coalition says criminalisation clauses stay in"
+        "Three suspects detained",
+        "Report filed 30 October",
+        "Up to 10 years under new KUHP"
+      ],
+      "src": "Magdalene",
+      "site": "magdalene.co",
+      "url": "https://magdalene.co/story/fakta-penangkapan-listyo-sigit-akibat-dugaan-penyadapan-presiden-prabowo/",
+      "min": 5,
+      "img": "img/2026-11-05/s25.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Civil society lists seven problems with the new Agrarian Reform Law",
+      "why": "Land justice and DPR accountability",
+      "sum": [
+        "The DPR passed the Agrarian Reform Regulation Law (UU PRA) on 22 September, but a civil-society coalition for agrarian justice says it is deeply flawed. Solidaritas Perempuan's Armayanti Sanusi told Konde.co the public still lacks access to the full text, and that drafting lacked meaningful participation.",
+        "She argues agrarian reform should correct unequal land ownership, especially for grassroots women, and that excluding farmers, Indigenous peoples, fishers and conflict-affected communities risks entrenching dominant economic interests. YLBHI's Edy Kurniawan also criticised both process and substance."
+      ],
+      "pts": [
+        "Passed by DPR on 22 September",
+        "Full text still not public",
+        "Women, farmers, adat groups sidelined"
       ],
       "src": "Konde.co",
       "site": "konde.co",
       "url": "https://www.konde.co/2026/11/tujuh-alasan-kenapa-undang-undang-pengaturan-reforma-agraria-dinilai-problematik/",
-      "min": 10,
-      "img": "img/2026-11-04/s31.jpg",
+      "min": 13,
+      "img": "img/2026-11-05/s26.jpg",
       "published": "2026-11-03"
     },
     {
       "t": "politics",
       "kind": "Indonesia",
-      "h": "Batak indigenous women on decades of fighting Toba Pulp Lestari",
-      "why": "Indigenous land rights vs corporate power",
+      "h": "Rain eases Central Kalimantan fires, but activists demand corporations still face the law",
+      "why": "Environment and corporate impunity",
       "sum": [
-        "Konde.co profiles indigenous women from six Tano Batak communities in North Sumatra who have resisted pulp company PT Toba Pulp Lestari (TPL). They describe their forests being cleared for eucalyptus, ancestral graves dug up, and arrests and raids involving Brimob police. Several say police protected company staff instead of residents.",
-        "The piece draws on a 2026 report by AMAN Tano Batak and partner NGOs that documents 112 victims, including 56 people criminalised and 61 physically attacked. The government revoked TPL's forest permit in January 2026, but the women and the report argue that is not justice. They want customary land recognised, the land restored, and abuses investigated."
+        "Rain has begun to put out forest and peatland fires in Central Kalimantan after weeks of dangerous haze. Walhi Kalteng's Agung Sesa says the relief must not end law enforcement against companies suspected of involvement, and warns that El Niño continues into next year.",
+        "Mongabay reports that residents and students who protested the slow fire response were instead smeared with ethnic and religious (SARA) labels. Activists want the wet season used to prepare against repeat fires."
       ],
       "pts": [
-        "Report counts 112 victims across six communities",
-        "TPL permit revoked January 2026, operations halted",
-        "Women often stood on the front lines of resistance"
-      ],
-      "src": "Konde.co",
-      "site": "konde.co",
-      "url": "https://www.konde.co/2026/11/menyusuri-jejak-pelanggaran-ham-pt-tpl-dan-perlawanan-perempuan-adat-tano-batak/",
-      "min": 25,
-      "img": "img/2026-11-04/s32.jpg",
-      "published": "2026-11-02"
-    },
-    {
-      "t": "politics",
-      "kind": "Indonesia",
-      "h": "Haze from forest fires is now a public health crisis, experts warn",
-      "why": "Corporate land clearing harms people",
-      "sum": [
-        "Health and environmental groups say this year's forest and land fires have become a public health emergency. Citing Health Ministry data, Mongabay reports 333,470 acute respiratory infection cases in seven provinces as of October 21, about a fifth of them in children under five. Air quality readings in Kalimantan reached hazardous levels.",
-        "Walhi Central Kalimantan says 74% of hotspots there lie inside company concessions. It is calling for environmental audits, revoking permits on land that keeps burning, peat restoration, compensation for residents, and legal action against corporate landholders. BNPB says more than 51,000 personnel and 61 aircraft have been deployed against the fires."
-      ],
-      "pts": [
-        "333,470 respiratory infection cases, per ministry",
-        "Walhi: 74% of Kalteng hotspots in concessions",
-        "Groups demand permit revocations and compensation"
+        "Haze had reached hazardous levels",
+        "Walhi: prosecute companies anyway",
+        "Protesters faced SARA smears"
       ],
       "src": "Mongabay Indonesia",
       "site": "mongabay.co.id",
-      "url": "https://www.mongabay.co.id/2026/11/03/para-pakar-jelaskan-bahaya-hirup-asap-kebakaran-hutan/",
+      "url": "https://mongabay.co.id/2026/11/04/hujan-redakan-api-kalteng-proses-hukum-karhutla-harus-tetap-jalan/",
+      "min": 6,
+      "img": "img/2026-11-05/s27.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Songket weavers in Pandai Sikek reject a toll road through their land",
+      "why": "Land conflict, women's livelihoods",
+      "sum": [
+        "In Nagari Pandai Sikek, Tanah Datar, West Sumatra, women songket weavers fear a planned toll road will take farmland, homes and ancestral pusako land. Local youth estimate it would affect 18 hectares of farmland, 1.8 hectares of housing and seven songket businesses.",
+        "Residents put farming and weaving turnover at about Rp27 billion a year. Customary leaders and residents have formally rejected the route and asked the government for an alternative; Walhi Sumbar urges respect for community land rights."
+      ],
+      "pts": [
+        "18 ha of farmland at stake",
+        "Weaving economy worth ~Rp27bn/yr",
+        "Community asks for another route"
+      ],
+      "src": "Mongabay Indonesia",
+      "site": "mongabay.co.id",
+      "url": "https://mongabay.co.id/2026/11/04/proyek-tol-ancam-kehidupan-masyarakat-pandai-sikek/",
+      "min": 9,
+      "img": "img/2026-11-05/s28.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "politics",
+      "kind": "Muslim wins",
+      "h": "Abdul El-Sayed becomes the first Muslim US senator",
+      "why": "Historic Muslim and pro-Palestine win",
+      "sum": [
+        "Progressive Democrat Abdul El-Sayed won Michigan's open Senate seat with over 52% of the vote, beating Republican Mike Rogers to become the first Muslim ever elected to the US Senate, Democracy Now! reports. He ran on Medicare for All, fighting inequality, getting big money out of politics and ending military aid to Israel, despite Islamophobic attacks from top Republicans.",
+        "Democrats retook both chambers of Congress in a broad rebuke of Trump. Organizer Linda Sarsour said the win shows progressives can win in states like Michigan while standing up for Palestinian rights."
+      ],
+      "pts": [
+        "Won Michigan with 52%+",
+        "Ran on ending military aid to Israel",
+        "Democrats take both chambers"
+      ],
+      "src": "Democracy Now!",
+      "site": "democracynow.org",
+      "url": "http://www.democracynow.org/2026/11/4/michigan_senate_abdul_el_sayed",
+      "min": 10,
+      "img": "img/2026-11-05/s29.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "politics",
+      "kind": "Muslim wins",
+      "h": "Record number of hijab-wearing women elected in US midterms",
+      "why": "Muslim women making history",
+      "sum": [
+        "Four state senators-elect and one US congresswoman who wear the hijab won on Tuesday, a national record, Middle East Eye reports, despite surging anti-Muslim rhetoric since Trump returned to power in January 2025.",
+        "Among them is Georgia's Ruwa Romman. The Muslim Public Affairs Council had warned that far-right provocations might deter Muslim voters, but several young, visibly Muslim women rose to office anyway."
+      ],
+      "pts": [
+        "Five hijabi women elected",
+        "Includes a US congresswoman",
+        "Won amid rising Islamophobia"
+      ],
+      "src": "Middle East Eye",
+      "site": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/news/us-elections-2026-hijabis-elected-statewide-and-national-offices",
+      "min": 6,
+      "img": "img/2026-11-05/s30.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "politics",
+      "kind": "Muslim wins",
+      "h": "Gaza mission surgeon Adam Hamawy wins a House seat in New Jersey",
+      "why": "Gaza solidarity reaches Congress",
+      "sum": [
+        "Egyptian-American surgeon Adam Hamawy, who did medical missions in Gaza, won New Jersey's 12th congressional district, becoming the first Muslim and first Egyptian American to represent the state in the House, Middle East Eye reports.",
+        "In his victory speech he addressed the people of Gaza directly and vowed to hold Trump accountable. His win is part of a Democratic wave projected to give the party around 250 House seats."
+      ],
+      "pts": [
+        "First Muslim House rep from NJ",
+        "Former Gaza medical volunteer",
+        "Spoke to Gaza in victory speech"
+      ],
+      "src": "Middle East Eye",
+      "site": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/news/egyptian-doctor-who-undertook-medical-missions-gaza-will-now-go-congress",
       "min": 5,
-      "img": "img/2026-11-04/s33.jpg",
-      "published": "2026-11-03"
+      "img": "img/2026-11-05/s31.jpg",
+      "published": "2026-11-04"
     },
     {
       "t": "politics",
       "kind": "Free Palestine",
-      "h": "Hebron siege lifts as Gaza killings continue under ceasefire",
-      "why": "Key West Bank and Gaza developments",
+      "h": "Over 1,100 child amputees in Gaza blocked from treatment abroad, NGO says",
+      "why": "Gaza's medical siege",
       "sum": [
-        "Israeli forces withdrew from Hebron on November 2 after a siege of about 10 days. Al Jazeera's data unit counted about 5,000 people displaced and at least 120 arrests, and the governor put daily economic losses at 10–12 million shekels. UN OCHA recorded 397 settler attacks in the first 26 days of October, its highest monthly count since tracking began in 2006.",
-        "In Gaza, the Health Ministry says 1,593 people have been killed since last year's ceasefire. Drone strikes in al-Mawasi killed five police officers and a ministry official, according to Gaza authorities. Israel said many of the dead were Hamas fighters but provided no evidence. Aid groups say roughly 200,000 tents are needed as winter approaches."
+        "The Geneva-based Euro-Med Human Rights Monitor says 1,134 children in Gaza have lost limbs in Israeli attacks, and that Israeli limits on travel and medical evacuations keep most from specialised care abroad, Al Jazeera reports.",
+        "The WHO says of 2,300 amputees assessed between September 2024 and May 2026, only about 500 received permanent prosthetics. Euro-Med says just eight certified prosthetics professionals work in Gaza, warning unadjusted limbs could cause lifelong pain as children grow."
       ],
       "pts": [
-        "OCHA: record 397 settler attacks in October",
-        "Gaza ministry: 1,593 killed since ceasefire",
-        "Red Crescent says 26 hospitals out of service"
+        "1,134 child amputees (Euro-Med)",
+        "Under a quarter got prosthetics (WHO)",
+        "Only eight specialists in Gaza"
       ],
       "src": "Al Jazeera",
       "site": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings",
-      "min": 6,
-      "img": "img/2026-11-04/s34.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "politics",
-      "kind": "World",
-      "h": "Record Arab vote could decide whether Netanyahu stays in power",
-      "why": "Palestinian citizens reshape Israeli politics",
-      "sum": [
-        "Arab-led parties won a record 19 Knesset seats in Israel's election: 11 for the Joint List and 8 for Ra'am. Al Jazeera reports that Arab turnout roughly doubled to about 80%. Netanyahu's bloc has 53 seats and Gadi Eisenkot's opposition bloc has 48, so neither reaches the 61-seat majority without the Arab parties.",
-        "The Arab parties are expected to back Eisenkot from outside government to remove Netanyahu. Ra'am says it would join a government if it got the internal security portfolio. Netanyahu has claimed fraud without proof, but the head of the elections committee says the vote was conducted properly. Lawmakers are sworn in on November 10."
-      ],
-      "pts": [
-        "Joint List 11, Ra'am 8 seats",
-        "Arab turnout about 80%, per Al Jazeera",
-        "Netanyahu's fraud claims are unproven"
-      ],
-      "src": "Al Jazeera",
-      "site": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks",
-      "min": 6,
-      "img": "img/2026-11-04/s35.jpg",
-      "published": "2026-11-02"
+      "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo",
+      "min": 2,
+      "img": "img/2026-11-05/s32.jpg",
+      "published": "2026-11-04"
     },
     {
       "t": "politics",
       "kind": "Free Palestine",
-      "h": "UNRWA lays off staff in Gaza; critics call deficit manufactured",
-      "why": "Refugee rights and aid under attack",
+      "h": "UNRWA mass layoffs in Gaza seen as an attack on refugee rights",
+      "why": "Refugee rights under pressure",
       "sum": [
-        "UNRWA is cutting staff in Gaza, and its acting chief says the agency faces a $70 million deficit. According to the staff union, about 1,000 Gaza employees have been dismissed and 2,000 retirees have not been replaced. The agency's workforce across its five fields of operation has fallen from 32,000 to 25,000, and the union has started ten days of administrative disobedience.",
-        "A former UNRWA spokesperson calls the deficit manufactured and links the cuts to the US-led Board of Peace, which has said UNRWA has no place in the 'New Gaza'. Mondoweiss says it could not independently verify any coordination between the Board and UNRWA. Palestinian factions say the cuts threaten services for six million refugees."
+        "UNRWA has dismissed hundreds of staff in Gaza, citing a $70 million shortfall, and its acting chief told the staff union he plans to end thousands of contracts across the region. Mondoweiss spoke to laid-off workers like a microfinance officer of 13 years who is now broke.",
+        "Staff, the union and a former spokesperson say the cuts target the refugee question itself, since UNRWA embodies Palestinians' claim to return after the Nakba. The layoffs come as the US-led Board of Peace prepares to oversee Gaza's post-war governance."
       ],
       "pts": [
-        "Union: about 1,000 Gaza staff dismissed",
-        "Agency workforce down from 32,000 to 25,000",
-        "Board of Peace wants UNRWA out of Gaza"
+        "$70m deficit cited",
+        "Thousands of jobs at risk",
+        "Union: cuts target right of return"
       ],
       "src": "Mondoweiss",
       "site": "mondoweiss.net",
       "url": "https://mondoweiss.net/2026/11/amid-deepening-financial-crisis-unrwa-conducts-mass-layoffs-in-gaza/",
-      "min": 5,
-      "img": "img/2026-11-04/s36.jpg",
+      "min": 7,
+      "img": "img/2026-11-05/s33.jpg",
       "published": "2026-11-03"
     },
     {
       "t": "politics",
       "kind": "Free Palestine",
-      "h": "Palestine Action's direct-action model spreads worldwide",
-      "why": "Global antizionist movement and repression",
+      "h": "Palestine Action ban challenged at UK Supreme Court; dozens arrested outside",
+      "why": "Solidarity movement on trial",
       "sum": [
-        "Groups modelled on the UK's Palestine Action now operate in Italy, the Netherlands, Ireland, Spain, France and Canada, Al Jazeera reports. They target arms makers such as Leonardo, Elbit and Safran. Recent actions include an occupation of a Safran site in France and a raid on an Elbit subsidiary in Canada, and Scotiabank divested from Elbit after a Montreal protest.",
-        "The UK banned Palestine Action as a terrorist group in July 2025, and at least 4,000 people have reportedly been arrested since. The group's legal challenge to the ban returns to court on Wednesday. US sanctions in August cut Palestine Action Italy off from its US-based donation platform."
+        "The campaign to overturn the UK's terrorism designation of Palestine Action reached the Supreme Court in a two-day hearing, while dozens were arrested outside, Middle East Eye reports.",
+        "Representing co-founder Huda Ammori, Raza Husain KC argued that under 1% of the group's protests met the legal definition of terrorism and that it never advocated violence against people, comparing its tactics to the Suffragettes and other movements never proscribed."
       ],
       "pts": [
-        "Offshoots in at least six countries",
-        "About 4,000 UK arrests since the ban",
-        "Challenge to the UK ban back in court"
+        "Two-day Supreme Court hearing",
+        "Lawyers: under 1% of actions 'terrorism'",
+        "Dozens arrested at the court"
       ],
-      "src": "Al Jazeera",
-      "site": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global",
-      "min": 5,
-      "img": "img/2026-11-04/s37.jpg",
-      "published": "2026-11-03"
-    },
-    {
-      "t": "politics",
-      "kind": "Free Palestine",
-      "h": "Dockworkers strike at 100+ ports; Cambridge votes to divest",
-      "why": "Labor power for Palestine",
-      "sum": [
-        "Last week dockworkers and activists held strikes and protests at more than 100 ports in at least 22 countries, demanding an end to the war on Gaza and to US-Israeli wars in the region. NYC Mayor Zohran Mamdani voiced support. On the US East Coast, the only action was at Port Elizabeth, New Jersey.",
-        "In Cambridge, Massachusetts, the city council voted 5–4 to divest from businesses profiting from Israel's occupation after nearly 300 residents spoke during public comment. According to Mondoweiss, the city's pension fund holds about $2.6 million in Palantir and more in arms makers including Elbit. Palestinian unions have called a Day of Solidarity for November 29."
-      ],
-      "pts": [
-        "Port actions in at least 22 countries",
-        "Cambridge council votes 5–4 to divest",
-        "Palestinian unions call November 29 solidarity day"
-      ],
-      "src": "Mondoweiss",
-      "site": "mondoweiss.net",
-      "url": "https://mondoweiss.net/2026/11/power-pushback-dockworkers-across-the-world-strike-for-palestine/",
-      "min": 5,
-      "img": "img/2026-11-04/s38.jpg",
-      "published": "2026-11-03"
+      "src": "Middle East Eye",
+      "site": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-dozens-arrested-outside-supreme-court-hearing-palestine-action-ban",
+      "min": 1,
+      "img": "img/2026-11-05/s34.jpg",
+      "published": "2026-11-04"
     }
   ]
 }
