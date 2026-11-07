@@ -1,0 +1,734 @@
+{
+  "date": "2026-11-07",
+  "generated": "2026-11-07T07:51:47.936472+07:00",
+  "stories": [
+    {
+      "t": "movies",
+      "kind": "News",
+      "h": "Sebastián Lelio, director of A Fantastic Woman, dies at 52",
+      "why": "Major loss for world cinema",
+      "sum": [
+        "Chilean filmmaker Sebastián Lelio, whose A Fantastic Woman won the Oscar for best international feature in 2018, has died aged 52. Chilean media report he was found dead at his Santiago home on Friday morning, citing health reasons; his partner confirmed the news on Instagram and the family asked for privacy.",
+        "Lelio made his name with Gloria and moved between Chile and English-language work, including Disobedience, Gloria Bell and The Wonder. His latest, The Wave, premiered at Cannes last year, and he was reportedly in production on his next feature, Chilean Poet."
+      ],
+      "pts": [
+        "Oscar winner for A Fantastic Woman (2018)",
+        "Was working on new feature Chilean Poet",
+        "Also made Gloria, Disobedience, The Wonder"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/sebastian-lelio-chilean-director-of-oscar-winning-a-fantastic-woman-dies-at-52/5222141.article",
+      "min": 1,
+      "img": "img/2026-11-07/s01.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Wild Horse Nine: McDonagh's CIA comedy gets a perfect score",
+      "why": "Auteur comedy, awards contender",
+      "sum": [
+        "Martin McDonagh's follow-up to The Banshees of Inisherin sends two jaded CIA operatives, played by John Malkovich and Sam Rockwell, to Easter Island in 1973 as Chile's politics shift. One is on a secret assignment that strains their friendship, while the other's past conduct is under scrutiny.",
+        "Little White Lies' David Jenkins calls it pure, revitalising entertainment that doubles as a sharp jab at American meddling abroad. He praises the bantering Malkovich–Rockwell chemistry, a playful first half that turns melancholy, and strong support from Parker Posey and Tom Waits, and tips it for awards."
+      ],
+      "pts": [
+        "Rated 5/5/5 by LWLies",
+        "Malkovich possibly at his career best",
+        "Opened wide in UK this weekend"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/wild-horse-nine",
+      "min": 5,
+      "q": "Wild Horse Nine",
+      "score": "5/5",
+      "scoreNote": "Little White Lies",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Godzilla Minus Zero is loud but hollow, says LWLies",
+      "why": "Big-screen kaiju, temper expectations",
+      "sum": [
+        "Takashi Yamazaki's sequel to Godzilla Minus One, the first Japanese film shot for IMAX, sets the story in 1949 and adds the dragon-like Ghidorah. Japan's disaster bureau scrambles for a plan, recruiting a meteorologist and the first film's traumatised pilot.",
+        "David Jenkins finds it a rushed retread: the city-levelling destruction is the main draw, but characters are thin, the monster-beating schemes feel half-baked, and long melodramatic dialogue scenes stall the pace. A biologist subplot is the best idea and gets dropped too soon."
+      ],
+      "pts": [
+        "Enjoyment 2/5",
+        "Spectacle strong, story weak",
+        "Now in UK cinemas at 475 sites"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/godzilla-minus-zero",
+      "min": 3,
+      "q": "Godzilla Minus Zero",
+      "score": "2/5",
+      "scoreNote": "Little White Lies",
+      "img": "img/2026-11-07/s03.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "La Bola Negra: Spain's Oscar entry is a Lorca-inspired whirlwind",
+      "why": "Lush, political European arthouse",
+      "sum": [
+        "Javier Ambrossi and Javier Calvo's period drama, loosely drawn from Federico García Lorca, spans about eight decades across three timelines linked by a fated Civil War encounter, from a 1932 casino initiation to a present-day playwright upended by an inheritance.",
+        "Rafa Sales Ross calls it ambitious, moving and vivid, with pointed things to say about political freedom, memory and how Spain treats its artists. Penélope Cruz stands out as a cabaret performer; a brief dip after the striking opening barely dents it."
+      ],
+      "pts": [
+        "Scored 4/4/4",
+        "Spain's Oscar submission",
+        "Won LFF audience award"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/la-bola-negra",
+      "min": 4,
+      "q": "La Bola Negra",
+      "score": "4/5",
+      "scoreNote": "Little White Lies",
+      "img": "img/2026-11-07/s04.jpg",
+      "published": "2026-11-03"
+    },
+    {
+      "t": "movies",
+      "kind": "Box office",
+      "h": "Wild Horse Nine and Godzilla Minus Zero lead a packed UK weekend",
+      "why": "What's opening this weekend",
+      "sum": [
+        "Screen Daily's UK-Ireland preview has Disney's Wild Horse Nine as the widest opener at 655 cinemas, benchmarked against McDonagh's Banshees (£1.6m opening) and Three Billboards (£2.2m). Godzilla Minus Zero lands at 475 sites; its predecessor opened to £786,000.",
+        "Also arriving: a George Michael concert film at 605 sites, Nitesh Tiwari's Hindi epic Ramayana with a Hans Zimmer and A R Rahman score, John Madden's Onwards and Sideways, I Play Rocky, La Bola Negra, and a limited A24 run for Misty Green before its Netflix debut on 9 November."
+      ],
+      "pts": [
+        "Wild Horse Nine widest at 655 sites",
+        "Ramayana opens at 359 sites",
+        "Misty Green hits Netflix 9 Nov"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-wild-horse-nine-godzilla-minus-zero-stomp-into-cinemas/5222120.article",
+      "min": 4,
+      "img": "img/2026-11-07/s05.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "movies",
+      "kind": "News",
+      "h": "Bruno Dumont made his next film entirely with generative AI",
+      "why": "Cinema's AI debate gets an auteur",
+      "sum": [
+        "French auteur Bruno Dumont has already finished The End, an English-language sci-fi thriller made with generative AI, with no actors or traditional crew, from his Paris home. It follows an ambitious LA cop investigating a crime as earthquakes and asteroids hit the city.",
+        "He wrote the script 25 years ago but shelved it as too costly. Working scene by scene from his own shot breakdowns, he says the savings are enormous and AI restores auteur independence amid tough French financing. A 2027 festival and theatrical release is planned; no sales agent yet."
+      ],
+      "pts": [
+        "No actors or crew used",
+        "Script dates back to 1999",
+        "Festival rollout planned for 2027"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/bruno-dumont-turns-to-generative-ai-to-film-english-language-sci-fi-thriller-the-end/5222133.article",
+      "min": 3,
+      "q": "Bruno Dumont The End",
+      "img": "img/2026-11-07/s06.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "movies",
+      "kind": "Interview",
+      "h": "Jordan Firstman on his A24 crowdpleaser Club Kid",
+      "why": "Warm indie comedy to watch for",
+      "sum": [
+        "Club Kid stars writer-director Jordan Firstman as Peter, a New York party promoter who discovers he has a ten-year-old British son. The A24 release is in US cinemas now and expands nationwide on Thanksgiving.",
+        "In a long Letterboxd interview, Firstman says he aimed for laughs without cynicism, leaning on physical comedy and cutting most of his written jokes. He compares club scenes in Berlin, New York and London, explains the film isn't anti-partying, cites Kramer vs. Kramer and Party Girl as touchstones, and defends a key park scene as central to its queer identity."
+      ],
+      "pts": [
+        "A24 comedy about late fatherhood",
+        "Influences: Kramer vs. Kramer, The Kid",
+        "Wide US release on Thanksgiving"
+      ],
+      "src": "Letterboxd Journal",
+      "site": "letterboxd.com",
+      "url": "https://letterboxd.com/journal/jordan-firstman-club-kid-a24-interview/",
+      "min": 11,
+      "q": "Club Kid",
+      "img": "img/2026-11-07/s07.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "movies",
+      "kind": "Streaming",
+      "h": "Letterboxd's November Unreleased Gems: four festival films to rent",
+      "why": "Indie festival picks, rare access",
+      "sum": [
+        "Letterboxd Video Store is offering four festival favourites with no other release, as digital rentals from 12 November to 12 December only. They are Crash Land, a SXSW comedy about small-town amateur stuntmen starring Finn Wolfhard; The Only Way Out Is Through, a wilderness reunion thriller; The Plan, a single-take Slamdance thriller about young activists; and Mouth Full of Golds, a Tribeca doc on the jeweller behind hip-hop grillz.",
+        "Availability varies by title and is limited to markets such as the US, UK, Nordics, Australia and New Zealand, so it likely isn't available in Indonesia."
+      ],
+      "pts": [
+        "Rentals run 12 Nov to 12 Dec",
+        "Four festival titles, no other release",
+        "Not listed for Indonesia"
+      ],
+      "src": "Letterboxd Journal",
+      "site": "letterboxd.com",
+      "url": "https://letterboxd.com/journal/unreleased-gems-november-2026/",
+      "min": 6,
+      "q": "Crash Land Dempsey Bryk",
+      "img": "img/2026-11-07/s08.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "movies",
+      "kind": "News",
+      "h": "Alex Gibney's four-hour Musk doc sets international dates",
+      "why": "High-profile doc, release tracking",
+      "sum": [
+        "Universal Pictures International will open Alex Gibney's documentary Musk in the UK on 15 January 2027, then Germany (21 Jan), Spain (5 Feb), France (17 Feb) and Australia (25 Feb), with more territories to come. No Asian dates have been announced yet.",
+        "The four-hour profile premiered at Venice, played Toronto and London, heads to IDFA this month, and opened in US cinemas via Bleecker Street in October. Universal says it was always committed to the rollout, answering Gibney's claim that the studio had wavered."
+      ],
+      "pts": [
+        "UK release 15 January 2027",
+        "No Asian release dates yet",
+        "Runs about four hours"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/universal-pictures-international-dates-musk-roll-out-in-key-territories/5222142.article",
+      "min": 1,
+      "q": "Musk Alex Gibney",
+      "img": "img/2026-11-07/s09.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "Album review",
+      "h": "Eterna's Push dives deep into post-rock",
+      "why": "Alt-rock with real ambition",
+      "sum": [
+        "Guillem Peeters, the former bar italia drummer who records as Eterna, put out his third album Push on 6 November. The Line of Best Fit says his first two records were too loose and scruffy to stick. This one sounds carefully built: hazy, blissed-out post-rock rather than casual slacker collage.",
+        "Reviewer Cal Cashin singles out the moment on \"Kyrie\" where a drifting guitar and a distant drum loop suddenly lock together. He hears echoes of late-period XTC on \"Shadowcasting for the Villain\", trip-hop on \"Gum\" and slowcore on \"Ten Lone Stars\", and says the album finally shows Peeters cares."
+      ],
+      "pts": [
+        "Third Eterna album, out 6 November",
+        "Swaps slacker-rock shrugs for lush post-rock",
+        "Highlights: Kyrie, Shadowcasting for the Villain, Rex"
+      ],
+      "src": "The Line of Best Fit",
+      "site": "thelineofbestfit.com",
+      "url": "https://www.thelineofbestfit.com/albums/recovering-slacker-eterna-cares-an-awful-lot-on-his-third-album-push",
+      "min": 5,
+      "q": "Eterna Push",
+      "score": "8/10",
+      "scoreNote": "The Line of Best Fit",
+      "img": "img/2026-11-07/s10.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "music",
+      "kind": "New list",
+      "h": "Stereogum's 5 best songs of the week",
+      "why": "Fresh indie and shoegaze picks",
+      "sum": [
+        "Stereogum's weekly top five is led by Sufjan Stevens' first Christmas song in 15 years, a fragile track over flickering guitar that he calls an apology. In second place is Brooklyn shoegaze band Crate's \"Crushed To Nothing\", which the site calls a near-perfect shoegaze power ballad.",
+        "Fire-Toolz is third with a four-part song that crams ambient synths, prog guitar, IDM and black-metal vocals into a few minutes. Smush's angsty \"john dearly\" ends in a frantic burst. bloodsports close the list with \"Ten Thousand Feet\", built on the odd true story of a catcher hurt by a ball dropped from a blimp."
+      ],
+      "pts": [
+        "No. 1: Sufjan Stevens, On This Christmas (It Only Gets Better)",
+        "Crate's shoegaze single arrives ahead of their debut album",
+        "Also on the list: Fire-Toolz, Smush, bloodsports"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2516820/the-5-best-songs-of-the-week-651/lists/the-5-best-songs-of-the-week",
+      "min": 4,
+      "q": "Crate Crushed To Nothing",
+      "img": "img/2026-11-07/s11.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Fiona Apple returns with protest cover",
+      "why": "Alt icon back in action",
+      "sum": [
+        "Fiona Apple and her band The Bolt Cutters (Davíd Garza, Sebastian Steinberg and Amy Aileen Wood) have covered \"Revolution\", a 1968 protest song by Mother Earth. They recorded their parts remotely, and Wood stitched them together. The track belongs to Right Now, a benefit compilation produced by Dougie Bowne, with proceeds going to Doctors Without Borders.",
+        "The release follows this week's US election, in which Democrats won both houses of Congress. An accompanying statement calls that win a beginning rather than an end. For now the song is only on Instagram. Apple has been unusually active this year after saying in July that she was finding it hard to write."
+      ],
+      "pts": [
+        "Covers Mother Earth's 1968 song Revolution",
+        "Benefit album Right Now supports Doctors Without Borders",
+        "Only on Instagram for now"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2516832/fiona-apple-the-bolt-cutters-cover-mother-earths-revolution-for-doctors-without-borders-benefit-comp/music",
+      "min": 4,
+      "q": "Fiona Apple Revolution",
+      "img": "img/2026-11-07/s12.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "MJ Lenderman covers Neil Young, writes a foreword",
+      "why": "Indie-rock favourite, new music",
+      "sum": [
+        "MJ Lenderman, the Asheville singer-songwriter, has recorded Neil Young's \"Separate Ways\" from the 2020 album Homegrown. It appears on Heart Of Gold: The Songs Of Neil Young, Vol. 3, which came out the same day as Vol. 2 of the tribute series. He has played the song live before, along with other Young favourites.",
+        "He has also written the foreword to a new Penguin Classics edition of Harry Crews' 1990 novel Body, out next week. The Paris Review has published it online. Lenderman played new songs at a festival last month, which set off talk of a follow-up to Manning Fireworks, but nothing has been announced."
+      ],
+      "pts": [
+        "Covers Neil Young's Separate Ways for a tribute album",
+        "Wrote the foreword to a Harry Crews reissue",
+        "No new album announced yet"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2516876/mj-lenderman-shares-new-neil-young-cover-harry-crews-book-foreword/music",
+      "min": 2,
+      "q": "MJ Lenderman Separate Ways",
+      "img": "img/2026-11-07/s13.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Dusted's Black Tattoo, cut live to tape",
+      "why": "Raw, scrappy indie rock",
+      "sum": [
+        "Brian Borcherdt of Toronto dance-rock band Holy Fuck has a new song from Dusted, his more intimate lo-fi indie-rock project. \"Black Tattoo\" was recorded live to a vintage Tascam 388 with no click track, and Alex Edkins of Metz and Weird Nightmare plays guitar on it.",
+        "Each take came out faster than the one before, so the band voted for the first. Borcherdt says the song walks the line between control and abandon. In the video, directed by Michael Leblanc, he and his daughter travel through Toronto's subway tunnels. Two Toronto shows with Weird Nightmare follow in mid-November."
+      ],
+      "pts": [
+        "Recorded live to tape, first take kept",
+        "Guitar from Metz's Alex Edkins",
+        "Toronto shows on 18 and 19 November"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2516785/dusted-black-tattoo-brian-borcherdt-holy-fuck/music",
+      "min": 2,
+      "q": "Dusted Black Tattoo",
+      "img": "img/2026-11-07/s14.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Guppy return with Looking Right At It",
+      "why": "Easygoing indie-rock single",
+      "sum": [
+        "Guppy, the playful LA indie-rock band, have put out a new single called \"Looking Right At It\". Stereogum describes it as a dreamy, swaying song with sighing melodies.",
+        "It is their first new music since last year's standalone track \"Back To The Thing\", which followed their 2024 album Something Is Happening... No new album has been announced, so for now this is another one-off."
+      ],
+      "pts": [
+        "First new Guppy music in about a year",
+        "Soft, swaying indie rock",
+        "No album announced"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2516903/guppy-looking-right-at-it/music",
+      "min": 1,
+      "q": "Guppy Looking Right At It",
+      "img": "img/2026-11-07/s15.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "South Tangerang rock band Radiatif debuts with Tenang",
+      "why": "New Indonesian guitar band",
+      "sum": [
+        "Radiatif, a four-piece rock band from South Tangerang, released their first single \"Tenang\" on 23 October. The song is about restlessness and wanting some calm when life won't go to plan. The band told Pophariini they never set out to make it simple. The plain rock arrangement just came out of how they felt, and they think simple chords say enough.",
+        "They call the title a little naive, because nobody stays calm all the time. Now they want to play local collective gigs, and one day a big annual festival."
+      ],
+      "pts": [
+        "Debut single out 23 October",
+        "Straight-ahead guitar rock about seeking calm",
+        "Next goal: gigs, and eventually a big festival"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/news/radiatif-asal-tangerang-selatan-bicara-tentang-penerimaan-lewat-singel-tenang/",
+      "min": 3,
+      "q": "Radiatif Tenang",
+      "img": "img/2026-11-07/s16.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Tulus and Idgitaf lead AMI Awards 2026",
+      "why": "Big night for Indonesian music",
+      "sum": [
+        "The 29th Anugerah Musik Indonesia awards took place on Wednesday at Ciputra Artpreneur in South Jakarta. Tulus won four, including Best Male Pop Solo Artist and best production for \"Teh Hijau\", plus two fan-voted favourites. Idgitaf won three, among them Best Album for Berusaha di Bawah Hujan.",
+        "no na won two awards for \"rollerblade\", including Best Newcomer. This year's theme was Ruang Nada Nusantara, with 67 categories covering artists, songwriters and studio crews. Pophariini's article lists every winner."
+      ],
+      "pts": [
+        "Tulus: 4 awards; Idgitaf: 3; no na: 2",
+        "Best Album: Idgitaf, Berusaha di Bawah Hujan",
+        "67 categories this year"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/sehidup-semusik/tulus-raih-empat-penghargaan-idgitaf-tiga-di-ami-awards-2026/",
+      "min": 3,
+      "img": "img/2026-11-07/s17.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "music",
+      "kind": "Your artists",
+      "h": "Nothing new from Beyoncé or Kendrick Lamar today",
+      "why": "Checked every morning",
+      "sum": [
+        "No releases, tour dates, features or announcements in the last 24 hours."
+      ],
+      "pts": [],
+      "src": "Watchlist",
+      "site": "checked daily",
+      "url": null,
+      "min": 0
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "HOKA x Marni Clifton lands in loud orange",
+      "why": "Colorful, playful runner from a whimsical label",
+      "sum": [
+        "HOKA and Marni have teamed up again, this time reworking the Clifton 11 running shoe in three colorways. The orange pair is the standout: a vivid orange mesh upper, white midsole, a metallic silver band and a black forefoot outsole. There's also a near-tonal black version with red lace loops and a clean white pair with silver trim and pink-and-grey laces.",
+        "Marni's touches include raised 3D silicone lines, a knit collar lining, split HOKA/Marni heel branding, a plaid sockliner and two extra sets of speckled laces. It costs $275 and drops November 12 via Marni, then November 13 at HOKA and select stores worldwide."
+      ],
+      "pts": [
+        "$275, Marni channels Nov 12, HOKA Nov 13",
+        "Orange, black and white colorways",
+        "Extra speckled lace sets in every box"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/hoka-x-marni-reunite-to-rework-the-clifton-11-in-three-bold-colorways",
+      "min": 2,
+      "img": "img/2026-11-07/s19.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Vaquera and Supreme drop a punk capsule",
+      "why": "Rock-punk energy, tomboy skate fit",
+      "sum": [
+        "New York's irreverent label Vaquera has teamed up with Supreme on a capsule that mixes skate roots with Vaquera's cheeky humor. Hoodies and fitted caps carry kiss-print details, while tees, denim and even bedding get hand-drawn, punk-style graphics. Basketball shorts come in exaggerated proportions.",
+        "The piece people will talk about is a hoodie showing Jesus lounging on a bed of money, very on-brand for Vaquera's provocative streak. Prices weren't given; the collection is sold through Vaquera's site and Supreme's shop."
+      ],
+      "pts": [
+        "Kiss prints, punk DIY graphics",
+        "Oversized basketball shorts",
+        "On Vaquera and Supreme sites now"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/vaquera-supreme-collaboration-collection-kiss-print-hoodies-where-to-buy-release-date",
+      "min": 2,
+      "img": "img/2026-11-07/s20.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "Marine Serre's MS Rise III sneaker is out",
+      "why": "Niche label, colorful everyday sneaker",
+      "sum": [
+        "Marine Serre has released the MS Rise III, the third shoe in its signature sneaker line. It's a slim, low-profile take on vintage athletic trainers, mixing polyamide, calfskin, cowhide and polyester, with a leather crescent-moon patch on the side, an MS Sport tongue logo and a tonal heel emblem.",
+        "The outsole is recycled rubber with an embossed moon grip pattern, and spare laces come in the box for restyling. It comes in Ecru, Black, Yellow Suede and Light Pink, and is available now on Marine Serre's site and at select retailers; no price was listed."
+      ],
+      "pts": [
+        "Four colors incl. Yellow Suede and Light Pink",
+        "Recycled-rubber moon-pattern sole",
+        "Available now"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/marine-serre-ms-rise-iii-sneaker-pink-sport-where-to-buy",
+      "min": 1,
+      "img": "img/2026-11-07/s21.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "Story mfg. x ASICS go hiking in blanket check",
+      "why": "Niche craft label, outdoorsy tomboy sneaker",
+      "sum": [
+        "Slow-fashion label Story mfg. and ASICS have made the GEL-TRANSCEND FJ, a 90s-style hiker wrapped in Story's check pattern inspired by old woolen hiking blankets. Synthetic leather overlays frame the check panels, and the lugged outsole comes from the GEL-FujiTrabuco 7 trail shoe for grip and light cushioning.",
+        "It comes in a dark brown and a black/grey version for $180, releasing November 11 at Story mfg. and November 20 at ASICS. A 'Rambling Club' pop-up in London and New York gives accepted applicants, who must submit a hand-drawn self-portrait, early access."
+      ],
+      "pts": [
+        "$180, Nov 11 Story mfg., Nov 20 ASICS",
+        "Hiking-blanket check upper",
+        "Self-portrait entry for early access"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/story-mfg-asics-gel-transcend-fj-1203b194-200-1203b194-001-release-info",
+      "min": 2,
+      "img": "img/2026-11-07/s22.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "WACKO MARIA puts leopard on Lee and Wrangler",
+      "why": "Rock-leaning outerwear with a wild print",
+      "sum": [
+        "Tokyo's rock-and-roll label WACKO MARIA has reworked two American workwear classics for its FW26 delivery. The Lee Storm Rider denim jacket, in black or indigo, swaps its usual lining for a leopard-print pile collar with matching print inside the placket and brass buttons.",
+        "The Wrangler corduroy jacket comes either in black with a leopard collar or in all-over leopard cord with a black pile collar, plus copper snaps and big patch pockets. Silhouettes stay faithful to the originals. It drops November 7 at noon Japan time through WACKO MARIA stores and its webshop, which ships worldwide."
+      ],
+      "pts": [
+        "Lee denim and Wrangler cord jackets",
+        "Drops Nov 7, 12pm JST, ships worldwide",
+        "Prices not listed"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/lee-wrangler-wacko-maria-fall-winter-f-2026-collaboration-collection-release-info",
+      "min": 2,
+      "img": "img/2026-11-07/s23.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "Sonic x Heelys roll out in blue and pink",
+      "why": "Pure whimsy in bright color",
+      "sum": [
+        "Heelys and SEGA have released a limited Sonic the Hedgehog capsule built on the brand's Gio wheeled sneaker. The Sonic pair is classic Sonic blue with gold ring graphics across the upper, while the Amy Rose pair is all-over pink with printed sparkle details on the heel.",
+        "Both keep Heelys' heel wheels for rolling around. They cost $70 and are available now on Heelys' site and through select stockists worldwide."
+      ],
+      "pts": [
+        "Sonic blue and Amy Rose pink pairs",
+        "$70, out now",
+        "Built on the Heelys Gio"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/sega-sonic-the-hedgehog-heelys-collaboration-release-info",
+      "min": 2,
+      "img": "img/2026-11-07/s24.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "fashion",
+      "kind": "News",
+      "h": "Martine Rose officially takes over Balenciaga",
+      "why": "Subculture-driven designer gets a big stage",
+      "sum": [
+        "Kering has confirmed Martine Rose as Balenciaga's creative director, starting November 16, after Pierpaolo Piccioli's abrupt exit less than two years into the job. Rose, a British-Jamaican designer, founded her own label in 2007 and is known for mixing sportswear and tailoring with British subcultures like football, rave and reggae.",
+        "She previously consulted on Balenciaga menswear under Demna, so the move reads as a return to the house's streetwise roots. It's the first creative hire by Kering CEO Luca de Meo, and makes Rose only the second Black woman to lead a major European luxury house."
+      ],
+      "pts": [
+        "Starts November 16",
+        "Replaces Piccioli after under two years",
+        "Ex-Balenciaga menswear consultant"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/martine-rose-confirmed-balenciaga-new-creative-director",
+      "min": 2,
+      "img": "img/2026-11-07/s25.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "fashion",
+      "kind": "News",
+      "h": "Dazed's week: Bellingham for CK, fakemink, Palace",
+      "why": "Quick catch-up on the week's fashion buzz",
+      "sum": [
+        "Dazed's weekly roundup leads with footballer Jude Bellingham stripping to his briefs for Calvin Klein's new underwear campaign, shot in Spain. It also covers Martine Rose's Balenciaga appointment, a chat with Palace's founders about their new London flagship, and street style from rapper fakemink's Halloween show in Camden.",
+        "Holiday campaigns fill the rest: Mariah Carey for Gucci directed by Harmony Korine, Levi's stop-motion monster ad, and Claudia Schiffer for Chloé. Plus a Dior pop-up at Harrods until December 27, a Louis Vuitton menswear catwalk book, and RAISEfashion's $50,000 programme for young designers, open until December 4."
+      ],
+      "pts": [
+        "Bellingham fronts Calvin Klein underwear",
+        "fakemink Halloween show street style",
+        "RAISEfashion applications close Dec 4"
+      ],
+      "src": "Dazed",
+      "site": "dazeddigital.com",
+      "url": "https://www.dazeddigital.com/fashion/article/71309/1/jude-bellingham-goes-nude-for-calvin-klein-mariah-carey-gucci-dior",
+      "min": 5,
+      "img": "img/2026-11-07/s26.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Wiretap scandal widens: police name fourth suspect",
+      "why": "Elite power struggle inside Indonesia's security state",
+      "sum": [
+        "Indonesian police have named a fourth suspect in the alleged illegal wiretapping of President Prabowo Subianto: a senior officer identified as SU, reported by local media as Slamet Uliandi, a long-time head of monitoring and IT at the Criminal Investigation Agency. Investigators allege he approved the interceptions and the deletion of their records; he has not been detained, citing his health.",
+        "Earlier in the week three senior officers were arrested, including former police chief Listyo Sigit Prabowo, whom Prabowo then sacked as chief of staff. Listyo is widely seen as a Jokowi loyalist, and Al Jazeera frames the case as a widening Prabowo–Jokowi rift. Thousands of troops were deployed in Jakarta, and lawmakers are weighing an inquiry into VP Gibran's eligibility."
+      ],
+      "pts": [
+        "Fourth suspect allegedly signed off on the taps and record deletion",
+        "Ex-police chief Listyo among those arrested, removed as chief of staff",
+        "DPR mulls inquiry that could threaten Gibran's position"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens",
+      "min": 3,
+      "img": "img/2026-11-07/s27.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Seven reasons civil society rejects the new agrarian reform law",
+      "why": "Land conflicts, DPR lawmaking, women farmers",
+      "sum": [
+        "The DPR passed the Agrarian Reform Regulation Law on 22 September after under two weeks of deliberation, and a coalition including Solidaritas Perempuan and YLBHI says the public still has no official text. Konde.co lays out their seven objections, from the rushed process and a president-controlled implementing agency, now headed by a former deputy police chief, to exemptions that shield national strategic projects, state-firm and military land.",
+        "Critics say a 20-year occupation rule and formal-paper requirements will shut out women and displaced communities, there is no agrarian court, and criminal provisions remain that police tend to use against farmers. They conclude the law does not redistribute land from big holders to the landless."
+      ],
+      "pts": [
+        "Strategic projects, SOE and military land excluded from reform",
+        "Beneficiary rules may exclude women and displaced people",
+        "No agrarian court; criminalisation risks remain"
+      ],
+      "src": "Konde.co",
+      "site": "konde.co",
+      "url": "https://www.konde.co/2026/11/tujuh-alasan-kenapa-undang-undang-pengaturan-reforma-agraria-dinilai-problematik/",
+      "min": 12,
+      "img": "img/2026-11-07/s28.jpg",
+      "published": "2026-11-03"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "'Laut Bercerita' film is a call to resist today, review says",
+      "why": "Reformasi memory and civil liberties",
+      "sum": [
+        "Konde.co's deputy editor reviews the film adaptation of Leila Chudori's novel about 1990s student activists disappeared under Suharto's New Order, starring Reza Rahadian. She credits it for putting women into the story of the struggle but argues their roles stay framed around the male narrator, and that rushed scenes leave the Kedungombo and Blangguan land fights and the ongoing Kamisan protests unexplained.",
+        "Her central point is that the film should not be watched as distant history: she notes that some activists who inspired the characters now sit in government, compares the repression shown to the present, and urges viewers to treat protest as a right and keep pressing for accountability."
+      ],
+      "pts": [
+        "Adaptation of novel on 1998 enforced disappearances",
+        "Praises inclusion of women, faults limited depth",
+        "Links New Order repression to today's politics"
+      ],
+      "src": "Konde.co",
+      "site": "konde.co",
+      "url": "https://konde.co/2026/11/film-laut-bercerita-bukan-hanya-cerita-masa-lalu-ia-harus-bangkitkan-perlawanan-hari-ini",
+      "min": 8,
+      "img": "img/2026-11-07/s29.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "politics",
+      "kind": "Muslim wins",
+      "h": "Nearly 100 Muslim Americans win in the US midterms",
+      "why": "Historic Muslim electoral breakthrough, Gaza-driven vote",
+      "sum": [
+        "CAIR counts at least 97 Muslim Americans elected at federal, state and local level in the 2026 midterms, with more than a dozen others leading as counting continued. Seven head to Washington: Abdul El-Sayed, who becomes the first Muslim US senator after taking Michigan, plus House members Ilhan Omar, Rashida Tlaib, Andre Carson, Lateefah Simon and newcomers Adam Hamawy and Darializa Avila Chevalier.",
+        "Middle East Eye reports Muslim voter registration rose at least 25 percent. In CAIR's exit poll, 80 percent said Israel's assault on Gaza strongly shaped their vote and 70 percent cited anti-Muslim sentiment, amid a campaign marked by Islamophobic attacks from Trump and Vance."
+      ],
+      "pts": [
+        "El-Sayed is the first Muslim elected to the US Senate",
+        "Gaza volunteer surgeon Adam Hamawy wins a New Jersey House seat",
+        "Record number of hijab-wearing officeholders"
+      ],
+      "src": "Middle East Eye",
+      "site": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/news/why-nearly-100-muslims-win-national-local-races-us-midterm-elections",
+      "min": 11,
+      "img": "img/2026-11-07/s30.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Providence votes to divest; Trump's 'end of aid' questioned",
+      "why": "Divestment win for the solidarity movement",
+      "sum": [
+        "Voters in Providence, Rhode Island approved Question 7, making it the largest US city to divest from Israel. The outgoing mayor opposed it; incoming democratic socialist mayor David Morales backed it. Mondoweiss's weekly column treats it as one sign of a shift in US opinion on Israel.",
+        "The same column argues Trump's Election Day claim that US military aid to Israel will end this year shouldn't be believed: Congress has already funded billions through 2028, and the plan reportedly moves toward arms sales and deeper military integration. The author says Democrats who back cutting aid but reject an arms embargo would change little."
+      ],
+      "pts": [
+        "Providence becomes largest US city to divest from Israel",
+        "Billions in weapons funding already set through 2028",
+        "Author says only an arms embargo would bite"
+      ],
+      "src": "Mondoweiss",
+      "site": "mondoweiss.net",
+      "url": "https://mondoweiss.net/2026/11/the-shift-trump-says-hes-ending-aid-to-israel-thats-not-true/",
+      "min": 5,
+      "img": "img/2026-11-07/s31.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Israeli attacks kill four in Gaza, including a child",
+      "why": "Ongoing killings under the so-called ceasefire",
+      "sum": [
+        "Medical sources told Al Jazeera that Israeli attacks killed at least four Palestinians, among them a child, in central and southern Gaza on Wednesday. Drone strikes hit displaced people's tents near az-Zawayda, fire struck homes in eastern Bureij, and a woman was killed in Khan Younis outside areas Israel controls. Al Jazeera's reporter said troops were also bulldozing homes and farmland and pushing past the 'Yellow Line'.",
+        "Gaza's Health Ministry says 1,602 people have been killed since the October 2025 ceasefire and 74,618 since October 2023. The Government Media Office reports 5,989 alleged ceasefire violations, 753 of them in October."
+      ],
+      "pts": [
+        "Near-daily strikes continue despite the ceasefire",
+        "1,602 killed since truce, per Gaza Health Ministry",
+        "Reported land grabs beyond the Yellow Line"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza",
+      "min": 3,
+      "img": "img/2026-11-07/s32.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Israel demolishes Biddu homes, displacing 100+",
+      "why": "West Bank displacement and collective punishment",
+      "sum": [
+        "Israeli forces demolished five residential buildings with 12 apartments in Biddu, northwest of Jerusalem, early on 5 November, displacing more than 100 people. Residents say there was no warning and that soldiers used stun grenades and tear gas and stopped them retrieving belongings. The army cited missing permits in Area C, where Palestinians rarely receive them; a local councillor says two homes had no judicial orders and pending court challenges.",
+        "The owner's family links the demolitions to the release of his son in last year's prisoner exchange. The PA's Jerusalem Governorate called it a dangerous escalation and counts 471 demolition and land-levelling operations in its area from January to October."
+      ],
+      "pts": [
+        "Five buildings, 12 apartments razed in Area C",
+        "Family alleges punishment over freed prisoner son",
+        "471 operations recorded in Jerusalem area this year"
+      ],
+      "src": "Middle East Eye",
+      "site": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/news/israeli-forces-demolish-five-west-bank-buildings-and-displace-over-100-palestinians",
+      "min": 4,
+      "img": "img/2026-11-07/s33.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Gaza's date harvest is vanishing",
+      "why": "Human cost of Gaza's destroyed agriculture",
+      "sum": [
+        "Mondoweiss's Gaza correspondent Tareq Hajjaj reports that the war has wiped out much of Gaza's date palm farming, a centuries-old source of income and tradition. He says about 4,500 dunams of palms were destroyed by bombing or bulldozing, especially inside the 'yellow line'. One harvester who once worked some 5,000 trees with a 14-man crew picked about 70 this season.",
+        "Climbers who lost limbs or children in the war describe trying to feed families on a fraction of former work, and a displaced mother mourns holiday customs built around dates. The once 40-day season has nearly disappeared."
+      ],
+      "pts": [
+        "Around 4,500 dunams of palms reported destroyed",
+        "Harvest work collapsed from thousands of trees to dozens",
+        "Loss of livelihood and cultural tradition"
+      ],
+      "src": "Mondoweiss",
+      "site": "mondoweiss.net",
+      "url": "https://mondoweiss.net/2026/11/gazas-vanishing-date-harvest/",
+      "min": 5,
+      "img": "img/2026-11-07/s34.jpg",
+      "published": "2026-11-05"
+    }
+  ]
+}
