@@ -1,0 +1,712 @@
+{
+  "date": "2026-11-08",
+  "generated": "2026-11-08T10:22:25.760963+07:00",
+  "stories": [
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Wild Horse Nine: McDonagh's Cold War double act scores a perfect sheet",
+      "why": "Prestige auteur comedy with bite",
+      "sum": [
+        "Martin McDonagh's new dark comedy sends two burned-out CIA men, played by John Malkovich and Sam Rockwell, on an Easter Island break in 1973 as Salvador Allende's Chile heads for catastrophe. Rockwell's Lee is quietly sizing up Malkovich's Chris, a loose cannon who may be about to spill the agency's secrets, while Chris grows attached to a young Allende supporter.",
+        "Little White Lies' David Jenkins gives it top marks across the board, calling it lively and very funny but also a pointed critique of American meddling abroad. The scrappy first half turns melancholic later, and Malkovich may never have been better this century."
+      ],
+      "pts": [
+        "Dir. Martin McDonagh; with Malkovich, Rockwell, Buscemi, Parker Posey, Tom Waits",
+        "117 minutes; UK release 6 Nov after a Venice premiere",
+        "LWLies: 5/5 for anticipation, enjoyment and in retrospect"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/wild-horse-nine",
+      "min": 5,
+      "q": "Wild Horse Nine",
+      "score": "5/5",
+      "scoreNote": "Little White Lies",
+      "img": "img/2026-11-08/s01.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Godzilla Minus Zero is a loud, hollow sequel",
+      "why": "Big kaiju release, worth tempering expectations",
+      "sum": [
+        "Takashi Yamazaki follows his Oscar-winning Godzilla Minus One with a sequel in which Japan's disaster-response bureau battles a dragon-like monster that flattens towns and retreats to the mountains. Former pilot Shikishima, now a father and still haunted, is pulled back into the cockpit alongside a meteorologist, while a biologist's hidden agenda hints at a richer story that never develops.",
+        "LWLies' David Jenkins finds it rushed and repetitive: the same blend of CG destruction and exposition as before, with much less emotional punch. Set pieces are noisy and sometimes tense, but thin characters and long, shouty dramatic scenes make it a slog."
+      ],
+      "pts": [
+        "135 minutes; billed as the first Japanese film shot for IMAX",
+        "Opened in UK cinemas 6 Nov",
+        "LWLies: enjoyment 2/5, in retrospect 2/5"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/godzilla-minus-zero",
+      "min": 3,
+      "q": "Godzilla Minus Zero",
+      "score": "2/5",
+      "scoreNote": "Little White Lies",
+      "img": "img/2026-11-08/s02.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "La Bola Negra: Los Javis' sweeping Lorca-inspired epic",
+      "why": "Festival-favourite world cinema",
+      "sum": [
+        "Spanish duo Javier Ambrossi and Javier Calvo braid three timelines into a 159-minute drama loosely drawn from Federico García Lorca. In 1937 a young orphan fighting for Franco's side bonds with a wounded Republican; in 2017 a struggling playwright's inheritance leads him to a historian played by Glenn Close; and in 1932 a nervous young man faces an initiation at an elite casino.",
+        "Critic Rafa Sales Ross finds it ambitious and moving, praising the non-linear structure, its look at Spain's attitudes to desire and artists, and a standout Penélope Cruz as a cabaret singer, despite a brief dip after a strong start."
+      ],
+      "pts": [
+        "Spain's Oscar submission and BFI London audience award winner",
+        "Out in UK cinemas 6 Nov; already a box-office hit in Spain",
+        "LWLies: 4/5 on all three counts"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/la-bola-negra",
+      "min": 4,
+      "q": "La Bola Negra",
+      "score": "4/5",
+      "scoreNote": "Little White Lies",
+      "img": "img/2026-11-08/s03.jpg",
+      "published": "2026-11-03"
+    },
+    {
+      "t": "movies",
+      "kind": "News",
+      "h": "Sebastián Lelio, Oscar-winning Chilean director, dies at 52",
+      "why": "Loss of a major world-cinema voice",
+      "sum": [
+        "Chilean filmmaker Sebastián Lelio was found dead at his Santiago home on Friday, with local media citing health reasons. His partner confirmed the news on Instagram and asked for privacy.",
+        "Lelio won the international feature Oscar in 2018 for A Fantastic Woman, still Chile's only win in that category. His work also includes Gloria and its US remake Gloria Bell, Disobedience, The Wonder and last year's Cannes title The Wave. He was reportedly in production on Chilean Poet. Sony Pictures Classics paid tribute to him as a singular filmmaker."
+      ],
+      "pts": [
+        "A Fantastic Woman remains Chile's only international feature Oscar",
+        "Was reportedly shooting his next film, Chilean Poet",
+        "Tributes led by US distributor Sony Pictures Classics"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/sebastian-lelio-chilean-director-of-oscar-winning-a-fantastic-woman-dies-at-52/5222141.article",
+      "min": 2,
+      "q": "A Fantastic Woman",
+      "img": "img/2026-11-08/s04.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "movies",
+      "kind": "News",
+      "h": "Bruno Dumont made a whole sci-fi film with AI and no actors",
+      "why": "Arthouse meets the AI debate",
+      "sum": [
+        "French auteur Bruno Dumont has wrapped The End, an English-language sci-fi thriller about an ambitious LA cop investigating a crime as earthquakes and asteroids hit the city. He made it alone from his Paris home, using generative AI for the images, sound and what he calls virtual actors, with no cast or crew.",
+        "Dumont wrote the script 25 years ago but shelved it as too costly. He works scene by scene from his own shot lists and still controls performance and editing, arguing AI gives auteurs back their freedom as French financing tightens. He's self-financing and aiming for festivals and a 2027 release."
+      ],
+      "pts": [
+        "No human actors or crew; Dumont directed the AI himself",
+        "Script dates back to after Humanity (1999)",
+        "Festival run then theatrical release planned for 2027"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/bruno-dumont-turns-to-generative-ai-to-film-english-language-sci-fi-thriller-the-end/5222133.article",
+      "min": 3,
+      "q": "The End Bruno Dumont",
+      "img": "img/2026-11-08/s05.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "movies",
+      "kind": "Box office",
+      "h": "McDonagh, Godzilla and Ramayana lead a crowded UK weekend",
+      "why": "What's opening and what to stream next",
+      "sum": [
+        "Screen Daily's weekend preview has Wild Horse Nine as the widest new UK-Ireland release, on 655 screens for Disney. Comparisons are Banshees of Inisherin, which opened to £1.6m, and Three Billboards at £2.2m. Godzilla Minus Zero opens on 475 sites, against its predecessor's £786,000 debut, and Sony's Hindi epic Ramayana, starring Ranbir Kapoor and Yash, is on 359.",
+        "Also out: George Michael's 1988 Faith tour concert film on 605 screens, Peter Farrelly's I Play Rocky, La Bola Negra on 130 screens, and A24's Misty Green briefly in cinemas before it reaches Netflix on 9 November."
+      ],
+      "pts": [
+        "Wild Horse Nine: 655 sites, the week's widest opener",
+        "Ramayana score by Hans Zimmer and A R Rahman",
+        "Misty Green hits Netflix on 9 Nov"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-wild-horse-nine-godzilla-minus-zero-stomp-into-cinemas/5222120.article",
+      "min": 4,
+      "img": "img/2026-11-08/s06.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "movies",
+      "kind": "Festival",
+      "h": "Cautious buyers head into a pivotal AFM",
+      "why": "Where next year's indie films get bought",
+      "sum": [
+        "The American Film Market runs 10–15 November in Los Angeles, and Screen Daily says buyers are wary. The big topic is the Paramount–Warner Bros Discovery merger. Its consent decree commits the merged company to just four independent films a year and a $5m annual acquisitions fund, which independents call far too small.",
+        "Other topics include a push to make streamers spend half their original budgets on independent work and a proposed 20% federal production tax credit with backing from both parties. Sellers including FilmNation and AGC say buyers have become pickier and more data-driven, while AI-made projects are starting to show up on sales slates."
+      ],
+      "pts": [
+        "AFM: 10–15 Nov at the Fairmont Century Plaza",
+        "Merger deal guarantees four indie films a year",
+        "20% federal tax credit could become law next year"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/features/cautious-buyers-head-to-afm-at-critical-time-for-independent-sector/5222025.article",
+      "min": 6,
+      "img": "img/2026-11-08/s07.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "movies",
+      "kind": "News",
+      "h": "Alex Gibney's four-hour Musk doc sets international dates",
+      "why": "Headline-grabbing documentary to watch for",
+      "sum": [
+        "Universal Pictures International has dated the overseas release of Musk, Alex Gibney's four-hour documentary on Elon Musk. It traces his rise through Silicon Valley and his political reach, including his DOGE role in the Trump administration and his political donations.",
+        "After Venice, Toronto and the London Film Festival, and a US release through Bleecker Street in October, the film reaches the UK on 15 January 2027. Germany, Spain, France and Australia follow through February. Other markets, including Asia, are still to be announced."
+      ],
+      "pts": [
+        "UK 15 Jan; Germany 21 Jan; Spain 5 Feb; France 17 Feb; Australia 25 Feb",
+        "Screens at IDFA this month",
+        "No Asia or Indonesia date yet"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/universal-pictures-international-dates-musk-roll-out-in-key-territories/5222142.article",
+      "min": 2,
+      "q": "Musk Alex Gibney",
+      "img": "img/2026-11-08/s08.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "Album review",
+      "h": "Eterna's Push trades slacker shrug for post-rock bliss",
+      "why": "Indie rock drifting into post-rock",
+      "sum": [
+        "Best Fit's Cal Cashin gives Push, the third album from Eterna, an 8/10. Eterna is Guillem Peeters, a Barcelona-born, London-based multi-instrumentalist who used to drum for bar italia. His first two records, Wardrobe and Debunker, had ideas but stayed stuck in a too-casual slacker-rock pose.",
+        "Push is a clear leap. Peeters swaps London post-punk touchstones for English post-rock lineage, building hazy, patient, reverb-soaked songs that Cashin likens to Talk Talk and a modernised 90s post-rock. Kyrie, with its slow build and sudden payoff, is the standout, and the record feels both dreamlike and grounded."
+      ],
+      "pts": [
+        "8/10 from The Line of Best Fit",
+        "Ex-bar italia drummer's third solo album, out 6 Nov",
+        "Standouts: Kyrie, Rex, Gum, Ten Lone Stars"
+      ],
+      "src": "The Line of Best Fit",
+      "site": "thelineofbestfit.com",
+      "url": "https://www.thelineofbestfit.com/albums/recovering-slacker-eterna-cares-an-awful-lot-on-his-third-album-push",
+      "min": 4,
+      "q": "Eterna Push",
+      "score": "8/10",
+      "scoreNote": "The Line of Best Fit",
+      "img": "img/2026-11-08/s09.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Television guitarist Richard Lloyd dies at 75",
+      "why": "A founding voice of alt-rock guitar",
+      "sum": [
+        "Richard Lloyd, the second guitarist in New York art-punk band Television, died at home in Chattanooga, Tennessee, after being diagnosed with bile duct cancer in March. His death comes three years after frontman Tom Verlaine's.",
+        "Lloyd joined Television in 1973, and the band's CBGB residency led to 1977's landmark Marquee Moon, then Adventure, a split, and a 1992 reunion album. Alongside Verlaine he shaped one of rock's most influential twin-guitar sounds. He also made nine solo albums, played sessions for Matthew Sweet and John Doe, and wrote the memoir Everything Is Combustible."
+      ],
+      "pts": [
+        "Died 7 Nov at home, aged 75",
+        "Co-architect of Marquee Moon's interlocking guitars",
+        "Nine solo albums and a 2018 memoir"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2516946/televisions-richard-lloyd-dead-at-75/news",
+      "min": 2,
+      "q": "Television Marquee Moon",
+      "img": "img/2026-11-08/s10.jpg",
+      "published": "2026-11-07"
+    },
+    {
+      "t": "music",
+      "kind": "New list",
+      "h": "Stereogum's 5 best songs: Sufjan, Crate, smush and more",
+      "why": "Fresh indie and shoegaze picks",
+      "sum": [
+        "Stereogum's weekly picks are led by Sufjan Stevens' first Christmas song in 15 years, a tender, bittersweet piece with flickering guitar. Second is Brooklyn band Crate's Crushed To Nothing, a shoegaze power ballad ahead of their debut album, about being unable to help someone who won't help themselves.",
+        "The rest: Fire-Toolz's genre-mashing four-part mini-suite, smush's fuzzy, frantic john dearly about feeling like a kid in early adulthood, and bloodsports' tense, slow-building Ten Thousand Feet, inspired by a 1939 baseball stunt."
+      ],
+      "pts": [
+        "No. 1: Sufjan Stevens, On This Christmas (It Only Gets Better)",
+        "Crate's shoegaze ballad also made Best Fit's discovery playlist",
+        "Also: Fire-Toolz, smush, bloodsports"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2516820/the-5-best-songs-of-the-week-651/lists/the-5-best-songs-of-the-week",
+      "min": 4,
+      "q": "Crate Crushed To Nothing",
+      "img": "img/2026-11-08/s11.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "Album review",
+      "h": "Willi Carlisle's double LP is Stereogum's Album of the Week",
+      "why": "Ambitious left-field folk-rock pick",
+      "sum": [
+        "Stereogum named Willi Carlisle's The Universal Bubba its Album of the Week. It is a double LP co-produced by Tyler Childers and the most ambitious project of Carlisle's career, setting out to both celebrate and poke at Southern rural culture.",
+        "Carlisle pitched it as a rowdy, irreverent tour of country life, from civil war re-enactments to livestock auctions, and Chris DeVille argues the sprawling record pulls off what it attempts."
+      ],
+      "pts": [
+        "Album of the Week, 3 Nov",
+        "Double album co-produced by Tyler Childers",
+        "Celebrates and subverts Southern culture"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2516368/album-of-the-week-willi-carlisle-the-universal-bubba/reviews/album-of-the-week",
+      "min": 6,
+      "q": "Willi Carlisle The Universal Bubba",
+      "img": "img/2026-11-08/s12.jpg",
+      "published": "2026-11-03"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "MJ Lenderman covers Neil Young for tribute comp",
+      "why": "Indie rock's favorite slacker-poet",
+      "sum": [
+        "MJ Lenderman recorded Neil Young's Separate Ways, from the long-shelved album Homegrown, for Heart Of Gold: The Songs Of Neil Young, Vol. 3. That volume came out alongside Vol. 2. He has played other Young songs live, including Powderfinger.",
+        "He also wrote the foreword to a new Penguin Classics edition of Harry Crews' novel Body, which The Paris Review published online. Lenderman debuted new songs at a festival last month, stirring hopes for a follow-up to Manning Fireworks, but no album is confirmed."
+      ],
+      "pts": [
+        "Covers Neil Young's Separate Ways",
+        "Writes foreword to a Harry Crews reissue",
+        "New songs played live; no album announced yet"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2516876/mj-lenderman-shares-new-neil-young-cover-harry-crews-book-foreword/music",
+      "min": 2,
+      "q": "MJ Lenderman Separate Ways",
+      "img": "img/2026-11-08/s13.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Guppy return with dreamy single Looking Right At It",
+      "why": "Hazy LA indie rock",
+      "sum": [
+        "Los Angeles indie-rock band Guppy, whom Stereogum fondly calls goofballs, shared a new single, Looking Right At It. It is a dreamy, swaying song with soft, sighing vocals and melodic hooks.",
+        "It is their first new music since last year's one-off Back To The Thing, which followed their 2024 album Something Is Happening... No album, EP or tour has been announced."
+      ],
+      "pts": [
+        "New single out 6 Nov",
+        "Follows 2024's Something Is Happening...",
+        "No album announced yet"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2516903/guppy-looking-right-at-it/music",
+      "min": 1,
+      "q": "Guppy Looking Right At It",
+      "img": "img/2026-11-08/s14.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Cécil Yang calls out empty promises on CINGCONG",
+      "why": "Local scene pick from Jakarta",
+      "sum": [
+        "Indonesian artist Cécil Yang released CINGCONG, a hip-hop track sung in more Indonesian than usual for them. It vents at people who promise a lot and do little, inspired by a personal experience, and the song treats that habit as something found among friends and family as well as in romance.",
+        "The visualizer pairs freestyle footballers, whose skill comes from unseen practice, with scenes of daily Jakarta life. RAW Music produced it, Teza Sumendra directed the vocals and Ivan Gojaya mixed it. It follows I Am Something from earlier this year."
+      ],
+      "pts": [
+        "Released 4 Nov on streaming platforms",
+        "Message: prove it, don't just say it",
+        "Visualizer shot around Jakarta"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/news/cecil-yang-sentil-orang-yang-banyak-janji-di-singel-cingcong/",
+      "min": 2,
+      "q": "Cécil Yang CINGCONG",
+      "published": "2026-11-07"
+    },
+    {
+      "t": "music",
+      "kind": "Your artists",
+      "h": "Nothing new from Beyoncé or Kendrick Lamar today",
+      "why": "Checked every morning",
+      "sum": [
+        "No releases, tour dates, features or announcements in the last 24 hours."
+      ],
+      "pts": [],
+      "src": "Watchlist",
+      "site": "checked daily",
+      "url": null,
+      "min": 0
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "HOKA x Marni rework the Clifton 11 in bold orange",
+      "why": "Colorful, quirky runner for casual fits",
+      "sum": [
+        "HOKA and Marni are back together with the Clifton MARNI, a dressed-up take on HOKA's everyday Clifton 11 trainer. It keeps the running build of mesh upper, EVA midsole and rocker geometry. Marni adds raised 3D silicone lines along the sides, a textured knit collar, metal lace tags, a plaid sockliner and patterned laces.",
+        "There are three colorways: a near-tonal black with red lace loops, a loud orange on a white sole with a silver band, and a white pair with pink-and-grey laces. It costs $275 and drops November 12 through Marni, then November 13 at HOKA and selected stores."
+      ],
+      "pts": [
+        "Orange, black and white colorways, $275",
+        "Marni launch Nov 12; HOKA and wider retail Nov 13",
+        "Odd 3D silicone lines meet a comfy runner"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/hoka-x-marni-reunite-to-rework-the-clifton-11-in-three-bold-colorways",
+      "min": 2,
+      "img": "img/2026-11-08/s17.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Sonic and Amy Rose get their own Heelys",
+      "why": "Pure whimsy in loud colors",
+      "sum": [
+        "Heelys and SEGA have released a two-shoe Sonic the Hedgehog capsule built on the Heelys Gio silhouette. The Sonic pair is bright blue with gold ring graphics, and the Amy Rose pair is all-over pink with sparkly print on the heel.",
+        "Both keep the brand's heel wheels, so you can switch between walking and rolling. Each pair is $70 and on sale now at Heelys and selected retailers worldwide. The pitch is gaming nostalgia mixed with skate-style footwear, playful rather than serious."
+      ],
+      "pts": [
+        "Blue Sonic and pink Amy Rose Gio models",
+        "$70, available now",
+        "Heel wheels let you walk or roll"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/sega-sonic-the-hedgehog-heelys-collaboration-release-info",
+      "min": 2,
+      "img": "img/2026-11-08/s18.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "Marine Serre's MS Rise III lands in pink and yellow suede",
+      "why": "Retro-sporty, colorful niche label",
+      "sum": [
+        "Marine Serre has released the MS Rise III, the third version of its signature sneaker. It is a slim, low-profile shoe modeled on vintage athletic trainers, made from a mix of polyamide, calf and cow leather and polyester.",
+        "The label's crescent moon shows up as a leather patch on the side and as an embossed pattern on the recycled-rubber sole. There is also an MS Sport logo on the tongue, and spare laces come in the box. It comes in ecru, black, yellow suede and light pink, and is on sale now at Marine Serre and selected stores. The article gives no price."
+      ],
+      "pts": [
+        "Four colorways incl. Light Pink and Yellow Suede",
+        "Moon motif on the side and on the sole",
+        "Available now; no price given"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/marine-serre-ms-rise-iii-sneaker-pink-sport-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-08/s19.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Story mfg. x ASICS make a hiking-blanket sneaker",
+      "why": "Indie-label outdoorsy sneaker, very niche",
+      "sum": [
+        "Slow-fashion label Story mfg. and ASICS have made the GEL-TRANSCEND FJ, a rambling shoe drawn from ASICS' 1990s hiking archive. It pairs rugged synthetic overlays with Story's check pattern, which is based on vintage wool hiking blankets. The lugged sole comes from the GEL-FujiTrabuco 7 trail shoe.",
+        "There are two colorways, brown and black/grey, at $180. They release November 11 on Story mfg.'s site and November 20 at ASICS. The two brands are also starting a Rambling Club, with London and New York events this month; members get a badge and early access to the shoe."
+      ],
+      "pts": [
+        "$180; Nov 11 at Story mfg., Nov 20 at ASICS",
+        "Blanket-check uppers on a trail sole",
+        "Rambling Club events in London and NYC"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/story-mfg-asics-gel-transcend-fj-1203b194-200-1203b194-001-release-info",
+      "min": 3,
+      "img": "img/2026-11-08/s20.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Vaquera x Supreme drop a punk kiss-print capsule",
+      "why": "Rock-punk energy from a playful label",
+      "sum": [
+        "New York label Vaquera has teamed up with Supreme on a capsule that mixes Supreme's skate roots with Vaquera's cheeky, provocative style. It includes hoodies and fitted caps covered in kiss prints, and T-shirts, denim and even bedding with hand-drawn, punk-style artwork.",
+        "There are also oversized basketball shorts and a hoodie showing Jesus lounging on a pile of cash. Hypebae calls the drop rebellious and DIY in spirit. Neither prices nor a release date are listed; the collection is on both brands' websites."
+      ],
+      "pts": [
+        "Kiss prints and hand-drawn punk graphics",
+        "Hoodies, caps, tees, denim, shorts, bedding",
+        "Shop via the Vaquera and Supreme sites"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/vaquera-supreme-collaboration-collection-kiss-print-hoodies-where-to-buy-release-date",
+      "min": 2,
+      "img": "img/2026-11-08/s21.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "fashion",
+      "kind": "Style note",
+      "h": "Violet Grohl fronts Chopova Lowena's Clubhouse campaign",
+      "why": "Colorful, rock-tinged niche label",
+      "sum": [
+        "Chopova Lowena has a new campaign for its Clubhouse, the brand's first shop, which opened in East London in August. Violet Grohl, daughter of Dave Grohl, stars in photos by Grace Difford that show the label's playful fan community.",
+        "The store has custom furniture and vintage finds. Its mascot, Petal, appears on an exclusive line of striped tees, camo bandanas, socks, caps, boyshorts and stickers. A Skirt Bar lets visitors design their own skirt from deadstock, vintage Bulgarian and new fabrics. The label is known for mixing folk craft, sportswear and subculture."
+      ],
+      "pts": [
+        "Clubhouse at 84 Teesdale St, London",
+        "Petal mascot merch: tees, bandanas, caps",
+        "Make-your-own skirt bar from deadstock"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/chopova-lowena-violet-grohl-clubhouse-campaign-london-grace-difford-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-08/s22.jpg",
+      "published": "2026-11-03"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Barbour x FARM Rio put banana prints on tartan",
+      "why": "Practical jackets in joyful color",
+      "sum": [
+        "Barbour and Brazilian label FARM Rio have released their third collaboration, pairing Barbour's British country outerwear with FARM Rio's bright tropical style. FARM Rio reworked Barbour's tartan into two exclusive prints: one in classic brown and blue, and one full of florals and banana motifs.",
+        "The prints run across showerproof and quilted jackets, reversible liners, overshirts, knitwear, skirts, dresses, matching sets and accessories, with floral linings and dual branding. It is available now on both brands' sites; no prices are given."
+      ],
+      "pts": [
+        "Tropical banana-floral tartan print",
+        "Jackets, liners, knits, dresses, accessories",
+        "Available now from Barbour and FARM Rio"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/barbour-farm-rio-collaboration-collection-jackets-outerwear-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-08/s23.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "fashion",
+      "kind": "News",
+      "h": "Martine Rose named Balenciaga creative director",
+      "why": "Streetwear-rooted designer takes a megahouse",
+      "sum": [
+        "London designer Martine Rose will lead Balenciaga's menswear, womenswear and couture. Her appointment was announced November 6, hours after Kering parted ways with Pierpaolo Piccioli, who had held the job for under 18 months. She starts November 16, and her first collection is expected next summer.",
+        "Dazed argues she fits the role: Demna brought her in as a consultant in 2015, and she designed the house's menswear until 2018. It also points to her dance-driven references, her sculptural, proportion-bending cuts and her pull with both streetwear and couture customers. The piece also notes uncertainty over her own label, which has had production and shareholder troubles this year."
+      ],
+      "pts": [
+        "Starts Nov 16; first collection expected next summer",
+        "Replaces Piccioli after under 18 months",
+        "Designed Balenciaga menswear 2015–2018"
+      ],
+      "src": "Dazed",
+      "site": "dazeddigital.com",
+      "url": "https://www.dazeddigital.com/fashion/article/71297/1/martine-rose-new-balenciaga-creative-director-appointment-pierpaolo-piccioli",
+      "min": 5,
+      "img": "img/2026-11-08/s24.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Ex-police chief named suspect in illegal wiretapping of Prabowo",
+      "why": "State surveillance of civil society",
+      "sum": [
+        "Police have named former National Police chief Listyo Sigit Prabowo and other senior officers as suspects in an alleged illegal wiretapping operation. According to Bareskrim, phone numbers were loaded into the police Lawful Interception Management System without warrants, case files or investigative purpose, and intercept files were allegedly deleted in October 2026. Police say the targets included President Prabowo, officials, politicians, media, NGOs and businesspeople.",
+        "Legal aid foundation YLBHI said the case must not stop at naming suspects, calling for a probe into abuse of surveillance powers and protection for journalists and rights defenders who were also targeted. The suspects face charges under the new criminal code and ITE Law; guilt has not been established in court."
+      ],
+      "pts": [
+        "Police say surveillance began in 2025 without legal basis",
+        "Targets reportedly included journalists and NGOs, not just officials",
+        "YLBHI wants the chain of command investigated"
+      ],
+      "src": "Magdalene",
+      "site": "magdalene.co",
+      "url": "https://magdalene.co/story/fakta-penangkapan-listyo-sigit-akibat-dugaan-penyadapan-presiden-prabowo/",
+      "min": 4,
+      "img": "img/2026-11-08/s25.jpg",
+      "published": "2026-11-04"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Who answers for the haze? Fires tied to concessions and state projects",
+      "why": "Land conflict and corporate accountability",
+      "sum": [
+        "Mongabay Indonesia examines this year's forest and land fires, which have hit South Papua hardest and sent haze into Malaysia, Brunei and the Philippines. Greenpeace counted more than 1,600 smoke sources in Papua by October, many inside a Defence Ministry permit area and a sugarcane national strategic project in Merauke. Walhi recorded about 30,900 hotspots nationwide from January to September.",
+        "Pantau Gambut says almost all burned peatland never returns to forest, with over half becoming large-scale oil palm. Greenpeace calls the haze a failure of domestic law enforcement and urges a halt to extractive expansion in fire-prone areas, concession reviews and ownership transparency down to group level."
+      ],
+      "pts": [
+        "Greenpeace links hotspots to state projects and palm oil concessions",
+        "Malaysia declared a local emergency in Sarawak",
+        "Civil society demands concession reviews and prosecutions"
+      ],
+      "src": "Mongabay Indonesia",
+      "site": "mongabay.co.id",
+      "url": "https://mongabay.co.id/2026/11/07/korban-kabut-asap-karhutla-siapa-yang-bertanggung-jawab/",
+      "min": 9,
+      "img": "img/2026-11-08/s26.jpg",
+      "published": "2026-11-07"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Mamuju villagers resist state rare earth exploration",
+      "why": "Land grabs dressed as green transition",
+      "sum": [
+        "Residents of Takandeang village in Mamuju, West Sulawesi, are demanding the government revoke an exploration permit held by state-linked miner Perminas for rare earth elements. They say drilling since September has damaged durian, clove and cocoa gardens that support local families, and that a company consultation dodged their questions about water.",
+        "The two exploration blocks cover about 7,352 hectares across several villages, according to Celebes Justice Initiative. Perminas says it is only researching and that mining is about eight years away. CJI argues Sulawesi is being treated as a sacrifice zone for the energy transition and warns promised jobs will not offset lost land."
+      ],
+      "pts": [
+        "Residents hung banners rejecting the mine",
+        "Exploration area spans roughly 7,352 hectares",
+        "Perminas says production is years away"
+      ],
+      "src": "Mongabay Indonesia",
+      "site": "mongabay.co.id",
+      "url": "https://mongabay.co.id/2026/11/06/tambang-logam-tanah-jarang-resahkan-warga-mamuju/",
+      "min": 4,
+      "img": "img/2026-11-08/s27.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Laut Bercerita film: 1998 disappearances as a call to resist now",
+      "why": "Memory of state violence, today's protests",
+      "sum": [
+        "Konde.co deputy editor Salsabila Putri Pertiwi reviews the new film adaptation of Leila Chudori's novel Laut Bercerita, about student activists abducted and disappeared under the New Order. She argues the story is not just history, since the repression it depicts continues and the man accused of the kidnappings now holds the presidency.",
+        "She faults the film for rushed pacing, thin context for younger viewers and underdeveloped women characters, and notes it barely signals that the weekly Aksi Kamisan protests by victims' families still go on. Her verdict: the film should push audiences toward resistance today."
+      ],
+      "pts": [
+        "Film dramatises the 1997–98 activist abductions",
+        "Reviewer criticises weak women characters",
+        "Links the story to present-day repression"
+      ],
+      "src": "Konde.co",
+      "site": "konde.co",
+      "url": "https://www.konde.co/2026/11/film-laut-bercerita-bukan-hanya-cerita-masa-lalu-ia-harus-bangkitkan-perlawanan-hari-ini/",
+      "min": 10,
+      "img": "img/2026-11-08/s28.jpg",
+      "published": "2026-11-05"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "First winter storm floods 70,000 tents in Gaza",
+      "why": "Siege conditions under the ceasefire",
+      "sum": [
+        "The season's first storm flooded about 70,000 tents sheltering displaced Palestinians within 12 hours, according to Gaza's Government Media Office, which put initial losses near $3 million and held Israel responsible over continued restrictions on shelter materials. The civil defence agency reported about 1,500 distress calls in 10 hours and said it has no tarpaulins or tents to hand out.",
+        "Al-Shifa's emergency department flooded and shut for hours. A Palestinian NGO network says only 180–200 trucks enter daily against 600 agreed under the ceasefire, while some 50,000 tents wait on the Egyptian side. Officials say Gaza needs around 200,000 tents for winter."
+      ],
+      "pts": [
+        "About 70,000 tents flooded, officials say",
+        "Aid entry far below ceasefire levels",
+        "Caravans promised in the protocol not allowed in"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza",
+      "min": 4,
+      "img": "img/2026-11-08/s29.jpg",
+      "published": "2026-11-07"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Settlers seize eight Palestinian homes near Jericho",
+      "why": "West Bank dispossession continues",
+      "sum": [
+        "About 30 Israeli settlers took over eight Palestinian homes in Ein a-Duyuk a-Tahta on the edge of Jericho, according to watchdog Peace Now. A UN spokesperson said settlers reportedly used live fire, assaulted residents and forced families to flee; Peace Now said a Palestinian man was shot in the leg and two Israeli activists were robbed.",
+        "Settlers claim the homes were bought legally with help from the pro-annexation group Nachala; the Jericho governor calls the documents forged and says the land cannot be sold. The army declared a closed military zone, which the UN says is blocking aid to the displaced."
+      ],
+      "pts": [
+        "UN condemned the violence",
+        "Sale documents disputed as forgeries",
+        "Area sealed off as a closed military zone"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens",
+      "min": 3,
+      "img": "img/2026-11-08/s30.jpg",
+      "published": "2026-11-06"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Palestinian citizens of Israel face 'loyalty test' after record vote",
+      "why": "Palestinian political power under pressure",
+      "sum": [
+        "Arab parties won a record 19 Knesset seats in Israel's October 27 election, Al Jazeera reports, enough to carry Gadi Eisenkot's opposition bloc past the 61-seat threshold. Likud and Itamar Ben-Gvir accused them of stealing the election, though election authorities and police reportedly found no organised tampering.",
+        "A backlash has followed: journalist Abed Abou Shehadeh was detained on foreign-contact accusations, seven Bedouin men were arrested over alleged vote-buying that Ra'am denies, and Shin Bet is investigating Ayman Odeh, who calls it political persecution. Residents of Jaffa describe both new hope and a system closing ranks against them."
+      ],
+      "pts": [
+        "Record 19 seats for Arab parties",
+        "Arrests and probes target Palestinian politicians",
+        "Herzog condemned racist rhetoric"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins",
+      "min": 7,
+      "img": "img/2026-11-08/s31.jpg",
+      "published": "2026-11-07"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Dockworkers strike for Palestine at 100+ ports; US cities move to divest",
+      "why": "Labor power for Palestine",
+      "sum": [
+        "Mondoweiss's weekly movement roundup reports that dockworkers and activists held strikes and actions at more than 100 ports in at least 22 countries, demanding an end to the war on Gaza and wider regional wars. NYC Mayor Zohran Mamdani voiced support, and Palestinian unions have called a Day of Solidarity for November 29.",
+        "In Massachusetts, Cambridge's council voted 5–4 to divest from firms profiting from the occupation after nearly 300 public speakers. Providence voters faced a divestment ballot question, which Al Jazeera later reported passed with about 75%. The roundup also covers a Canadian brief on IHRA and a House attack on the APA."
+      ],
+      "pts": [
+        "Port actions across 22+ countries",
+        "Cambridge votes to divest; Providence measure on ballot",
+        "Global solidarity day set for Nov 29"
+      ],
+      "src": "Mondoweiss",
+      "site": "mondoweiss.net",
+      "url": "https://mondoweiss.net/2026/11/power-pushback-dockworkers-across-the-world-strike-for-palestine/",
+      "min": 5,
+      "img": "img/2026-11-08/s32.jpg",
+      "published": "2026-11-03"
+    },
+    {
+      "t": "politics",
+      "kind": "Muslim wins",
+      "h": "El-Sayed wins Senate seat on Palestine mandate — can he deliver?",
+      "why": "Historic Muslim, pro-Palestine win",
+      "sum": [
+        "Abdul El-Sayed won Michigan's Senate race, becoming the first Muslim elected to the US Senate, after a campaign that called for ending military aid to Israel and survived nearly $40 million in AIPAC-linked spending, The Intercept reports. JVP Action made him its first Senate endorsement.",
+        "The piece weighs his leverage: as a freshman without seniority he could force votes on arms-sale disapproval resolutions, but faces pressure from party leadership and the arms lobby. Advocates told the outlet the win lowers the political cost of criticising Israel, while some on the left question his ties to party establishment figures."
+      ],
+      "pts": [
+        "First Muslim US senator, sworn in January",
+        "Beat heavy AIPAC-linked spending",
+        "Tools include forcing arms-sale votes"
+      ],
+      "src": "The Intercept",
+      "site": "theintercept.com",
+      "url": "https://theintercept.com/2026/11/05/abdul-el-sayed-senate-israel-palestine/",
+      "min": 7,
+      "img": "img/2026-11-08/s33.jpg",
+      "published": "2026-11-05"
+    }
+  ]
+}
