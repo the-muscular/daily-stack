@@ -1,66 +1,64 @@
 {
-  "date": "2026-11-12",
-  "generated": "2026-11-12T06:53:23.128983+07:00",
+  "date": "2026-11-13",
+  "generated": "2026-11-13T09:35:30.882521+07:00",
   "stories": [
     {
       "t": "movies",
       "kind": "Review",
-      "h": "How To Rob A Bank: Hoult's punky heist is fun but forgettable",
-      "why": "Big-studio action out this week",
+      "h": "Johnny Depp's Scrooge sinks Ti West's Ebenezer",
+      "why": "Big holiday release, honest take",
       "sum": [
-        "David Leitch's new heist comedy stars Nicholas Hoult as Ryan, a former soldier grieving his young son's death from cancer and furious about medical bills. He leads a gang in furry animal costumes that livestreams its bank robberies on YouTube and gives most of the money to charity, while an FBI agent (John C Reilly) and a software developer (Zoe Kravitz) hunt them down.",
-        "Screen's Nikki Baughan finds the action kinetic and the vibe infectious, but says the anti-capitalist message drowns in bombast and the script plays both sides. She expects it to pull younger audiences before The Hunger Games prequel arrives a week later."
+        "Screen's Nikki Baughan finds Ti West's take on A Christmas Carol surprisingly safe. Despite a horror director in charge, the Paramount release plays as yet another faithful retelling, and Johnny Depp's Scrooge is more cartoon than character. The film leans so hard on his star wattage that everything else becomes decoration.",
+        "There are bright spots: Ian McKellen and Rupert Grint bring warmth, Andrea Riseborough and Tramell Tillman stand out, and the ghost effects and production design impress. West slips in a few genuinely scary gothic moments, but the film is too intense for small children and too tame for adults, landing in a forgettable middle."
       ],
       "pts": [
-        "Rolling out from 11 Nov; US and UK on 13 Nov",
-        "Cast includes Zoe Kravitz, Anna Sawai, Pete Davidson",
-        "Verdict: kinetic fun, light on conviction"
+        "Rolling out globally from 11 Nov via Paramount",
+        "Depp's lead called a caricature; supporting cast praised",
+        "Verdict: underwhelming and unnecessary"
       ],
       "src": "Screen Daily",
       "site": "screendaily.com",
-      "url": "https://www.screendaily.com/reviews/how-to-rob-a-bank-review-nicholas-hoult-is-a-gen-z-robin-hood-in-david-leitchs-fun-forgettable-heist-movie/5222295.article",
-      "min": 4,
-      "q": "How To Rob A Bank",
-      "img": "img/2026-11-12/s01.jpg",
-      "published": "2026-11-11"
+      "url": "https://www.screendaily.com/reviews/ebenezer-review-johnny-depp-is-a-cartoonish-scrooge-in-ti-wests-underwhelming-unnecessary-dickens-adaptation/5222254.article",
+      "min": 5,
+      "q": "Ebenezer",
+      "img": "img/2026-11-13/s01.jpg",
+      "published": "2026-11-12"
     },
     {
       "t": "movies",
       "kind": "Review",
-      "h": "Fjord: LWLies savages Mungiu's Sebastian Stan drama",
-      "why": "Festival auteur film, divisive verdict",
+      "h": "Fjord: Mungiu's Norway drama gets a savage notice",
+      "why": "Cannes auteur, divisive arthouse pick",
       "sum": [
-        "Cristian Mungiu's Fjord follows a Romanian-Norwegian Christian couple (Sebastian Stan and Renate Reinsve) raising five children on the Norwegian coast. They come under a child services investigation after a teacher spots bruises on their eldest daughter.",
-        "Little White Lies' David Jenkins calls it a dour, misfired moral drama. He argues it is so one-sidedly hostile to Norway's child services that it plays like propaganda, never makes clear what the parents did, and leaves its children passive. He also finds the lead performances too muted for the story's stakes."
+        "Cristian Mungiu's new film stars Sebastian Stan and Renate Reinsve as a Romanian-Norwegian couple raising five children under a strict Christian regime on a remote stretch of Norwegian coast. When a teacher spots bruises on their eldest daughter, child services step in, the children are removed and the parents face possible prison.",
+        "Little White Lies' David Jenkins is scathing, as the blunt headline makes plain. His main complaint is that the film never makes clear whether the parents did anything wrong, so the drama turns into a study of their suffering rather than a real moral puzzle. It runs 146 minutes and opens on 13 November."
       ],
       "pts": [
-        "Released 13 Nov; 146 minutes",
-        "From the director of 4 Months, 3 Weeks and 2 Days",
-        "LWLies scores: enjoyment 1, in retrospect 1"
+        "Sebastian Stan and Renate Reinsve star",
+        "Opens 13 Nov; 146 minutes",
+        "LWLies: ducks its own central question"
       ],
       "src": "Little White Lies",
       "site": "lwlies.com",
       "url": "https://www.lwlies.com/reviews/fjord",
-      "min": 2,
-      "q": "Fjord Cristian Mungiu",
-      "score": "1/5",
-      "scoreNote": "Little White Lies",
-      "img": "img/2026-11-12/s02.jpg",
+      "min": 3,
+      "q": "Fjord Mungiu",
+      "img": "img/2026-11-13/s02.jpg",
       "published": "2026-11-11"
     },
     {
       "t": "movies",
       "kind": "Review",
-      "h": "Being Heumann: a likeable but tame disability-rights biopic",
-      "why": "Crowd-pleasing true story, streamable",
+      "h": "Being Heumann: likeable, conventional activist biopic",
+      "why": "Crowd-pleaser to stream this weekend",
       "sum": [
-        "Siân Heder (CODA) dramatises Judy Heumann's 1977 fight to make Congress enforce Section 504 of the Rehabilitation Act, a San Francisco demonstration that became a sit-in. Ruth Madeley plays Heumann, with Dylan O'Brien as a TV reporter who joins the protest and Mark Ruffalo as the official dodging her calls.",
-        "LWLies calls it a feelgood, nineties-style throwback with a predictable arc. Madeley is fiery and compelling and the broad ensemble of disabled actors is a plus, but the film is meandering and its political fire often feels tame: more enjoyable than substantial."
+        "CODA director Siân Heder tells the story of disability rights campaigner Judy Heumann, who in 1977 led a San Francisco sit-in pushing the US government to enforce Section 504 of the Rehabilitation Act. Ruth Madeley plays Heumann, with Dylan O'Brien as a reporter drawn into the cause and Mark Ruffalo as the official avoiding her calls.",
+        "LWLies calls it warm and important but formally safe, a familiar triumph-over-adversity story whose politics are often softened. Madeley's fiery, charismatic lead does most of the heavy lifting, and the ensemble of disabled actors is a real plus. It opens 13 November and is streaming on Apple TV+."
       ],
       "pts": [
-        "Released 13 Nov; also on Apple TV+",
         "Ruth Madeley's lead performance is the highlight",
-        "LWLies scores 3 across the board"
+        "Feel-good in the CODA mould",
+        "In select cinemas and on Apple TV+"
       ],
       "src": "Little White Lies",
       "site": "lwlies.com",
@@ -69,346 +67,166 @@
       "q": "Being Heumann",
       "score": "3/5",
       "scoreNote": "Little White Lies",
-      "img": "img/2026-11-12/s03.jpg",
+      "img": "img/2026-11-13/s03.jpg",
       "published": "2026-11-11"
-    },
-    {
-      "t": "movies",
-      "kind": "Review",
-      "h": "Prima Facie: Cynthia Erivo can't save a flat stage adaptation",
-      "why": "Prestige courtroom drama, mixed results",
-      "sum": [
-        "Susanna White adapts Suzie Miller's acclaimed one-woman play. Cynthia Erivo plays Tessa, a rising London defence barrister who wins acquittals for men accused of sexual assault, until a colleague (Daniel Ings) rapes her and she faces the system from the other side.",
-        "LWLies' Laura Venning says the film loses the play's intensity. Erivo is strong and the use of Tessa's wigs to signal identity is smart, but in the final third she becomes a mouthpiece for the message. The direction is unimaginative and an overused Max Richter piece dilutes the emotion."
-      ],
-      "pts": [
-        "Distributed by Sony; out in UK cinemas this week",
-        "Timely subject, didactic execution",
-        "LWLies scores 2 across the board"
-      ],
-      "src": "Little White Lies",
-      "site": "lwlies.com",
-      "url": "https://www.lwlies.com/reviews/prima-facie",
-      "min": 3,
-      "q": "Prima Facie Cynthia Erivo",
-      "score": "2/5",
-      "scoreNote": "Little White Lies",
-      "img": "img/2026-11-12/s04.jpg",
-      "published": "2026-11-10"
     },
     {
       "t": "movies",
       "kind": "Festival",
-      "h": "Brave New Love: a fresh, dreamlike Danish affair drama",
-      "why": "Arthouse festival discovery",
+      "h": "Under The Judas Tree: absorbing Greek crime debut",
+      "why": "Discovery for slow-burn thriller fans",
       "sum": [
-        "Maria Bäck's second feature follows Kate, a Danish hypnotherapist whose three-year affair with a palaeontologist ends when he moves to the Greek island of Samos. The first half mixes domestic realism with broad comedy; the second, set on Samos, blurs reality, myth and dream.",
-        "Screen's Boyd van Hoeij, reviewing it at Thessaloniki after its Locarno competition premiere, calls it an impressive, fresh take on infidelity drama. He praises Kathrine Thorborg Johansen's lead and the sharp editing, and its look at loneliness when a woman can't share her heartbreak. Some comic tonal shifts jar, but seem deliberate."
+        "Premiering at Thessaloniki, Christos Houliaras's first fiction feature follows Elias, a man fleeing failures in Athens who returns to his mountain village. Staying with an old policeman friend, he becomes fixated on an unidentified young woman found dead in the woods, and starts investigating when the police seem uninterested.",
+        "Screen's Boyd van Hoeij calls it a small, precision-built character study whose tension tightens as the pieces fall into place. Muted colours and overcast landscapes give it a bleak, uneasy mood, and Alexis Kalofolias is a magnetic lead. The only flaw is repeated visions of the victim that overstate things. Marni Films handles sales."
       ],
       "pts": [
-        "Denmark-Sweden-Greece; score by Jenny Hval",
-        "Cast includes Anders Danielsen Lie",
-        "Likely niche arthouse release"
+        "World premiere at Thessaloniki",
+        "Slow-burn village mystery with strong visuals",
+        "Tipped for festivals and crime-hungry streamers"
       ],
       "src": "Screen Daily",
       "site": "screendaily.com",
-      "url": "https://www.screendaily.com/reviews/brave-new-love-review-provocative-danish-drama-navigates-the-emotional-fallout-from-an-extramarital-affair/5222310.article",
+      "url": "https://www.screendaily.com/reviews/under-the-judas-tree-review-a-troubled-man-becomes-consumed-by-a-local-murder-case-in-absorbing-greek-debut/5222342.article",
       "min": 3,
-      "q": "Brave New Love Maria Bäck",
-      "img": "img/2026-11-12/s05.jpg",
-      "published": "2026-11-11"
+      "q": "Under The Judas Tree",
+      "img": "img/2026-11-13/s04.jpg",
+      "published": "2026-11-12"
     },
     {
       "t": "movies",
       "kind": "Box office",
-      "h": "UK-Ireland box office 2026 beats every post-pandemic year",
-      "why": "Cinemas are back, in numbers",
+      "h": "UK-Ireland box office has its best year since the pandemic",
+      "why": "Sign cinemagoing is back",
       "sum": [
-        "With eight weeks still to go, 2026 UK-Ireland box office has reached £1.07bn, already matching or topping the full-year totals of 2021 to 2025. The year is running 22% ahead of 2025 at the same point, and October alone took £100.6m, up 35% on last year.",
-        "Spider-Man: Brand New Day leads the year with £100.3m, ahead of Nolan's The Odyssey (£88.3m) and Toy Story 5 (£58.5m). Verity topped October. The next target is 2019's pre-pandemic £1.35bn, with The Hunger Games: Sunrise on the Reaping and You Can See Everything still to come."
+        "With eight weeks still to go, 2026 cinema takings in the UK and Ireland have hit £1.07bn, already beating every full year since 2020. The year is running 22% ahead of 2025 at the same point, and October alone was up 35%, led by Colleen Hoover adaptation Verity with £11.8m.",
+        "Spider-Man: Brand New Day leads the year with £100.3m, ahead of The Odyssey and Toy Story 5. A busy run of releases, including Ramayana: Rise Of A Legend, Ebenezer and the new Hunger Games, could push the total towards 2019's pre-pandemic £1.35bn."
       ],
       "pts": [
-        "2026 year to date: £1.07bn",
-        "October up 35% year on year",
-        "Universal has four of the year's top 10"
+        "£1.07bn so far, beating 2021–2025 totals",
+        "Spider-Man: Brand New Day tops the year at £100.3m",
+        "Holiday slate could close gap to 2019"
       ],
       "src": "Screen Daily",
       "site": "screendaily.com",
       "url": "https://www.screendaily.com/news/uk-ireland-box-office-for-2026-passes-totals-of-every-post-pandemic-year/5222264.article",
-      "min": 4,
-      "img": "img/2026-11-12/s06.jpg",
-      "published": "2026-11-11"
-    },
-    {
-      "t": "movies",
-      "kind": "Trailer",
-      "h": "First trailer for IDFA documentary Hazara Town",
-      "why": "Festival doc worth watching for",
-      "sum": [
-        "Screen has debuted the first trailer for Hazara Town, the debut feature by Afghanistan-born filmmaker Khadim Dai. It premieres in IDFA's international competition in Amsterdam.",
-        "Shot in Quetta, Pakistan, the documentary follows a Hazara family who fled the Taliban two decades ago and now face persecution again. As the threat grows they must choose whether to stay together or leave one by one, knowing they may never reunite. Belgium's Congoo leads production with Australian and German partners, backed by the IDFA Bertha Fund and the Sundance documentary programme."
-      ],
-      "pts": [
-        "World premiere in IDFA international competition",
-        "Prague-based Filmotor handles world sales",
-        "Shot in Quetta, where Hazara still face targeted killings"
-      ],
-      "src": "Screen Daily",
-      "site": "screendaily.com",
-      "url": "https://www.screendaily.com/news/first-trailer-revealed-for-idfa-world-premiere-hazara-town/5222285.article",
-      "min": 1,
-      "q": "Hazara Town documentary",
+      "min": 3,
+      "img": "img/2026-11-13/s05.jpg",
       "published": "2026-11-11"
     },
     {
       "t": "movies",
       "kind": "News",
-      "h": "Curzon buys Jodie Comer's taxidermy horror musical Stuffed",
-      "why": "Offbeat genre pick to watch for",
+      "h": "Lionsgate buys Alma Har'el's high-seas caper Wet",
+      "why": "Early buzz on a starry indie",
       "sum": [
-        "Curzon has acquired UK-Ireland rights to Stuffed, a body-horror musical directed by Theo Rhys that opened TIFF's Discovery section. Jodie Comer plays a reclusive taxidermist who advertises for the perfect human specimen; Harry Melling is the lonely factory worker who answers, afraid of leaving no legacy.",
-        "The feature grew out of Rhys's Bafta-nominated short of the same name, with original music by co-writer Joss Holden-Rea. It was developed by the BFI with Ffilm Cymru Wales backing, and Cornerstone handles world sales. Curzon praised its mix of the macabre and the romantic."
+        "Lionsgate has taken North American and UK rights to Wet, the next film from Honey Boy director Alma Har'el. The cast is stacked: Connor Storrie of Heated Rivalry, Rebecca Ferguson, Odessa A'zion, Javier Bardem, singer Rosalía and Lukas Haas.",
+        "Plot details are under wraps beyond a tagline billing it as a caper on the high seas. Har'el co-wrote the script with Christian Stangeby, Fifth Season and 193 are producing, and shooting starts in the Dominican Republic in 2027."
       ],
       "pts": [
-        "Director Theo Rhys is a 2026 Screen Star of Tomorrow",
-        "Premiered at Toronto",
-        "No UK release date announced yet"
+        "Rosalía and Javier Bardem in the cast",
+        "Lionsgate takes North America and UK",
+        "Shoots in the Dominican Republic in 2027"
       ],
       "src": "Screen Daily",
       "site": "screendaily.com",
-      "url": "https://www.screendaily.com/news/curzon-picks-up-horror-musical-stuffed-starring-jodie-comer-and-harry-melling-for-uk-ireland/5222250.article",
+      "url": "https://www.screendaily.com/news/alma-harels-wet-lands-north-america-uk-deal/5222369.article",
       "min": 2,
-      "q": "Stuffed Jodie Comer",
-      "img": "img/2026-11-12/s08.jpg",
-      "published": "2026-11-10"
+      "q": "Wet Alma Har'el",
+      "img": "img/2026-11-13/s06.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "movies",
+      "kind": "Festival",
+      "h": "Sundance courts Gen Z for its first Colorado edition",
+      "why": "Big shift for indie film's top fest",
+      "sum": [
+        "Sundance's first edition in Boulder, Colorado, running 21–31 January 2027, will actively court the city's roughly 36,000 university students, CEO David Linde told an AFM panel. The festival is working to make screenings easier for students to get into, hoping for a livelier atmosphere.",
+        "Panellists said young audiences are now what every distributor wants, after Gen Z powered summer hits like Backrooms. About 60% of the 2026 lineup found distribution, and a new Academy rule makes the World Cinema grand jury winner eligible for the international Oscar. Sundance will publish an AI policy within a month."
+      ],
+      "pts": [
+        "Boulder edition runs 21–31 Jan 2027",
+        "Students targeted with easier access",
+        "AI policy statement coming within a month"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/sundance-eyes-gen-z-crowd-for-inaugural-colorado-edition/5222322.article",
+      "min": 2,
+      "img": "img/2026-11-13/s07.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "movies",
+      "kind": "Festival",
+      "h": "Krieps, Bang and Haigh join Cotillard's Marrakech jury",
+      "why": "Key showcase for new world cinema",
+      "sum": [
+        "The 23rd Marrakech International Film Festival has named its nine-member jury under president Marion Cotillard. Joining her are Vicky Krieps, Claes Bang, All of Us Strangers director Andrew Haigh, Oscar-nominated Tunisian filmmaker Kaouther Ben Hania, Emma Mackey and Gilles Lellouche.",
+        "Ramata-Toulaye Sy and Moroccan director-producer Saïd Hamich Benlarbi complete the panel. They will award the Étoile d'Or to one of 14 first or second features in competition. The festival runs 20–28 November, with winners announced at the closing night."
+      ],
+      "pts": [
+        "Marion Cotillard is jury president",
+        "14 debut and second features compete",
+        "Festival runs 20–28 Nov"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/vicky-krieps-claes-bang-andrew-haigh-join-marrakech-jury/5222351.article",
+      "min": 2,
+      "img": "img/2026-11-13/s08.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "movies",
+      "kind": "Interview",
+      "h": "Don Hertzfeldt on Paper Trail, a life told in paper scraps",
+      "why": "Free 14-minute gem worth watching",
+      "sum": [
+        "Letterboxd talks at length with animator Don Hertzfeldt about Paper Trail, a 14-minute short that traces one man's life entirely through paper: crayon drawings, homework, letters, job applications and office memos. It won a special jury prize at Sundance and the top prize at Annecy, and is now free to watch as a Vimeo Staff Pick Premiere.",
+        "Hertzfeldt discusses animators' odd relationship with time, why stick figures leave room for viewers' own feelings, influences such as Koyaanisqatsi and Powers of Ten, and why he still edits in ancient software. He also argues that push-button AI filmmaking strips out the struggle that makes art matter."
+      ],
+      "pts": [
+        "Paper Trail is free on Vimeo now",
+        "Won the Annecy Crystal, a first for a US film in 22 years",
+        "It's Such a Beautiful Day is on Letterboxd Video Store"
+      ],
+      "src": "Letterboxd Journal",
+      "site": "letterboxd.com",
+      "url": "https://letterboxd.com/journal/don-hertzfeldt-career-interview-paper-trail-its-such-a-beautiful-day/",
+      "min": 16,
+      "q": "Paper Trail Don Hertzfeldt",
+      "img": "img/2026-11-13/s09.jpg",
+      "published": "2026-11-12"
     },
     {
       "t": "movies",
       "kind": "Streaming",
-      "h": "Letterboxd's November Watchlist This picks",
-      "why": "Ready-made streaming watchlist",
+      "h": "Letterboxd's five under-the-radar picks for November",
+      "why": "Ready-made weekend watchlist",
       "sum": [
-        "Letterboxd Journal's monthly roundup of bubbling-under films picks five titles. Victorian Psycho is a gory period satire with Maika Monroe as a governess unleashing her darkest impulses. Paul Thomas Anderson's Cameron Winter at Carnegie Hall is a concert film shot with Benny Safdie on camera.",
-        "Marie Kreutzer's Gentle Monster, about a pianist whose husband is investigated for abuse imagery, streams on Netflix from 18 November. Andrey Zvyagintsev's Cannes Grand Prix winner Minotaur heads to MUBI, and Siân Heder's Being Heumann is on Apple TV+."
+        "Letterboxd's monthly Watchlist This! rounds up five films bubbling under the mainstream. Highlights include Victorian Psycho, a gothic horror satire with Maika Monroe as a governess with dark urges, and Paul Thomas Anderson's concert film of Cameron Winter at Carnegie Hall.",
+        "Also picked: Marie Kreutzer's Gentle Monster, with Léa Seydoux as a pianist whose husband faces a disturbing investigation, streaming on Netflix from 18 November; Andrey Zvyagintsev's Russian thriller Minotaur, from MUBI; and Being Heumann, already on Apple TV+."
       ],
       "pts": [
-        "Gentle Monster on Netflix from 18 Nov",
-        "Minotaur streaming on MUBI",
-        "Most picks open in select US cinemas first"
+        "Gentle Monster hits Netflix 18 Nov",
+        "Being Heumann streaming on Apple TV+",
+        "New Zvyagintsev and PTA titles included"
       ],
       "src": "Letterboxd Journal",
       "site": "letterboxd.com",
       "url": "https://letterboxd.com/journal/watchlist-this-november-2026/",
-      "min": 8,
-      "img": "img/2026-11-12/s09.jpg",
-      "published": "2026-11-10"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Coachella 2027: Tame Impala, Dua Lipa and SZA headline",
-      "why": "Big alt-rock and indie undercard",
-      "sum": [
-        "Coachella has revealed its 2027 bill. The festival returns to the Empire Polo Club in Indio over two weekends, April 9–11 and April 16–18, with long-rumoured headliners Dua Lipa, Tame Impala and SZA at the top. Daddy Yankee gets a quasi-headliner slot at the foot of the poster, and Madonna is booked in the dance tent.",
-        "For indie and alt-rock fans the undercard is strong: Phoebe Bridgers, Weezer, a returning Pinegrove (on hiatus since 2023), American Football, Caroline Polachek, Gang Of Youths, Magdalena Bay, Social Distortion, The Damned, MUNA and Lambrini Girls. Robyn, Four Tet, Underworld and the Avalanches round out the electronic side."
-      ],
-      "pts": [
-        "Two weekends: April 9–11 and 16–18, 2027",
-        "Phoebe Bridgers, Weezer, Pinegrove and American Football on the bill",
-        "No Beyoncé or Kendrick Lamar this time"
-      ],
-      "src": "Stereogum",
-      "site": "stereogum.com",
-      "url": "https://stereogum.com/2517560/coachella-reveals-2027-lineup/news/",
-      "min": 2,
-      "img": "img/2026-11-12/s10.jpg",
-      "published": "2026-11-11"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Gang Of Youths announce Compañero, share \"Benny's Video\"",
-      "why": "Anthemic alt-rock comeback",
-      "sum": [
-        "Australian rockers Gang Of Youths will release Compañero, their first album in five years, on March 12, 2027. The 11-track record follows August's single \"Things Take Time\" and, per Stereogum, dwells on mortality even though it came out of a calm period in the band's lives.",
-        "The new single \"Benny's Video\", named after Michael Haneke's 1992 film, is a fast, synth-driven track that builds to a surging climax built for live shows. The band also announced a spring North American tour running from Boston on March 17 through Brooklyn, Chicago, Seattle and San Francisco, slotting in both Coachella weekends."
-      ],
-      "pts": [
-        "Compañero out March 12, 2027 (11 tracks)",
-        "First album in five years",
-        "North American tour March–April plus Coachella"
-      ],
-      "src": "Stereogum",
-      "site": "stereogum.com",
-      "url": "https://stereogum.com/2517619/gang-of-youths-announce-new-album-companero-hear-bennys-video/music/",
-      "min": 2,
-      "q": "Gang Of Youths Benny's Video",
-      "img": "img/2026-11-12/s11.jpg",
-      "published": "2026-11-11"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Faith No More reunite with Trey Spruance for 2027 tour",
-      "why": "Alt-rock legends return",
-      "sum": [
-        "Faith No More's 2027 reunion, their first tour in 11 years, will feature guitarist Trey Spruance, Mike Patton's Mr. Bungle co-founder. Spruance played on 1995's King For A Day... Fool For A Lifetime but never toured with the band; Jon Hudson, who held the role after the 2009 reunion, appears to be out.",
-        "The lineup is Spruance, Patton, Roddy Bottum, Billy Gould and Mike Bordin. The 16 announced dates run from a January 15 stadium show at Rio's Maracanã through Australia and New Zealand to European rock festivals, ending at Lisbon's NOS Alive on July 9. The only US stops are Welcome To Rockville and Sonic Temple."
-      ],
-      "pts": [
-        "First Faith No More tour in 11 years",
-        "Trey Spruance replaces Jon Hudson on guitar",
-        "16 dates, Rio to Lisbon, January–July 2027"
-      ],
-      "src": "Stereogum",
-      "site": "stereogum.com",
-      "url": "https://stereogum.com/2517580/faith-no-more-reunite-with-guitarist-trey-spruance-for-2027-tour/news/",
-      "min": 2,
-      "img": "img/2026-11-12/s12.jpg",
-      "published": "2026-11-11"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "King Gizzard announce second techno album of 2026, Entropy",
-      "why": "Restless psych-rock heroes go electronic",
-      "sum": [
-        "King Gizzard & the Lizard Wizard will release Entropy on December 4 via their own (p)doom label. It is a companion to Alien Metal, which came out under three months ago, and both grew from long jams on the band's Eurorack modular synth rig. Entropy runs faster, at 160 bpm, and sounds more cosmic and harmonic than its grittier sibling.",
-        "The first single, \"Rogue Wave\", is heavy on vocal effects and recalls their 2021 synth record Butterfly 3000. The band also set 2027 North American tours for August and October, including the Gorge and two nights at Hollywood Forever, and confirmed their Field of Vision festival won't return to Colorado."
-      ],
-      "pts": [
-        "Entropy out December 4, eight tracks",
-        "Lead single \"Rogue Wave\"",
-        "2027 North American tour; tickets on sale November 13"
-      ],
-      "src": "SPIN",
-      "site": "spin.com",
-      "url": "https://www.spinmagazine.com/2026/11/king-gizzard-new-techo-album/",
-      "min": 4,
-      "q": "King Gizzard & the Lizard Wizard Rogue Wave",
-      "img": "img/2026-11-12/s13.jpg",
-      "published": "2026-11-10"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Conor Oberst plans 49-date solo tour, from a cave to The Shining hotel",
-      "why": "Indie songwriter in intimate rooms",
-      "sum": [
-        "Bright Eyes leader Conor Oberst will play his first solo headline tour since 2019, An Alleged Evening With Conor Oberst. The 49 dates run from February 19, 2027 in Lawrence, Kansas, to a two-night close at Colorado's Stanley Hotel, the place that inspired The Shining.",
-        "Unusual rooms are the theme: the underground Caverns in Tennessee, Big Sur's Henry Miller Memorial Library, San Francisco's Castro Theatre and a former monastery chapel in Tucson. One dollar per ticket goes to his Poison Oak Project for trans and LGBTQ+ equity. Bright Eyes also have three Brooklyn Paramount album shows in January."
-      ],
-      "pts": [
-        "49 dates, February–May 2027",
-        "Stanley Hotel finale on May 14–15",
-        "Tickets on sale November 13"
-      ],
-      "src": "SPIN",
-      "site": "spin.com",
-      "url": "https://www.spinmagazine.com/2026/11/conor-oberst-solo-tour/",
-      "min": 3,
-      "img": "img/2026-11-12/s14.jpg",
-      "published": "2026-11-10"
-    },
-    {
-      "t": "music",
-      "kind": "Album review",
-      "h": "Eterna's Push trades slacker fuzz for post-rock bliss",
-      "why": "Guitar-led indie for slacker-rock fans",
-      "sum": [
-        "Eterna is Guillem Peeters, the Barcelona-born, London-based former drummer of bar italia. On his third album, Push, The Line of Best Fit hears him leave behind the scruffy lo-fi slacker sound of his first two records for something patient, hazy and post-rock leaning, with Talk Talk-style slow builds and tactile, fragmented guitar solos.",
-        "The review praises \"Kyrie\", where everything locks into place, the magnificent \"Shadowcasting for the Villain\", the trip-hop mood of \"Gum\" and the pastoral closer \"Rex\". Its verdict: a big step up from a cult slacker act to a confident, immersive artist."
-      ],
-      "pts": [
-        "Third album from ex-bar italia drummer",
-        "Talk Talk and early post-rock comparisons",
-        "Highlights: Kyrie, Shadowcasting for the Villain"
-      ],
-      "src": "The Line of Best Fit",
-      "site": "thelineofbestfit.com",
-      "url": "https://www.thelineofbestfit.com/albums/recovering-slacker-eterna-cares-an-awful-lot-on-his-third-album-push",
-      "min": 3,
-      "q": "Eterna Push",
-      "score": "8/10",
-      "scoreNote": "The Line of Best Fit",
-      "img": "img/2026-11-12/s15.jpg",
-      "published": "2026-11-04"
-    },
-    {
-      "t": "music",
-      "kind": "Album review",
-      "h": "Tove Styrke turns inward on an afterparty concept album",
-      "why": "Indie-leaning pop with real risks",
-      "sum": [
-        "Tove Styrke's second album of 2026, I thought this story wasn't about me, is a concept record set over a dusk-to-dawn afterparty, built around the image of someone alone in a crowd. The Line of Best Fit finds it more introspective and experimental than her dance-pop past, drawing on cinematic textures and early-2000s indie and electronic beats, with LCD Soundsystem and David Lynch as touchstones.",
-        "Highlights include the club-ready opener \"Prayer\", the wordless, filmic \"Let's Go Camping\", the short Eno-like \"Afterparty Hymn\" and the haunting \"Space\". Shaped by a break from music and becoming a parent, it is judged a personal, risk-taking triumph."
-      ],
-      "pts": [
-        "Dusk-to-dawn afterparty concept",
-        "Indie and electronic textures over pure pop",
-        "Highlights: Prayer, Afterparty Hymn, Space"
-      ],
-      "src": "The Line of Best Fit",
-      "site": "thelineofbestfit.com",
-      "url": "https://www.thelineofbestfit.com/albums/tove-styrke-finds-new-directions-on-i-thought-this-story-wasnt-about-me",
-      "min": 2,
-      "q": "Tove Styrke I thought this story wasn't about me",
-      "score": "8/10",
-      "scoreNote": "The Line of Best Fit",
-      "img": "img/2026-11-12/s16.jpg",
-      "published": "2026-11-10"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Thee Marloes get a Hiroshi Fujiwara remix and 7-inch",
-      "why": "Indonesian indie going global",
-      "sum": [
-        "Surabaya trio Thee Marloes have teamed up with Japanese producer and fashion figure Hiroshi Fujiwara on a remix of \"What's On Your Mind\", from their album Di Hotel Malibu. The remix came out on November 9, and Fujiwara also designed its 7-inch vinyl. Staple founder Jeff Staple joins as a producer and adds an exclusive variant for his New York store.",
-        "The vinyl is on pre-order via the BCR Webstore and Bandcamp and reaches record shops in several countries from November 20. Pophariini frames the collaboration as a push into international markets, ahead of a December Asia tour taking in Pattaya, Taipei, Seoul and Singapore."
-      ],
-      "pts": [
-        "Remix out November 9; 7-inch in shops November 20",
-        "Jeff Staple variant sold in New York",
-        "Asia tour in December"
-      ],
-      "src": "Pophariini",
-      "site": "pophariini.com",
-      "url": "https://pophariini.com/sehidup-semusik/thee-marloes-gandeng-hiroshi-fujiwara-untuk-remix-whats-on-your-mind/",
-      "min": 2,
-      "q": "Thee Marloes What's On Your Mind Hiroshi Fujiwara remix",
-      "img": "img/2026-11-12/s17.jpg",
-      "published": "2026-11-11"
-    },
-    {
-      "t": "music",
-      "kind": "News",
-      "h": "Barasuara's Iga Massardi goes solo with pop single \"Ambivalensi\"",
-      "why": "Jakarta indie-rock name, new direction",
-      "sum": [
-        "Iga Massardi, known for rock bands Barasuara, Portura and The Mets, released his first solo single, \"Ambivalensi\", on November 9. It is a mellow, romantic pop song about the hesitation that makes people keep falling-in-love feelings to themselves, and it ends deliberately unresolved.",
-        "Iga says he grew up on Indonesian pop like Bebi Romeo and Naif, and friend Vega Antares produced it with an oldies feel. He first meant to give the song to other singers, but friends talked him into singing it himself. More songs will follow next year and be collected into a solo EP."
-      ],
-      "pts": [
-        "Solo debut from the Barasuara frontman",
-        "Produced by Vega Antares",
-        "Solo EP to be built from 2027 singles"
-      ],
-      "src": "Pophariini",
-      "site": "pophariini.com",
-      "url": "https://pophariini.com/sehidup-semusik/iga-massardi-olah-nuansa-pop-dalam-singel-ambivalensi/",
-      "min": 2,
-      "q": "Iga Massardi Ambivalensi",
-      "img": "img/2026-11-12/s18.jpg",
+      "min": 7,
+      "img": "img/2026-11-13/s10.jpg",
       "published": "2026-11-10"
     },
     {
       "t": "music",
       "kind": "Your artists",
-      "h": "Couldn't check Beyoncé or Kendrick Lamar news today",
+      "h": "Nothing new from Beyoncé or Kendrick Lamar today",
       "why": "Checked every morning",
       "sum": [
-        "Rolling Stone and Billboard blocked fetching this morning, so the watchlist check couldn't be done. Nothing was confirmed either way."
+        "No releases, tour dates, features or announcements in the last 24 hours."
       ],
       "pts": [],
       "src": "Watchlist",
@@ -417,340 +235,580 @@
       "min": 0
     },
     {
-      "t": "fashion",
-      "kind": "Sneaker drops",
-      "h": "adidas x Drama Call ClimaCool 1 GTX goes lime and starry",
-      "why": "Playful niche label, pop of lime",
+      "t": "music",
+      "kind": "News",
+      "h": "Krill return with Secret Language, Stereogum's Album of the Week",
+      "why": "Cult indie rock comeback",
       "sum": [
-        "Manchester label Drama Call and adidas Originals are back for their fourth collab, a ClimaCool 1 GTX built for the city's endless rain. Founder Charlie Bows wrapped it in black ripstop with a GORE-TEX membrane, then added a marbled lime, black and grey camo outsole with a maroon edge line.",
-        "The fun is in the details: pulse-lime piping, lime sockliners covered in halftone stars, three silver stars on the heel and a metal star hangtag on a ball chain. It drops November 14 on dramacall.com, then November 15 on the adidas CONFIRMED app and at select retailers. Price isn't confirmed yet."
+        "Boston indie-rock cult heroes Krill release Secret Language today on Exploding In Sound, their first album in more than ten years. Stereogum made it Album of the Week ahead of release, and premiered the title track as the final single after \"Commemorative Plaque,\" \"Dominate\" and \"Hawaii.\"",
+        "Songwriter Jonah Furman says the title song is about family life: its opening verses come from reading Goodnight Moon backwards, a bedtime game his kids dislike, and it ends with the children asleep as he tries to describe being in love inside a marriage. Fran's Maria Jacobson sings backing vocals and Macie Stewart plays violin."
       ],
       "pts": [
-        "Drops Nov 14 (Drama Call), Nov 15 (adidas CONFIRMED)",
-        "Waterproof GORE-TEX with a lime camo sole",
-        "Star graphics, silver hardware, cord-lock laces"
+        "First Krill album in over a decade, out Nov 13",
+        "Stereogum Album of the Week",
+        "Title track features Macie Stewart on violin"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2517143/krill-secret-language/music",
+      "min": 2,
+      "q": "Krill Secret Language",
+      "img": "img/2026-11-13/s12.jpg",
+      "published": "2026-11-09"
+    },
+    {
+      "t": "music",
+      "kind": "New list",
+      "h": "Stereogum's 40 best new artists of 2026",
+      "why": "Indie discovery list",
+      "sum": [
+        "Stereogum's annual fall roundup picks 40 emerging acts who made a big leap this year, most on a first album or without one yet. It is alphabetical rather than ranked, and each entry gets a short write-up plus streaming links, with Spotify and Apple Music playlists at the end.",
+        "The range is wide: indie rock, hardcore, metal, electronic, rap and pop. Names include Québécois masked math-rock duo Angine de Poitrine, Leeds dance-noise quartet Bathing Suits, Southern California project 16 Underground, Columbia signee earthsignchels, Ninja Tune trio Ebbb from the Windmill scene and London duo Worldpeace DMT."
+      ],
+      "pts": [
+        "40 acts, alphabetical, with playlists",
+        "Heavy on indie, noise and math-rock",
+        "Good for discovering next year's favourites"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2516509/",
+      "min": 15,
+      "img": "img/2026-11-13/s13.jpg",
+      "published": "2026-11-10"
+    },
+    {
+      "t": "music",
+      "kind": "Album review",
+      "h": "Emma Ogier's debut Fly 1111 dodges the Americana box",
+      "why": "Indie folk-rock with bite",
+      "sum": [
+        "Houston-born, Nashville-based songwriter Emma Ogier mixes Texas twang, fingerpicked guitar and lo-fi vocals with sudden hard-rock swerves on her first album. The diary-like lyrics invite comparisons to Phoebe Bridgers, MJ Lenderman and Waxahatchee without sounding like copies.",
+        "Highlights are the direct opener \"All These Dreams,\" the hooky \"Baby Don't Hurt Me,\" the Eden Joel duet \"Rocksteady/HeavyMetal\" and the Zeppelin-heavy \"W2F.\" A couple of tracks feel murky or formulaic, but the reviewer likes how restless she is and is excited to hear what she does next."
+      ],
+      "pts": [
+        "Folk-rock debut with loud guitar turns",
+        "Fans of Waxahatchee and MJ Lenderman",
+        "Standout: \"W2F\""
+      ],
+      "src": "The Line of Best Fit",
+      "site": "thelineofbestfit.com",
+      "url": "https://www.thelineofbestfit.com/albums/emma-ogier-suits-the-itchy-feet-of-her-debut-album-fly-1111",
+      "min": 3,
+      "q": "Emma Ogier Fly 1111",
+      "score": "7/10",
+      "scoreNote": "The Line of Best Fit",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "U2 praise Fontaines D.C., Geese and Lambrini Girls as new album lands",
+      "why": "Alt-rock elders on new guard",
+      "sum": [
+        "U2's Carnaval De Luz, their first album in nine years, is out today on Island. In NME interviews, the Edge said he envies Lambrini Girls' sound and admires Geese and Cameron Winter's solo work, while Bono praised Winter's stage presence and said Fontaines D.C. push their peers to raise their game.",
+        "The album includes \"Torn,\" a duet carrying Dolly Parton's final recording, and Bono wrote a song about Rosalía, who recently featured on Fontaines' \"Where Is Gone?\" The band also played a small BBC show at London's Tate Modern, and Stereogum calls \"The Greatest Show On Earth\" the best single so far."
+      ],
+      "pts": [
+        "Carnaval De Luz out Nov 13",
+        "Big compliments for Fontaines D.C. and Geese",
+        "Includes Dolly Parton's final recording"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2517784/",
+      "min": 2,
+      "q": "U2 Carnaval De Luz",
+      "img": "img/2026-11-13/s15.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Mass Text announce Perfect New Knife, share droning \"Pink Slips\"",
+      "why": "Dark Chicago post-punk",
+      "sum": [
+        "Chicago collective Mass Text, led by Meat Wave frontman Chris Sutter, will release Perfect New Knife on January 29 via Solid Brass. Dehd's Jason Balla produced it, and the nine tracks include \"Nice Dream 2\" and \"Weightlifting.\"",
+        "Lead single \"Pink Slips\" is ominous, droning post-punk that Stereogum compares to Liars, with an eerie nod to a Partridge Family hit. It grew from a home demo, keeps many original takes and uses feedback from old walkie-talkies. Release shows follow in Chicago, Minneapolis and Milwaukee in February."
+      ],
+      "pts": [
+        "Album due Jan 29 on Solid Brass",
+        "Produced by Dehd's Jason Balla",
+        "Post-punk in a Liars vein"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2517757/",
+      "min": 2,
+      "q": "Mass Text Pink Slips",
+      "img": "img/2026-11-13/s16.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Weird Nightmare drop power-pop single \"Buzzing In My Head\"",
+      "why": "Fuzzy, hooky indie rock",
+      "sum": [
+        "Weird Nightmare, the power-pop project of former METZ frontman Alex Edkins, has a new standalone single out on Sub Pop. Stereogum praises its energetic riff, yelping lovelorn vocals and bright, glowing chorus harmonies, and notes that some of the project's best songs live outside its albums.",
+        "Holy Fuck's Graham Walsh, Edkins' partner in Noble Rot, produced it, with the Hoopla rhythm section back on drums and bass. Edkins says it's about a person, place or memory that won't leave your head. A short run of shows follows from November 18 to 22."
+      ],
+      "pts": [
+        "Ex-METZ frontman's power-pop project",
+        "Out now on Sub Pop",
+        "Produced by Holy Fuck's Graham Walsh"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2517737/",
+      "min": 2,
+      "q": "Weird Nightmare Buzzing In My Head",
+      "img": "img/2026-11-13/s17.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Karen O shares solo ballad as Rapaport \"discovers\" Yeah Yeah Yeahs",
+      "why": "Indie rock icons back in focus",
+      "sum": [
+        "Michael Rapaport went viral after an Instagram video hailing \"Maps\" as if it were by an exciting new band, apparently unaware the song came out in 2003. Stereogum notes it already went viral on TikTok in 2024 and was recently named the best rock song of the century so far by Rolling Stone.",
+        "Meanwhile Karen O has a sparse new solo song, \"Soft Machine,\" from Space Cadet, a dialogue-free animated film based on Kid Koala's graphic novel about an astronaut's first solo mission. The film opens this weekend. YYYs also put out a Royal Albert Hall live album in September."
+      ],
+      "pts": [
+        "New Karen O song \"Soft Machine\"",
+        "Space Cadet film opens this weekend",
+        "\"Maps\" keeps finding new fans"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://www.stereogum.com/2517760/",
+      "min": 2,
+      "q": "Karen O Soft Machine",
+      "img": "img/2026-11-13/s18.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "akupergi turn urban burnout into post-punk protest",
+      "why": "Local alt-rock, Jakarta scene",
+      "sum": [
+        "Jakarta band akupergi's new single \".lampu//Kota;Mati\" is a protest song about ordinary city workers rather than elites: routines, unstable pay, money stress and exhaustion. Singer Hanung draws on his own life as a worker who sometimes skips meals to save money.",
+        "Musically it mixes post-punk and post-hardcore, shaped by Molchat Doma-style coldwave and early Jimmy Eat World, while new drummer Daffa, on his first release with the band, brings dub, slow disco and Helmet-style heaviness. The band hopes to play more Jakarta venues and collectives such as Fengshui and Pokta."
+      ],
+      "pts": [
+        "Jakarta post-punk/post-hardcore",
+        "About urban workers' struggles",
+        "New drummer Daffa's debut with the band"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/news/akupergi-angkat-keresahan-pekerja-urban-dalam-singel-lampu-kotamati/",
+      "min": 3,
+      "q": "akupergi lampu Kota Mati",
+      "img": "img/2026-11-13/s19.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Subang folk-rockers Nalara gather eight years on debut album Bias",
+      "why": "Indonesian indie folk-rock",
+      "sum": [
+        "Nalara, a seven-piece folk-rock band from Subang, have released Bias, a nine-song album collecting their journey since forming in 2018 as Musik Hari Ini. They survived a pulled debut EP and a two-year hiatus, then renamed themselves because the old name was too generic to register.",
+        "The record mixes reworked older songs with new ones like \"Sendu Membuka Mata,\" pairing folklore-inspired lyrics with distorted guitars, layered harmonies and fuller keys. It opens with a dark, reverb-soaked instrumental and was mastered in Nashville. Next, the band hopes to play Jakarta festivals."
+      ],
+      "pts": [
+        "Nine-track folk-rock album, out since Oct 23",
+        "Distorted guitars plus folklore lyrics",
+        "Band hopes to reach Jakarta stages"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/news/nalara-rangkai-perjalanan-bermusik-sejak-2018-dalam-album-bias/",
+      "min": 4,
+      "q": "Nalara Bias",
+      "img": "img/2026-11-13/s20.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Pokémon x Crocs drop Pikachu, Gengar and Jigglypuff clogs",
+      "why": "Colorful, whimsical, easy to wear casually",
+      "sum": [
+        "Crocs is marking Pokémon's 30th anniversary with a three-pair capsule. Pikachu gets a bright yellow Classic Clog, Gengar a deep purple one, and Jigglypuff a pastel pink Classic Platform Clog. Each keeps the usual light foam and vented toe, with character details layered on.",
+        "The pairs land on November 17 at crocs.com. Japanese pricing is about ¥13,200 for the two Classic Clogs and ¥13,750 for the platform, so international prices should come in close to standard collab-Croc money. It's the most openly playful drop of the week."
+      ],
+      "pts": [
+        "Pikachu yellow, Gengar purple, Jigglypuff pink platform",
+        "Out November 17 on crocs.com",
+        "Around ¥13,200–13,750 in Japan"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/pokemon-crocs-classic-clogs-30th-anniversary-pikachu-gengar-jigglypuff-collaboration-release-info",
+      "min": 2,
+      "img": "img/2026-11-13/s21.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "HOKA and Marni bring back the Clifton, now in orange",
+      "why": "Bright, quirky runner for casual fits",
+      "sum": [
+        "HOKA and Marni have teamed up again after their 2025 debut, this time on the Clifton 11 daily runner. It comes in Orange, White and Black, with raised 3D silicone prints, reflective hits and a plaid sockliner. Two spare sets of laces come in the box.",
+        "Underneath, it's the normal Clifton: engineered mesh, a cushy EVA midsole and HOKA's rocker shape. It's on Marni's site now and widens to HOKA and selected stores from November 13. The campaign is called Every Day Is a Marathon."
+      ],
+      "pts": [
+        "Orange colorway is the standout",
+        "Wider release on HOKA from November 13",
+        "Comes with two extra sets of laces"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/hoka-marni-clifton-11-sneaker-collaboration-info-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-13/s22.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "ASICS x JUNTAE KIM: a sneaker with detachable dried-flower hardware",
+      "why": "Niche Korean designer, a weird and fun sneaker",
+      "sum": [
+        "Seoul designer JUNTAE KIM's first ASICS shoe is the GEL-KINETIC FR, part dress shoe and part runner. The idea is decaying flowers: gradient color fades across the upper and the ASICS stripes, the way petals dry and lose color. Real and synthetic leathers sit on ASICS running tooling.",
+        "The odd extra is clip-on floral hardware shaped like withered petals and stamens. Leave it on for a dressed-up look, take it off for everyday wear. It comes in Black, Navy and Red and goes on sale November 20 at ASICS and selected stores."
+      ],
+      "pts": [
+        "Black, Navy and Red with fade effects",
+        "Removable petal-shaped hardware",
+        "Releases November 20"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/asics-juntae-kim-gel-kinetic-fr-sneaker-collab-release-date-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-13/s23.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "Tyler, the Creator cuts the Converse Bronco Boot down to a low",
+      "why": "Chunky tomboy shoe from a playful label",
+      "sum": [
+        "GOLF le FLEUR* and Converse have made a low-top Bronco Boot for the 1908 line. It's based on Converse's 1990s Mud Chunk, a cross between sneaker and boot. Uppers are suede and leather, with a molded rubber toe cap, a lugged sole, woven round laces and a le FLEUR* lace jewel.",
+        "Colors are Cocoa Brown, New Wheat, Eden green and Black. It's out now on the Converse and GOLF le FLEUR* sites and at selected stores. The article didn't list a price."
+      ],
+      "pts": [
+        "Four colors, including Eden green",
+        "Chunky lug sole and rubber toe cap",
+        "Available now"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/tyler-the-creator-converse-bronco-boot-low-golf-le-fleur-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-13/s24.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "A$AP Rocky's worn-in PUMA Suede '94 nods to '90s skate",
+      "why": "Easy skater-tomboy staple",
+      "sum": [
+        "A$AP Rocky's newest PUMA capsule is a Suede '94 in washed, distressed navy, built on an original Suede colorway. Details include a raw-edged padded tongue, a gum sole, custom branding and a gold metal lace keeper.",
+        "A matching PUMA No. 1 logo tee and hoodie complete the set, which leans on '90s skate and hip-hop. It's out now on PUMA's US site and at selected stores. No price was given."
+      ],
+      "pts": [
+        "Distressed navy suede with a gum sole",
+        "Matching tee and hoodie",
+        "Out now on PUMA"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/asap-rocky-puma-suede-94-sneaker-skate-hip-hop-info-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-13/s25.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Drama Call's star-covered adidas ClimaCool 1 GTX",
+      "why": "Niche label, stars and pops of lime",
+      "sum": [
+        "Manchester streetwear label Drama Call is on its fourth adidas project, a ClimaCool 1 GTX. It's mostly black ripstop with a GORE-TEX lining and lime trim, plus a marbled camo sole in lime, black and grey. Big halftone stars on the insoles and silver stars on the heel add the playful part.",
+        "It launches November 14 on Drama Call's own site, then on the adidas CONFIRMED app and at selected stores from November 15. Price is still to be confirmed. Rapper Suggz fronts the campaign."
+      ],
+      "pts": [
+        "Black with lime accents and camo sole",
+        "Drama Call site Nov 14, CONFIRMED Nov 15",
+        "Waterproof GORE-TEX build"
       ],
       "src": "Hypebeast",
       "site": "hypebeast.com",
       "url": "https://hypebeast.com/2026/11/adidas-originals-drama-call-climacool-1-gtx-drama-collaboration-release-info",
       "min": 3,
-      "img": "img/2026-11-12/s20.jpg",
+      "img": "img/2026-11-13/s26.jpg",
       "published": "2026-11-11"
     },
     {
       "t": "fashion",
-      "kind": "Sneaker drops",
-      "h": "CPFM's Nike Flea 1 lands in deep 'Cave Purple'",
-      "why": "Bold color on a weird, chunky shoe",
+      "kind": "Guide",
+      "h": "This week's drops: Metallica x MADSAKI, Palace, BBC x Pokémon",
+      "why": "Rock graphics and playful capsules in one list",
       "sum": [
-        "Cactus Plant Flea Market's Nike Flea 1 is getting a moody purple colorway, and LeBron James was the first to be spotted in it. The chunky shoe mixes Dunk and Air Force 1 DNA, with a rich purple suede upper, geometric textured overlays, an oversized padded tongue and a thick collar.",
-        "The midsole is a dark purple with a dirt-like texture, and a black-and-white embroidered yin-yang sits on the heel. It's expected to cost $180 and is rumored for Holiday 2026, likely through a CPFM raffle alongside a 'Barley' pair. Nike hasn't confirmed the release yet."
+        "Hypebeast's weekly list has eight releases. The rock picks are a second Metallica x MADSAKI capsule, with redrawn band graphics on jackets and knits (November 14 via PARADISE TOKYO), and a Supreme capsule with the Elliott Smith estate. For color, there's Palace Winter Drop 7 outerwear, including a balaclava puffer.",
+        "Also on the list: a Billionaire Boys Club x Pokémon 30th-anniversary capsule, Kith's Knicks collection, LOEWE's Nightmare Before Christmas line, Oakley x Metalwood, and Kaptain Sunshine x COVERCHORD. Most drop between November 12 and 14, and Asia often gets them a day later."
       ],
       "pts": [
-        "$180, SKU IU5238-500",
-        "Rumored Holiday 2026 raffle, not confirmed",
-        "Purple suede with a yin-yang heel"
+        "Metallica x MADSAKI drops November 14",
+        "Palace and BBC x Pokémon bring color",
+        "Most drops land Nov 12–14"
       ],
       "src": "Hypebeast",
       "site": "hypebeast.com",
-      "url": "https://hypebeast.com/2026/11/nike-cpfm-flea-1-cave-purple-iu5238-500-closer-look-lebron-james-first-spotted-release-info",
-      "min": 2,
-      "img": "img/2026-11-12/s21.jpg",
+      "url": "https://hypebeast.com/2026/11/best-drops-november-week-2-supreme-palace-kith-pokemon-billionaire-boys-club",
+      "min": 4,
+      "img": "img/2026-11-13/s27.jpg",
       "published": "2026-11-11"
     },
     {
       "t": "fashion",
-      "kind": "Collab",
-      "h": "Seoul's Ojos and Sorel launch starry winter footwear",
-      "why": "Niche Asian label, quirky star details",
+      "kind": "Accessories",
+      "h": "Simone Rocha and Crocs end their run with pearl ballet clogs",
+      "why": "Whimsical, a cult niche-designer favorite",
       "sum": [
-        "Seoul womenswear label Ojos has teamed up with Sorel for its first global collab, called 'Stars on the Ground'. It pairs Sorel's cold-weather know-how with Ojos's habit of turning technical materials into something experimental and wearable day to day.",
-        "There are two styles. The Ona Avenue Alpine Tall is a waterproof suede boot in Ojos's signature gray, with a shearling tongue, fleece lining, insulation and swappable laces. The Ambler Fireside is a waterproof clog inspired by Sorel's Caribou boot, finished in faded gray with star details. It's on sale from November 12 at ojos.kr and Ojos stores, where in-store buyers get free leg warmers while they last."
+        "Simone Rocha's sixth and final Crocs drop has three shoes. The Ballerina Platform has pointe-shoe molding, ribbon embossing, bows, pearls and crystals. There's also a shearling-lined Classic Clog and a trail-style Quick Trail Racer with decorative extras. The palette is mostly neutral: latte, khaki, coffee and black.",
+        "Fumi Imano shot the campaign in Tokyo. Everything goes on sale worldwide November 17 through Crocs, Simone Rocha and selected stores. As the last chapter of a well-loved collab, it may sell out quickly."
       ],
       "pts": [
-        "On sale Nov 12 at ojos.kr and Ojos stores",
-        "Tall boot plus a star-detailed clog",
-        "Free leg warmers in store while stocks last"
-      ],
-      "src": "Hypebeast",
-      "site": "hypebeast.com",
-      "url": "https://hypebeast.com/2026/11/ojos-x-sorel-launches-first-footwear-collection-stars-on-the-ground",
-      "min": 2,
-      "img": "img/2026-11-12/s22.jpg",
-      "published": "2026-11-11"
-    },
-    {
-      "t": "fashion",
-      "kind": "Collab",
-      "h": "Stella McCartney x Yoshitomo Nara go 'rock'n'roll forest'",
-      "why": "Whimsical punk-cute art clothes",
-      "sum": [
-        "Stella McCartney and Japanese artist Yoshitomo Nara are back with their third limited collaboration. The theme is a 'rock'n'roll forest', with Nara's mischievous kid characters and animals spread across knitwear in responsibly sourced wool, organic cotton jersey separates, vegan bags and graphic trainers printed with his art.",
-        "Four extra-limited atelier pieces include framed hand-crocheted faces plus knitted scarves and jumpers, some taking more than 60 hours to make. Actor Ryo Ryusei and model Mika Schnider front the campaign, and Japan gets pop-ups and collectible stickers. The collection launched globally on November 11 on Stella McCartney's site. Prices weren't listed."
-      ],
-      "pts": [
-        "Out now on stellamccartney.com (since Nov 11)",
-        "Nara-print trainers and cartoon knitwear",
-        "Hand-crocheted atelier pieces in tiny numbers"
+        "Final Simone Rocha x Crocs drop",
+        "Three styles, from ballet to trail",
+        "Out globally November 17"
       ],
       "src": "Hypebae",
       "site": "hypebae.com",
-      "url": "https://hypebae.com/2026/11/stella-mccartney-yoshitomo-nara-collaboration-collection-art-clothes-release-date-where-to-buy",
+      "url": "https://hypebae.com/2026/11/simone-rocha-crocs-collaboration-ballerina-platform-clogs-release-info-where-to-buy",
       "min": 2,
-      "img": "img/2026-11-12/s23.jpg",
-      "published": "2026-11-09"
-    },
-    {
-      "t": "fashion",
-      "kind": "Restock",
-      "h": "Telfar's FW26 drop: leopard, snake and $68 skullies",
-      "why": "Telfar, plus colorful cheap accessories",
-      "sum": [
-        "Telfar's site is leading with its New FW26 Collection, a big mix of tailoring, workwear, cargo and several denim washes, from raw blue to 'dirty' black. The fun corner is the leopard and snake pieces: baby tees, snoods, thumbhole tops and leggings, mostly $105 to $290.",
-        "For cheaper ways in, there are skullies at $68 each in leopard red, snake tan, star green and signature blue, and a new Baby Bag Charm at $78. The charm comes in 12 colors, including Glow in the Dark, Acid, Azalea and Yellow, and only Black Rainbow is sold out. Spend $200 and you get a free logo hat."
-      ],
-      "pts": [
-        "Baby Bag Charm $78, 12 colors incl. glow-in-the-dark",
-        "Skullies $68 in leopard, snake and star",
-        "Free hat on orders of $200+"
-      ],
-      "src": "Telfar",
-      "site": "telfar.net",
-      "url": "https://telfar.net/collections/new-fw26-collection",
-      "min": 3,
-      "img": "img/2026-11-12/s24.jpg",
-      "published": "2026-11-12"
+      "img": "img/2026-11-13/s28.jpg",
+      "published": "2026-11-10"
     },
     {
       "t": "fashion",
       "kind": "Style note",
-      "h": "Silly, sexy fits at London's new queer rave Pouffe",
-      "why": "Playful, colorful club street style",
+      "h": "What people wore to Pouffe, London's silly queer rave",
+      "why": "Playful, DIY club style for inspiration",
       "sum": [
-        "Dazed went to the second edition of Pouffe, a queer rave at Tottenham's Unit 58 run by William Craven, Jam and Billy. The name takes back a slur the hosts heard growing up, and the whole point is joy over cool-kid posturing. Billy built a giant fuzzy rainbow mascot, the DJ booth was covered in hands and tentacles, and Czech Hunter Schafer interviewed guests at the door.",
-        "There's no dress code, so people dressed to dance and sweat: sporty shorts, cropped vests, lace mesh and studded bras, plus vintage furs thrown over printed silk slips and a Carmela Soprano tee. Craven sums up the vibe as sexy and a bit silly."
+        "Dazed photographed the second Pouffe night, a queer rave in Tottenham hosted by William Craven, Jam and Billy at Unit 58. There's no dress code. The hosts just want people to come as their freest selves, and the mood is sexy but goofy.",
+        "Dancewear was everywhere: sporty shorts, cropped vests, lace mesh and studded bras. Standout looks paired marbled vintage furs with printed silk slips, and one person wore a Carmela Soprano tee. Cameron Hendry took the photos."
       ],
       "pts": [
-        "Sportswear mixed with lingerie and vintage fur",
-        "Rainbow fuzzy mascot sets the playful tone",
-        "No dress code, just dressed to dance"
+        "Sporty shorts and cropped vests dominated",
+        "Vintage fur over silk slips",
+        "Joke tees as statement pieces"
       ],
       "src": "Dazed",
       "site": "dazeddigital.com",
       "url": "https://www.dazeddigital.com/fashion/article/71329/1/pouffe-party-tottenham-queer-rave-club-night-street-style-photos",
       "min": 2,
-      "img": "img/2026-11-12/s25.jpg",
+      "img": "img/2026-11-13/s29.jpg",
       "published": "2026-11-10"
     },
     {
-      "t": "fashion",
-      "kind": "Guide",
-      "h": "This week's drops: Elliott Smith Supreme, Metallica x MADSAKI",
-      "why": "Rock merch and playful drops in one list",
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Gibran resigns as vice president over diploma ruling",
+      "why": "Dynasty politics cracks at the top",
       "sum": [
-        "Hypebeast's weekly list has a strong rock thread. Supreme's seven-piece Elliott Smith capsule uses album-era photos and lands November 12 (Asia on the 14th). Metallica and artist MADSAKI return with coach and varsity jackets, caps and badges on November 14 via PARADISE TOKYO, in limited numbers.",
-        "Also on the list: Palace Winter Drop 7 with a puffer in six colors (November 13), LOEWE x The Nightmare Before Christmas (November 12), Billionaire Boys Club x Pokémon for the 30th anniversary (November 13), Kith x Knicks, Oakley x Metalwood and a black cashmere-linen set from Kaptain Sunshine x COVERCHORD. No prices were listed."
+        "Vice President Gibran Rakabuming Raka, eldest son of former president Joko Widodo, handed his resignation to President Prabowo Subianto and parliament on Thursday, two years into his five-year term. Prabowo said he accepted it reluctantly. Last month the Constitutional Court and Supreme Court found that the documents Gibran filed on his overseas schooling did not meet election requirements; critics say he never earned a high school diploma.",
+        "A day earlier, 120 lawmakers from eight parties had filed a motion that could lead to impeachment. The vacancy does not trigger an election: the MPR must pick a replacement from two presidential nominees within 60 days. Al Jazeera notes weeks of street protests over living costs, corruption, authoritarianism and the wildfire response."
       ],
       "pts": [
-        "Supreme x Elliott Smith out Nov 12",
-        "Metallica x MADSAKI out Nov 14, limited",
-        "BBC x Pokémon and Palace puffers Nov 13"
+        "Resignation follows court rulings against his education documents",
+        "120 DPR members had already launched an impeachment motion",
+        "MPR picks a successor from two Prabowo nominees within 60 days"
       ],
-      "src": "Hypebeast",
-      "site": "hypebeast.com",
-      "url": "https://hypebeast.com/2026/11/best-drops-november-week-2-supreme-palace-kith-pokemon-billionaire-boys-club",
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility",
+      "min": 3,
+      "img": "img/2026-11-13/s30.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "154 arrested as Yogyakarta Heroes Day protest is crushed",
+      "why": "Protest repression and civil liberties",
+      "sum": [
+        "Protesters gathered on 10 November at Titik Nol, the DIY regional parliament and Tugu, demanding troops return to barracks, investigations into shootings in Aceh and Papua, a national disaster declaration for the forest fires and lower taxes. Police say about 100 people attacked the DPRD building with firecrackers, Molotovs and stones; by the next morning they reported 154 arrests, including minors.",
+        "LBH Yogyakarta says police skipped required de-escalation steps, that plainclothes officers made arrests, and that 13 people were unaccounted for. It reported two injured at hospital, one with a head wound. Student press accounts say police fired tear gas toward UGM, which police deny. UGM's social sciences faculty demanded the students' release."
+      ],
+      "pts": [
+        "Police count rose from 104 to 154 detained, including children",
+        "LBH alleges excessive force and missing detainees",
+        "Campus accounts contradict police on tear gas at UGM"
+      ],
+      "src": "Magdalene",
+      "site": "magdalene.co",
+      "url": "https://magdalene.co/story/kronologi-penangkapan-demo-yogyakarta/",
       "min": 5,
-      "img": "img/2026-11-12/s26.jpg",
+      "img": "img/2026-11-13/s31.jpg",
       "published": "2026-11-11"
-    },
-    {
-      "t": "fashion",
-      "kind": "Style note",
-      "h": "Inside the Tokyo home of Hysteric Glamour's founder",
-      "why": "Rock-rooted cult label, deep dive",
-      "sum": [
-        "i-D visited Nobuhiko Kitamura, who started Hysteric Glamour in Tokyo in 1984 by mixing '70s punk, Warhol-style pop art and vintage Americana. He says the name came from the energy of female rock singers like Blondie and Patti Smith. His home is full of stories: a gift from Sofia Coppola, the Herman Makkink sculptures seen in A Clockwork Orange, and links to Patti Smith, whose Polaroid book he later published.",
-        "Kitamura says his Davide Sorrenti campaigns were candid snaps of friends, not staged shoots. He's critical of corporate trend cycles and AI-driven references, and thinks Japanese street style today is more about baggy fits and logos than subcultures."
-      ],
-      "pts": [
-        "Hysteric Glamour was born from punk and rock",
-        "Published Patti Smith's Polaroid book",
-        "Says today's street style lacks subculture"
-      ],
-      "src": "i-D",
-      "site": "i-d.co",
-      "url": "https://i-d.co/article/hysteric-glamour-nobuhiko-kitamura-tokyo-home/",
-      "min": 6,
-      "img": "img/2026-11-12/s27.jpg",
-      "published": "2026-11-05"
-    },
-    {
-      "t": "politics",
-      "kind": "Indonesia",
-      "h": "DPR factions back move toward Gibran impeachment",
-      "why": "Dynasty politics cracking; civil liberties at stake",
-      "sum": [
-        "Konde.co reports that on 11 November eight DPR factions agreed to use the House's right to express an opinion (HMP) over Vice President Gibran's disputed school-equivalency document, with 120 of 580 members proposing his removal. The trigger was a 30 October Supreme Court ruling that voided the 2019 equivalency certificate, finding no proof he finished secondary school abroad.",
-        "The piece stresses this is not yet impeachment: a plenary needs a two-thirds quorum and vote, then a special committee and a Constitutional Court ruling. Gibran reportedly weighed resigning after meeting Prabowo but wants to fight in court. The author warns elite infighting could bring curbs on free expression and assembly."
-      ],
-      "pts": [
-        "Eight factions, 120 MPs back HMP route",
-        "Supreme Court voided Gibran's equivalency document",
-        "Formal impeachment still needs two-thirds plenary vote"
-      ],
-      "src": "Konde.co",
-      "site": "konde.co",
-      "url": "https://www.konde.co/2026/11/gibran-dimakzulkan-dari-wakil-presiden-politik-dinasti-retak-rakyat-sipil-menanggung-akibatnya/",
-      "min": 9,
-      "img": "img/2026-11-12/s28.jpg",
-      "published": "2026-11-11"
-    },
-    {
-      "t": "politics",
-      "kind": "Indonesia",
-      "h": "Rempang residents reported to police over school site",
-      "why": "Land conflict and criminalisation of residents",
-      "sum": [
-        "Mongabay Indonesia reports that five Rempang residents in Batam were reported to police after entering the construction site of a 'Sekolah Terintegrasi Merah Putih' on land BP Batam claims under an 18.5-hectare management right (HPL). The reports cite criminal code articles on trespass and obstructing officials.",
-        "YLBHI, Walhi and a national solidarity team call it criminalisation meant to intimidate residents defending ancestral land, and have filed complaints with Komnas HAM, Kompolnas, the Ombudsman and the witness protection agency. Residents say they don't oppose the school but want land status settled first. The land agency says the HPL process was clean; the Ombudsman earlier found maladministration."
-      ],
-      "pts": [
-        "Five villagers face trespass and obstruction reports",
-        "Rights groups call it criminalisation",
-        "Ombudsman found maladministration in land process"
-      ],
-      "src": "Mongabay Indonesia",
-      "site": "mongabay.co.id",
-      "url": "https://mongabay.co.id/2026/11/11/kriminalisasi-terus-hantui-warga-rempang/",
-      "min": 5,
-      "img": "img/2026-11-12/s29.jpg",
-      "published": "2026-11-11"
-    },
-    {
-      "t": "politics",
-      "kind": "Indonesia",
-      "h": "Grassroots women challenge Job Creation Law in court",
-      "why": "Women, land rights and the Omnibus Law",
-      "sum": [
-        "Mongabay Indonesia reports on a Constitutional Court challenge (case 307/PUU-XXIV/2026) filed in August by Solidaritas Perempuan with four women from communities hit by development: Indigenous women of Poco Leok facing a geothermal project, Makassar fisherwomen squeezed by a new port, Poso farmers affected by a hydropower plant, and Watutau Indigenous women threatened by the land bank policy.",
-        "They contest five provisions covering land acquisition, environmental impact assessments, the land bank and strict liability, arguing the law denies women meaningful participation in national strategic projects. Hearings with expert and fact witnesses continue; petitioners criticised repeated government postponements. No ruling has been issued."
-      ],
-      "pts": [
-        "Five Omnibus Law articles contested",
-        "Petitioners from four project-affected communities",
-        "Government sought repeated postponements"
-      ],
-      "src": "Mongabay Indonesia",
-      "site": "mongabay.co.id",
-      "url": "https://mongabay.co.id/2026/11/10/para-perempuan-terdampak-pembangunan-menanti-keputusan-adil-uji-materi-uu-cipta-kerja/",
-      "min": 4,
-      "img": "img/2026-11-12/s30.jpg",
-      "published": "2026-11-10"
     },
     {
       "t": "politics",
       "kind": "Investigation",
-      "h": "Settlers who attack return in army uniform, probe finds",
-      "why": "Documents state backing of settler violence",
+      "h": "Land seized by army-led task force keeps burning",
+      "why": "Military land grab meets haze crisis",
       "sum": [
-        "An Al Jazeera investigation reports that settlers who attack Palestinians in the occupied West Bank often come back in military uniform to give orders, using facial matching and testimony to identify individuals, including one previously on, then removed from, a US sanctions list. It says 14 of 63 Palestinians killed by settlers since October 2023 were shot by people serving in or wearing army uniform.",
-        "The report says the army's regional defence battalions, largely settler reservists, have grown sixfold since 2023, and cites Yesh Din data that 93.6% of police cases against settlers since 2005 closed without indictment. Palestinian farmers' union and Israeli critics describe army and settlers as effectively merged."
+        "A joint investigation by Project Multatuli and IndonesiaLeaks found that at least 26 concessions seized by the military-dominated forest task force Satgas PKH burned between January 2025 and September 2026. Of roughly 6.2 million hectares seized, about 68% went to state firm Agrinas Palma, largely for palm oil, and only 18% to the forestry ministry for restoration. Greenpeace counted over 5,000 hectares burned in eight concessions in mid-2026.",
+        "Agrinas's annual report never mentions fires or peat, names few of its partner companies, and lists palm oil sales with undisclosed buyers. The task force says the recipients are responsible; Agrinas did not respond. Environmental groups call it state neglect and want tougher penalties in the forestry law revision."
       ],
       "pts": [
-        "14 of 63 settler killings by uniformed men",
-        "Settler-staffed defence units grew sixfold",
-        "93.6% of settler cases closed without charges"
+        "About 4.2 million ha of seized land handed to military-linked Agrinas",
+        "Fires hit concessions tied to Wilmar, Musim Mas, Salim and others",
+        "Agrinas and the task force publish almost no data"
+      ],
+      "src": "Project Multatuli",
+      "site": "projectmultatuli.org",
+      "url": "https://projectmultatuli.org/kebakaran-di-lahan-sitaan-tentara/",
+      "min": 17,
+      "img": "img/2026-11-13/s32.jpg",
+      "published": "2026-11-09"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Israeli strike on Nasser Hospital kills Gaza surgeon",
+      "why": "Ceasefire in name only in Gaza",
+      "sum": [
+        "An Israeli strike hit the surgery department of Nasser Medical Complex in Khan Younis early Thursday, killing at least six people including surgeon Dr Rizq Abu Shuaira and a child, according to Gaza health officials, who called it a crime. Al Jazeera says it was the seventh attack on the hospital, which serves about half a million people. The Israeli military said it was targeting a Hamas commander.",
+        "The report lays out the wider toll: health authorities say 17 of Gaza's 37 hospitals are out of service and 44% of essential medicines are out of stock. Israel's Supreme Court this week refused to release detained hospital director Dr Husam Abu Safia, held for over 500 days."
+      ],
+      "pts": [
+        "At least six killed, per Gaza health ministry",
+        "Seventh attack on Nasser, despite the October 2025 ceasefire",
+        "Israeli court rejects release of Dr Husam Abu Safia"
       ],
       "src": "Al Jazeera",
       "site": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation",
+      "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare",
       "min": 5,
-      "img": "img/2026-11-12/s31.jpg",
+      "img": "img/2026-11-13/s33.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Hebron families return to looted homes after siege",
+      "why": "Collective punishment in the West Bank",
+      "sum": [
+        "Between 23 October and 2 November, Israeli forces displaced at least 619 families, nearly 4,000 people, from two Hebron neighbourhoods after a Palestinian gunman killed two soldiers, +972 reports. The army said it was dismantling militant infrastructure; the magazine notes only four weapons were seized and calls the operation collective punishment.",
+        "Residents describe missing gold, cash and appliances, homes used as army posts, and car dealers losing hundreds of vehicles. Some homes were demolished and peaceful protests demanding return were met with force. The army says it ordered troops to protect property, found no damage claims and will investigate specific allegations."
+      ],
+      "pts": [
+        "Around 4,000 people displaced for over a week",
+        "Residents report theft of cash, gold and vehicles",
+        "Army denies wrongdoing but promises to check claims"
+      ],
+      "src": "+972 Magazine",
+      "site": "972mag.com",
+      "url": "https://972mag.com/looting-hebron-israel-siege",
+      "min": 8,
+      "img": "img/2026-11-13/s34.jpg",
       "published": "2026-11-10"
     },
     {
       "t": "politics",
       "kind": "Free Palestine",
-      "h": "UK keeps awarding contracts to settlement-linked firms",
-      "why": "Complicity target for boycott campaigners",
+      "h": "Going home to Gaza via Rafah means risking arrest",
+      "why": "Return and movement under siege",
       "sum": [
-        "Al Jazeera finds that UK public bodies awarded £10.7m ($14.4m) in new contracts to companies tied to West Bank settlements after Foreign Secretary Ed Miliband announced powers on 8 September to sanction firms profiting from them. Using procurement data from Tussell, it counts 18 new contracts since then.",
-        "Firms named include Heidelberg Materials, whose Israeli subsidiary is linked to a quarry near Qalqilya, Motorola Solutions, Fosun and Egis, all listed in the UN settlement database. Heidelberg says quarry operations ceased in 2023; Egis disputes its listing. A law professor says the firms appear to breach humanitarian law, and Jeremy Corbyn called the contracts outrageous. The Cabinet Office did not comment."
+        "Since the Rafah crossing reopened in February, about 7,900 Palestinians have left Gaza and some 7,500 have returned, according to the EU border mission, but it opens only around three days a week and closes without warning. Israeli forces have arrested 11 returnees at the crossing, six in October, including a 60-year-old cancer patient and her daughter, whose family says they are held in Ashkelon.",
+        "Returnees may bring only one 20kg suitcase, deterring people whose livelihoods depend on laptops. Gaza's media office says over 3,000 patients have been evacuated for treatment while more than 21,000 remain on waiting lists, and accuses Israel of delays and arbitrary arrests. Israel has not explained the detentions."
       ],
       "pts": [
-        "£10.7m in new deals since sanctions pledge",
-        "All firms appear in UN settlement database",
-        "Fuel for local BDS procurement campaigns"
+        "11 returnees arrested at Rafah since February",
+        "Crossing opens erratically; luggage capped at 20kg",
+        "Over 21,000 patients still waiting for medical evacuation"
       ],
-      "src": "Al Jazeera",
-      "site": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions",
-      "min": 4,
-      "img": "img/2026-11-12/s32.jpg",
-      "published": "2026-11-10"
+      "src": "+972 Magazine",
+      "site": "972mag.com",
+      "url": "https://www.972mag.com/gaza-rafah-crossing-palestinians-returning/",
+      "min": 8,
+      "img": "img/2026-11-13/s35.jpg",
+      "published": "2026-11-12"
     },
     {
       "t": "politics",
       "kind": "Free Palestine",
-      "h": "Gaza floods swamp tents as drainage lies in ruins",
-      "why": "Siege deepens humanitarian collapse",
+      "h": "Israeli troops kill 14-year-old boy near Nablus",
+      "why": "Children killed in the West Bank",
       "sum": [
-        "Heavy rain has flooded large parts of Gaza, Al Jazeera reports. The Government Media Office says 70,000 tents were submerged or damaged, affecting about 350,000 people, and that over 700km of sewage network has been destroyed. Civil Defence says it received more than 2,000 distress calls in 12 hours but could answer only 218, citing fuel shortages and broken equipment.",
-        "Gaza City's municipality says it lost about 85% of its vehicle fleet in the war and now runs on one bulldozer and two suction trucks, with drainage at roughly a fifth of capacity. Officials say caravans promised under the October 2025 ceasefire are stuck at the border and aid falls far short of needs."
+        "Palestinian health officials say Israeli forces killed 14-year-old Moataz Iyad during a raid in Burqa, northwest of Nablus, and are withholding his body. Wafa reported two other young men shot, the boy's father detained and paramedics briefly held. The Israeli military confirmed soldiers opened fire, saying they responded to a threat.",
+        "Middle East Eye places the killing in a year of record violence: OCHA logged more than 2,060 settler attacks causing casualties or damage by mid-October, and ACLED says 2026 is the worst year for settler violence since it began monitoring. In Gaza the same day, Israeli fire wounded a fisherman and a boy, per Anadolu."
       ],
       "pts": [
-        "70,000 tents flooded, officials say",
-        "Only 218 of 2,000+ calls answered",
-        "Promised caravans held at border"
+        "Boy killed in Burqa raid; Israel holding his body",
+        "Army says troops fired at a threat",
+        "UN and ACLED record unprecedented settler violence in 2026"
       ],
-      "src": "Al Jazeera",
-      "site": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods",
+      "src": "Middle East Eye",
+      "site": "middleeasteye.net",
+      "url": "https://www.middleeasteye.net/news/israel-kills-14-year-old-palestinian-boy-west-bank-wounds-two-gaza",
       "min": 3,
-      "img": "img/2026-11-12/s33.jpg",
+      "img": "img/2026-11-13/s36.jpg",
+      "published": "2026-11-10"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Providence voters pass divestment and elect a socialist mayor",
+      "why": "BDS wins at the ballot box",
+      "sum": [
+        "Democracy Now! spoke with David Morales, the 28-year-old democratic socialist just elected mayor of Providence, Rhode Island, where voters also approved Question 7 with over 70% support. The measure orders the city to divest from countries and companies implicated in apartheid, occupation or genocide; it does not name Israel but was driven by the Providence for Palestine Coalition, which gathered over 10,000 signatures after the sitting mayor threatened a veto.",
+        "Morales says the city's investment board will now identify holdings to drop. He pledged rent stabilisation and action against ICE. The segment ties the win to other left mayoral victories, including Los Angeles and Washington."
+      ],
+      "pts": [
+        "Divestment measure passed with over 70% of the vote",
+        "Grassroots petition bypassed a mayoral veto threat",
+        "Part of a wider wave of socialist city wins"
+      ],
+      "src": "Democracy Now!",
+      "site": "democracynow.org",
+      "url": "https://www.democracynow.org/2026/11/11/providence_divestment_david_morales",
+      "min": 12,
+      "img": "img/2026-11-13/s37.jpg",
       "published": "2026-11-11"
     },
     {
       "t": "politics",
-      "kind": "Free Palestine",
-      "h": "Hebron residents report looting after 11-day siege",
-      "why": "Collective punishment in occupied West Bank",
+      "kind": "Muslim wins",
+      "h": "How El-Sayed won Michigan while calling Gaza genocide",
+      "why": "Muslim and pro-Palestine electoral breakthrough",
       "sum": [
-        "+972 Magazine reports that Palestinians in Hebron's Al-Jilda and Deir Bahha neighbourhoods returned after an 11-day Israeli military operation (23 October to 2 November) to find homes ransacked and gold, cash and goods missing. At least 619 families, about 3,971 people, were displaced after a shooting that killed two Israeli soldiers.",
-        "Car dealers in Farsh Al-Hawa say around 300 vehicles were taken, with losses in the millions of shekels. Residents held daily protests demanding return. The army told +972 the operation targeted militant infrastructure, that forces were ordered to protect property, and that specific claims would be investigated; the magazine notes only four weapons were seized."
+        "Ali Harb examines how Abdul El-Sayed became the first Muslim US senator, beating Republican Mike Rogers by about seven points in Michigan despite more than $30 million in AIPAC spending against him in the primary and Trump calling him a jihadist. His primary rival endorsed Rogers days before the vote, citing El-Sayed's use of the word genocide; he did not retract it.",
+        "El-Sayed linked military aid to Israel and the Iran war to household costs. Harb cites polling showing most Americans now want US aid to Israel cut, and notes Uncommitted co-founder Abbas Alawieh won a state senate seat, while cautioning that a national blue wave also helped."
       ],
       "pts": [
-        "About 3,971 people displaced",
-        "Residents allege theft of savings and cars",
-        "Army says claims will be investigated"
+        "First Muslim US senator won by about seven points",
+        "Survived heavy AIPAC spending and Islamophobic attacks",
+        "Writer argues a pro-Palestine stance is now electable"
       ],
       "src": "+972 Magazine",
       "site": "972mag.com",
-      "url": "https://www.972mag.com/looting-hebron-israel-siege/",
+      "url": "https://www.972mag.com/michigan-el-sayed-political-consensus-palestine/",
       "min": 8,
-      "img": "img/2026-11-12/s34.jpg",
-      "published": "2026-11-10"
-    },
-    {
-      "t": "politics",
-      "kind": "Free Palestine",
-      "h": "US widens case against Michigan Palestine activists",
-      "why": "Repression of US Palestine movement",
-      "sum": [
-        "Mondoweiss reports that federal prosecutors added four recent University of Michigan graduates to a conspiracy case against pro-Palestine activists, bringing defendants to 12. Charges include conspiracy to transmit threats and to intimidate a witness. The authors say FBI agents raided homes on 29 October and switched off body cameras.",
-        "Prosecutors also sought to revoke one defendant's bond, citing messages they called antisemitic; Judge Judith Levy said the record showed no antisemitism, eased another defendant's conditions, and called the US Attorney's press release comparing activists to Hitler very concerning. A bond hearing is set for 18 November. The authors note no terrorism or hate-crime charges were filed."
-      ],
-      "pts": [
-        "'Michigan 8' becomes 'Michigan 12'",
-        "Judge rebuked prosecutors' Hitler comparison",
-        "Bond hearing set for 18 November"
-      ],
-      "src": "Mondoweiss",
-      "site": "mondoweiss.net",
-      "url": "https://mondoweiss.net/2026/11/the-u-s-government-is-escalating-its-attack-on-palestine-activism-in-michigan/",
-      "min": 10,
-      "img": "img/2026-11-12/s35.jpg",
-      "published": "2026-11-10"
+      "img": "img/2026-11-13/s38.jpg",
+      "published": "2026-11-09"
     }
   ]
 }
