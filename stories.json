@@ -1,66 +1,108 @@
 {
-  "date": "2026-11-14",
-  "generated": "2026-11-14T09:39:28.652760+07:00",
+  "date": "2026-11-15",
+  "generated": "2026-11-15T08:22:09.389652+07:00",
   "stories": [
     {
       "t": "movies",
       "kind": "Box office",
-      "h": "Godzilla Minus Zero and Ramayana lead global weekend",
-      "why": "Asian cinema owning the global top two",
+      "h": "Johnny Depp's Ebenezer takes the widest UK release this weekend",
+      "why": "Weekend box-office watch with a big-name comeback",
       "sum": [
-        "The Japanese monster sequel Godzilla Minus Zero topped the worldwide chart with an estimated $63m, and its North American debut is reported as the biggest ever for a live-action foreign-language release.",
-        "India's Ramayana: Rise Of A Legend followed with $52.2m, helped by Diwali. Warner's animated The Cat In The Hat opened third on $30.5m. Wild Horse Nine and a Stray Kids concert film also opened. All figures are estimates."
+        "Paramount is putting Ebenezer, Ti West's Dickens-inspired take on A Christmas Carol, into more cinemas than any other new title in the UK and Ireland this weekend. It marks Johnny Depp's first major US studio film in eight years, so its opening is being read as a test of whether his name still sells tickets.",
+        "Screen compares the launch against earlier Dickens adaptations and big franchise openers. Alongside it, Sony opens courtroom drama Prima Facie and heist comedy How To Rob A Bank, while Cristian Mungiu's Fjord arrives in a far smaller number of venues."
       ],
       "pts": [
-        "Godzilla Minus Zero: $63m worldwide",
-        "Ramayana: Rise Of A Legend: $52.2m",
-        "The Cat In The Hat opens third at $30.5m"
+        "Ebenezer is the widest new release in the UK and Ireland, at roughly 640 sites",
+        "It is Depp's first US studio film in eight years",
+        "Prima Facie, How To Rob A Bank and Fjord also open"
       ],
       "src": "Screen Daily",
       "site": "screendaily.com",
-      "url": "https://www.screendaily.com/news/godzilla-minus-zero-roars-with-63m-at-global-box-office-ramayana-rise-of-a-legend-strong-with-522m-the-cat-in-the-hat-leads-us-openers/5222148.article",
+      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-johnny-depps-comeback-ebenezer-out-in-634-cinemas-for-paramount/5222373.article",
       "min": 3,
-      "q": "Godzilla Minus Zero",
-      "img": "img/2026-11-14/s01.jpg",
-      "published": "2026-11-09"
+      "q": "Ebenezer",
+      "img": "img/2026-11-15/s01.jpg",
+      "published": "2026-11-13"
+    },
+    {
+      "t": "movies",
+      "kind": "Festival",
+      "h": "Fatherland leads European Film Awards nominations",
+      "why": "Early read on the arthouse awards race",
+      "sum": [
+        "The European Film Academy revealed its 2026 nominees at the Thessaloniki festival. Pawel Pawlikowski's black-and-white Fatherland, about Thomas Mann and his daughter Erika, leads with 11 nominations, including best film and director.",
+        "La Bola Negra, a queer love story spanning three eras of Spanish history, follows with 10, and Cristian Mungiu's Palme d'Or winner Fjord has five. Some festival favourites missed the main list. Around 5,700 Academy members voted, and winners will be announced at a ceremony in Athens on 16 January."
+      ],
+      "pts": [
+        "Fatherland has 11 nominations, La Bola Negra 10, Fjord five",
+        "Hiam Abbass gets an honorary world cinema award",
+        "Ceremony takes place in Athens on 16 January"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/european-film-awards-unveils-2026-nominations/5222404.article",
+      "min": 3,
+      "q": "Fatherland",
+      "img": "img/2026-11-15/s02.jpg",
+      "published": "2026-11-14"
+    },
+    {
+      "t": "movies",
+      "kind": "In cinemas",
+      "h": "Young crowds drive UK presales for You Can See Everything",
+      "why": "A documentary behaving like a event movie",
+      "sum": [
+        "Nathan Fielder and Lance Oppenheim's documentary about Elizabeth Holmes opens in UK cinemas through A24 on 20 November, in over 300 venues. Early ticket sales are strong, with some screenings selling out and extra shows being added.",
+        "What stands out is the audience: cinema chains report that people in their late teens to mid-thirties make up a large share of bookings, which is rare for a documentary. Online chatter is credited for the buzz, and the film has already grossed around $80m worldwide."
+      ],
+      "pts": [
+        "UK release on 20 November via A24",
+        "Cineworld and Picturehouse report heavy presales from under-30s",
+        "Worldwide gross is about $80m"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/younger-audiences-fuelling-strong-early-uk-cinema-ticket-sales-for-you-can-see-everything/5222379.article",
+      "min": 3,
+      "q": "You Can See Everything",
+      "img": "img/2026-11-15/s03.jpg",
+      "published": "2026-11-13"
+    },
+    {
+      "t": "movies",
+      "kind": "Festival",
+      "h": "IDFA opens with a plea for a gentler festival",
+      "why": "Documentary festival season kicks off",
+      "sum": [
+        "At the opening gala of the 39th Amsterdam documentary festival, artistic director Isabel Arrate Fernandez asked audiences to slow down and step away from the constant stream of online content. She acknowledged that recent editions were shaped by disputes over Gaza and Ukraine, and argued that careful, empathetic storytelling can help people connect.",
+        "The night opened with the premiere of White Tiger Column. An anonymously funded 50,000 euro prize went to Sabine Groenewegen for The Clearing, a feminist look at abuses on Dutch colonial rubber plantations."
+      ],
+      "pts": [
+        "Director calls for a calmer, more reflective festival",
+        "50,000 euro prize goes to The Clearing",
+        "DocLab marked its 20th anniversary with an audience game"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/idfa-head-calls-for-a-gentler-festival-as-mysterious-50000-prize-awarded-on-opening-night/5222403.article",
+      "min": 3,
+      "q": "White Tiger Column",
+      "img": "img/2026-11-15/s04.jpg",
+      "published": "2026-11-13"
     },
     {
       "t": "movies",
       "kind": "Review",
-      "h": "Fjord: Mungiu's Norway drama draws a savage verdict",
-      "why": "A big-name festival-circuit film to skip or argue about",
+      "h": "Being Heumann: warm, familiar disability-rights biopic",
+      "why": "True-story drama with a strong cast",
       "sum": [
-        "Cristian Mungiu's Fjord stars Sebastian Stan and Renate Reinsve as parents in a religious immigrant family on the Norwegian coast, whose strict child-rearing attracts the attention of state child services.",
-        "Little White Lies' David Jenkins finds the tone overheated and lopsided, more keen to watch the family suffer than to weigh the facts. He calls the leads flat where intensity is needed, and finds a neighbour subplot baffling. Despite respect for Mungiu, he thinks it misfires badly."
+        "Siân Heder's film follows activist Judy Heumann, played by Ruth Madeley, as she fights in 1977 to get Section 504 of the Rehabilitation Act enforced. A San Francisco protest becomes a sit-in, with Dylan O'Brien as a reporter and Mark Ruffalo as an official dodging her calls.",
+        "Little White Lies finds it likeable and uplifting, with a fiery lead performance and a strong disabled ensemble. But the reviewer calls it predictable and superficial, a feelgood triumph story whose political edge has been dulled."
       ],
       "pts": [
-        "Mungiu directs; Stan and Reinsve star",
-        "Critic finds it one-sided and overwrought",
-        "Scores: Anticipation 4, Enjoyment 1, In Retrospect 1"
-      ],
-      "src": "Little White Lies",
-      "site": "lwlies.com",
-      "url": "https://www.lwlies.com/reviews/fjord",
-      "min": 4,
-      "q": "Fjord",
-      "score": "1/5",
-      "scoreNote": "Little White Lies (Enjoyment)",
-      "img": "img/2026-11-14/s02.jpg",
-      "published": "2026-11-11"
-    },
-    {
-      "t": "movies",
-      "kind": "Review",
-      "h": "Being Heumann: warm but conventional disability-rights biopic",
-      "why": "An easygoing awards-season pick",
-      "sum": [
-        "Being Heumann follows disability rights activist Judy Heumann and her late-1970s fight for federal protections for disabled Americans. Ruth Madeley plays her, with Dylan O'Brien and Mark Ruffalo in the cast.",
-        "Little White Lies calls it likeable and well-meaning, in the mould of a nineties feelgood drama. The ensemble shines and disabled actors get room to work, but the storytelling is routine and the politics feel muted, leaving the critic wanting more substance."
-      ],
-      "pts": [
-        "Ruth Madeley leads with charisma",
-        "Pleasant but superficial, per the review",
-        "Scores: 3 / 3 / 3"
+        "Ruth Madeley's lead performance is the highlight",
+        "Formula is safe and predictable",
+        "Praised for its disabled ensemble cast"
       ],
       "src": "Little White Lies",
       "site": "lwlies.com",
@@ -68,9 +110,57 @@
       "min": 4,
       "q": "Being Heumann",
       "score": "3/5",
-      "scoreNote": "Little White Lies (Enjoyment)",
-      "img": "img/2026-11-14/s03.jpg",
+      "scoreNote": "Little White Lies",
+      "img": "img/2026-11-15/s05.jpg",
       "published": "2026-11-11"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Fjord: Mungiu's Palme d'Or winner gets a savage pan",
+      "why": "Divisive awards-circuit arthouse title",
+      "sum": [
+        "Cristian Mungiu's drama centres on a Romanian-born father and his Norwegian wife, whose strictly religious household is investigated by child welfare workers after bruises are noticed on their daughter.",
+        "Little White Lies is scathing. The reviewer argues the film seems keener to punish the parents than weigh the facts, paints the state as a witch-hunter, and leaves the children underwritten with a baffling subplot. It is a striking contrast with the film's festival reception and its European Film Awards nominations."
+      ],
+      "pts": [
+        "Reviewer calls the film heavy-handed and one-sided",
+        "Child welfare investigator is portrayed as relentlessly hostile",
+        "Score of 1 out of 5 for enjoyment"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/fjord",
+      "min": 4,
+      "q": "Fjord",
+      "score": "1/5",
+      "scoreNote": "Little White Lies (enjoyment)",
+      "img": "img/2026-11-15/s06.jpg",
+      "published": "2026-11-11"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Prima Facie: Cynthia Erivo strong, film less so",
+      "why": "Stage-to-screen drama with a big lead",
+      "sum": [
+        "The screen version of Suzie Miller's one-woman play stars Cynthia Erivo as Tessa, a defence barrister who cross-examines sexual assault complainants until she faces the justice system from the other side. The reviewer says the subject remains urgent.",
+        "Making Tessa a Black woman in a largely white profession adds a welcome layer, shown through her wigs. But the film loses the stage show's intensity, with plain direction, an overbearing score and a lead character who becomes a mouthpiece late on. Erivo is good, though poorly served."
+      ],
+      "pts": [
+        "Erivo's performance is the best thing here",
+        "Adaptation loses the play's raw energy",
+        "Direction and score undercut emotional impact"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/prima-facie",
+      "min": 4,
+      "q": "Prima Facie",
+      "score": "2/5",
+      "scoreNote": "Little White Lies",
+      "img": "img/2026-11-15/s07.jpg",
+      "published": "2026-11-10"
     },
     {
       "t": "music",
@@ -89,16 +179,16 @@
     {
       "t": "music",
       "kind": "Album review",
-      "h": "Blackhaine's debut Saints in the Wethouse is a bruised, bleak triumph",
-      "why": "Dark, experimental edge beyond standard indie",
+      "h": "Blackhaine's debut Saints in the Wethouse is a bleak, ambitious triumph",
+      "why": "Left-field, boundary-pushing sound beyond standard indie",
       "sum": [
-        "The Line of Best Fit gives Blackhaine's first album a 9/10. It sets rain-soaked streets, police lights and a drug haze to industrial and club textures, futuristic rap and drifting ambient passages.",
-        "The reviewer likens the mood to Northern noir fiction. The record builds toward a more rapturous second half, with \"Spirit\" the high point, then ends in harsh noise that drops the listener back into the grim reality."
+        "The Line of Best Fit's Tom Morgan reviews the debut full-length from Blackhaine, the Preston-born artist tied to Salford's White Hotel scene. He mixes futuristic rap with avant-garde ideas, including Butoh dance, to build a rain-soaked, nocturnal world of addiction and street violence that the review likens to the Red Riding novels.",
+        "The first half hits with abrasive club beats; the second turns more atmospheric before the closer drags you back into the dark. Morgan calls it visionary and electrifying, though also troubling."
       ],
       "pts": [
-        "Scored 9/10 by The Line of Best Fit",
-        "Industrial, club and rap textures",
-        "\"Spirit\" is the standout track"
+        "Debut album from a Salford-linked artist",
+        "Abrasive beats give way to atmosphere",
+        "Scored 9/10"
       ],
       "src": "The Line of Best Fit",
       "site": "thelineofbestfit.com",
@@ -111,362 +201,406 @@
     },
     {
       "t": "music",
-      "kind": "News",
-      "h": "yeule announces EP a+e and shares dance-pop single Lovepill",
-      "why": "Art-pop with an indie-rock root",
+      "kind": "Best New Track",
+      "h": "yeule shares Lovepill ahead of new EP a+e",
+      "why": "Experimental indie-pop with an alt edge",
       "sum": [
-        "yeule will put out a new EP, a+e, on December 4 through Warner Records. It is framed as a futuristic, cyborg-flavoured romance.",
-        "The new single \"Lovepill\" was co-written and produced with pop producers including Frank Dukes. Stereogum hears a deadpan, electroclash-leaning dance-pop track, following the earlier single \"Hystérique\"."
+        "yeule has put out Lovepill, the latest single from their EP a+e, due December 4 on Warner Records. The artist describes the project as a post-apocalyptic cyborg romance.",
+        "The track was written and produced with Deaton Chris Anthony, Devin Workman and Frank Dukes. Stereogum hears a deadpan, twisty dance-pop song with an electroclash feel. It follows lead single Hystérique, which the site picked as a favourite earlier."
       ],
       "pts": [
-        "EP a+e arrives December 4 on Warner",
-        "Single \"Lovepill\" out now",
-        "Co-produced with Frank Dukes and others"
+        "EP a+e arrives December 4",
+        "Co-produced with Frank Dukes and others",
+        "Electroclash-tinged dance-pop"
       ],
       "src": "Stereogum",
       "site": "stereogum.com",
       "url": "https://stereogum.com/2517963/yeule-lovepill/music",
       "min": 2,
       "q": "yeule Lovepill",
-      "img": "img/2026-11-14/s06.jpg",
+      "img": "img/2026-11-15/s10.jpg",
       "published": "2026-11-13"
     },
     {
       "t": "music",
       "kind": "Best New Track",
-      "h": "54 Ultra and Clairo team up on Honeymoon",
-      "why": "Warm indie-pop with vintage feel",
+      "h": "54 Ultra's Honeymoon is a Clairo-produced shift into smoky pop",
+      "why": "Bedroom-indie lineage via Clairo",
       "sum": [
-        "New Jersey artist 54 Ultra has released \"Honeymoon\", produced and co-written by Clairo. It leans on smoky late-1970s pop.",
-        "It was recorded to analog tape at Electric Lady Studios using mostly vintage gear, including a Yamaha CP70 piano. The article also lists tour dates across the US, Europe and Australia."
+        "New Jersey artist 54 Ultra (JohnAnthony Rodriguez) has released Honeymoon, co-written and produced with Clairo, Paul Cherry, Eddie Burns and William Corduroy.",
+        "It was recorded at Electric Lady Studios on analog tape with vintage gear, leaning on late-1970s smoky pop. Rodriguez bought a Yamaha CP70 piano just for the song and treats it as a new direction that still sounds like him. The page also lists tour dates across festivals, Europe and Australia."
       ],
       "pts": [
-        "Clairo produced and co-wrote it",
-        "Tracked to tape at Electric Lady",
-        "Tour dates in US, Europe, Australia"
+        "Co-produced by Clairo",
+        "Recorded to tape at Electric Lady",
+        "Tour dates listed"
       ],
       "src": "Stereogum",
       "site": "stereogum.com",
       "url": "https://stereogum.com/2517941/54-ultra-clairo-collab-honeymoon/music",
       "min": 2,
-      "q": "54 Ultra Clairo Honeymoon",
-      "img": "img/2026-11-14/s07.jpg",
+      "q": "54 Ultra Honeymoon Clairo",
+      "img": "img/2026-11-15/s11.jpg",
       "published": "2026-11-13"
     },
     {
       "t": "music",
       "kind": "News",
-      "h": "Zsela announces second album The Party, shares Real Romantic",
-      "why": "Fresh indie-soul to watch",
+      "h": "Dicky Barrett appears to relaunch the Mighty Mighty Bosstones with a new band",
+      "why": "Alt-rock and ska-punk scene news",
       "sum": [
-        "Zsela, the Brooklyn-born, LA-based artist, will release her second album The Party on February 19 via Nice Life. Her debut Big For You came out in 2024.",
-        "The nine-track record sounds like breezy soul-pop with a modern take on 1980s adult-contemporary. She made it with co-producer Zack Sekoff, largely in a makeshift studio, and plays LA on November 19."
+        "Frontman Dicky Barrett looks to be reviving the Mighty Mighty Bosstones, who split in 2022 without explanation. They are billed to open Madness's Hollywood Bowl show on May 8, alongside Dance Hall Crashers, Goldfinger and Reel Big Fish.",
+        "An update says the set will feature Barrett with an entirely new backing band. Ex-Pietasters touring member Sammy Kay hinted on Instagram that original members aren't involved, calling it a hostile takeover. Barrett also has a pending trademark on the name."
       ],
       "pts": [
-        "The Party due February 19, 2027",
-        "Nine tracks, single \"Real Romantic\" out",
-        "LA show on November 19"
+        "Bosstones set at Hollywood Bowl on May 8",
+        "Lineup appears to be Barrett plus new players",
+        "Original members' involvement disputed"
       ],
       "src": "Stereogum",
       "site": "stereogum.com",
-      "url": "https://stereogum.com/2517932/zsela-announces-new-album-the-party-hear-real-romantic/music",
-      "min": 2,
-      "q": "Zsela The Party Real Romantic",
-      "img": "img/2026-11-14/s08.jpg",
+      "url": "https://stereogum.com/2517975/the-mighty-mighty-bosstones-announce-reunion-show/news",
+      "min": 3,
+      "img": "img/2026-11-15/s12.jpg",
       "published": "2026-11-13"
     },
     {
       "t": "music",
       "kind": "Album review",
-      "h": "Avhath's self-titled debut lands after 14 years",
-      "why": "Local Indonesian heavy scene",
+      "h": "MALIQ & D'Essentials bring Rhoma Irama, Bilal Indrajaya and Perunggu on Kabar Gembira",
+      "why": "Indonesian scene, with Perunggu from the indie side",
       "sum": [
-        "Pophariini's reviewer praises the Indonesian band's first full-length, arriving 14 years after they formed. He credits years of growth in songwriting, production and promotion.",
-        "The album mixes their early style with fresher arrangements and heavier death metal riffs. Guitarist Rey produced it, and the closer \"Cinereal Gaze\" is the reviewer's favourite."
+        "MALIQ & D'Essentials released their tenth album, Kabar Gembira, on November 11 via Sony Music Indonesia. The nine-track set has three collaborations: Rhoma Irama on Penasaran, Bilal Indrajaya on Nyali, and the band Perunggu on Pigura.",
+        "Rhoma's link began with a song swap at Pestapora 2025 and he plays guitar on his track. Pigura was an older song reworked with new lyrics after talks with Perunggu. Arah Labuh came out as a single in October, and Life Is Madness is the focus track."
       ],
       "pts": [
-        "First full album after 14 years",
-        "Death metal riffs add weight",
-        "Guitarist Rey produced it"
+        "Tenth album, out November 11",
+        "Features Rhoma Irama, Bilal Indrajaya, Perunggu",
+        "Focus track: Life Is Madness"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/sehidup-semusik/maliq-dessentials-gandeng-rhoma-irama-bilal-indrajaya-dan-perunggu-di-kabar-gembira/",
+      "min": 4,
+      "q": "MALIQ & D'Essentials Kabar Gembira",
+      "img": "img/2026-11-15/s13.jpg",
+      "published": "2026-11-14"
+    },
+    {
+      "t": "music",
+      "kind": "Album review",
+      "h": "Avhath finally release a debut album after 14 years",
+      "why": "Heavier corner of the Indonesian scene",
+      "sum": [
+        "Pophariini's Gerald Manuel reviews Avhath, the first full-length from an Indonesian band long known as one without an album. Its nine tracks arrive about 14 years after forming, produced by guitarist Rey.",
+        "Manuel is very positive, calling it a mature summary of their career that freshens their early sound with death-metal riffs and a playful streak. His pick is Cinereal Gaze, a slower and bleaker track. His one caveat is that the songs take many listens to stick and the fragmented arrangement may challenge newcomers."
+      ],
+      "pts": [
+        "Debut album, nine tracks",
+        "Standout track: Cinereal Gaze",
+        "Slow-burn; needs repeat listens"
       ],
       "src": "Pophariini",
       "site": "pophariini.com",
       "url": "https://pophariini.com/review/ulasan-album-avhath-merangkum-14-tahun-perjalanan-dalam-sembilan-lagu/",
-      "min": 5,
-      "q": "Avhath album",
-      "img": "img/2026-11-14/s09.jpg",
+      "min": 4,
+      "q": "Avhath Avhath album",
+      "img": "img/2026-11-15/s14.jpg",
       "published": "2026-11-13"
     },
     {
       "t": "fashion",
       "kind": "Collab",
-      "h": "Melissa x Powerpuff Girls blind boxes and candy sandals",
-      "why": "Whimsical, colorful and a little cartoon-weird",
+      "h": "Melissa x Powerpuff Girls blind boxes",
+      "why": "Playful, candy-bright and collectible",
       "sum": [
-        "Brazilian jelly-shoe label Melissa has teamed up with The Powerpuff Girls for its first blind box line. Collectible mini figures of Blossom, Bubbles and Buttercup are made from the brand's vegan PVC and smell of tutti-frutti, with a rare villain chase figure hidden among them.",
-        "On the wearable side there is a low kitten-heel thong sandal in sugary tones for adults, plus two kids' styles. It is on sale now through Melissa's site, and a blind box installation is up at its Sao Paulo flagship."
+        "Brazilian jelly-shoe label Melissa has teamed up with The Powerpuff Girls for its first-ever blind box range. Each box holds a tiny figurine of Blossom, Bubbles or Buttercup, with a rare chase figure of the villain H.I.M. The figures are moulded in Melissa's vegan PVC and carry its fruity tutti-frutti scent.",
+        "The shoes are a low Kitten Heel thong sandal for adults, plus Mini Melissa styles for kids. It's on sale now at shopmelissa.com, and a candy-coloured installation is open at the Sao Paulo flagship."
       ],
       "pts": [
-        "Blind box figures with a rare H.I.M. chase piece",
-        "Kitten Heel thong sandal in candy colors",
-        "Available now on shopmelissa.com"
+        "Blind-box figurines in scented PVC",
+        "Kitten Heel thong sandal for adults",
+        "Live now on Melissa's site"
       ],
       "src": "Hypebae",
       "site": "hypebae.com",
       "url": "https://hypebae.com/2026/11/melissa-the-powerpuff-girls-blind-box-collab-sandals-heels-info-where-to-buy",
-      "min": 2,
-      "img": "img/2026-11-14/s10.jpg",
-      "published": "2026-11-13"
-    },
-    {
-      "t": "fashion",
-      "kind": "Sneaker drops",
-      "h": "ASICS GEL-1130 gets HERALBONY art treatment",
-      "why": "Colorful, niche and hand-drawn sneaker energy",
-      "sum": [
-        "ASICS SportStyle and Japanese art label HERALBONY have reworked the retro GEL-1130 on a cream base, covered in dense artwork of tiny figures by artist Michiko Koyama. The upper has a paper-like texture, and the weave was tuned to look like pen strokes.",
-        "Teal, red and orange accents run across the toe, laces, sides and heel. It launched 13 November at 19,800 yen (about 124 USD) via ASICS online, a Tokyo pop-up and Notre in Chicago."
-      ],
-      "pts": [
-        "Cream base with teal, red and orange accents",
-        "Launched 13 Nov, about 124 USD",
-        "Even the shoebox carries the artwork"
-      ],
-      "src": "Hypebeast",
-      "site": "hypebeast.com",
-      "url": "https://hypebeast.com/2026/11/heralbony-x-asics-sportstyle-gel-1130-1203b187-100-collaboration-release-info",
-      "min": 2,
-      "img": "img/2026-11-14/s11.jpg",
+      "min": 3,
+      "img": "img/2026-11-15/s15.jpg",
       "published": "2026-11-13"
     },
     {
       "t": "fashion",
       "kind": "Collab",
-      "h": "Crocs x Pokemon: Pikachu, Gengar, Jigglypuff clogs",
-      "why": "Playful, colorful, tomboy-casual footwear",
+      "h": "Pokemon x Crocs clogs land 17 Nov",
+      "why": "Loud colour, casual and a bit silly",
       "sum": [
-        "To mark Pokemon's 30th anniversary, Crocs is releasing three clogs. Pikachu gets a yellow Classic Clog, Gengar a deep purple one, and Jigglypuff a pastel pink Classic Platform Clog.",
-        "They go on sale 17 November on the Crocs website, at 13,200 yen for the first two and 13,750 yen for the platform. A fun pick for adding Jibbitz and playful color to a casual look."
+        "Crocs is marking Pokemon's 30th anniversary with three clogs, each matched to a character's colour. Pikachu gets a yellow Classic Clog, Gengar a deep purple one, and Jigglypuff a pastel pink Classic Platform Clog.",
+        "They go on sale 17 November at Crocs.com. Japanese pricing is 13,200 yen for the Pikachu and Gengar pairs and 13,750 yen for the platform Jigglypuff."
       ],
       "pts": [
-        "Yellow, purple and pastel pink options",
-        "Release 17 Nov via Crocs online",
-        "Platform version for Jigglypuff"
+        "Release 17 November on Crocs.com",
+        "Yellow, purple and pastel pink",
+        "Jigglypuff is the platform version"
       ],
       "src": "Hypebeast",
       "site": "hypebeast.com",
       "url": "https://hypebeast.com/2026/11/pokemon-crocs-classic-clogs-30th-anniversary-pikachu-gengar-jigglypuff-collaboration-release-info",
       "min": 2,
-      "img": "img/2026-11-14/s12.jpg",
+      "img": "img/2026-11-15/s16.jpg",
       "published": "2026-11-12"
     },
     {
       "t": "fashion",
       "kind": "Sneaker drops",
-      "h": "Vans x Pringle of Scotland puts argyle wool on skate shoes",
-      "why": "Preppy-meets-skate with a colorful twist",
+      "h": "HERALBONY x ASICS GEL-1130 is out",
+      "why": "Artsy niche sneaker with colour pops",
       "sum": [
-        "Vans and Pringle of Scotland swap canvas for brushed, felted argyle wool on three classics: the Authentic 44, Sk8-Hi Reissue 38 and Classic Slip-On 98.",
-        "One colorway mixes navy, burgundy, olive and sage with a checkered toe panel, and another pairs black and white with blush-pink diamonds. All have white sidewalls. Prices run 110 to 130 USD, and they are available now on vans.com."
+        "ASICS SportStyle and the Japanese art label HERALBONY have turned the retro GEL-1130 runner into a canvas. The upper uses artwork by Michiko Koyama, known for dense drawings of tiny figures, on a paper-textured cream base.",
+        "Woven threads copy the pen strokes, with teal, red and orange accents on the toe, laces and heel. It costs 19,800 yen, roughly 124 dollars, and launched 13 November on the ASICS store, at a Tokyo pop-up and at Notre in Chicago."
       ],
       "pts": [
-        "Navy, burgundy, olive, sage and blush-pink argyle",
-        "Authentic, Sk8-Hi and Slip-On",
-        "110 to 130 USD, available now"
+        "Artwork woven into a cream GEL-1130",
+        "About 124 dollars, out 13 Nov",
+        "Custom box printed with the art"
       ],
       "src": "Hypebeast",
       "site": "hypebeast.com",
-      "url": "https://hypebeast.com/2026/11/vans-pringle-of-scotland-footwear-collection-premium-classic-slip-on-shoe-5315-premium-authentic-shoe-5310-premium-sk8-hi-shoe-5325-release-info",
+      "url": "https://hypebeast.com/2026/11/heralbony-x-asics-sportstyle-gel-1130-1203b187-100-collaboration-release-info",
       "min": 2,
-      "img": "img/2026-11-14/s13.jpg",
+      "img": "img/2026-11-15/s17.jpg",
       "published": "2026-11-13"
     },
     {
       "t": "fashion",
       "kind": "Sneaker drops",
-      "h": "VEJA and Marimekko drop pink-red floral sneakers",
-      "why": "Colorful, whimsical print on a niche-leaning sneaker",
+      "h": "NOCTA Air Modmax in pink gradient",
+      "why": "A bold, colourful sneaker to watch",
       "sum": [
-        "VEJA and Finnish design house Marimekko have released a limited sneaker capsule in the Popkorni print, a pink and red floral originally made by paper cutting. It comes as the adult Salar and the kids' Small Canary.",
-        "The Salar mixes suede and traced leather panels over a recycled-polyester mesh upper with a Vibram sole. Both pairs use sugarcane-based midsoles and Amazonian rubber outsoles. Available now on VEJA's site and at select stores."
+        "New images show Drake's NOCTA line with Nike introducing the Air Modmax. The colourway, Pink Spell, has a pink gradient upper with volt, amber and cobalt touches, and three translucent amber pods in the heel.",
+        "It retails at 180 dollars and is slated for the end of 2026 on Nike.com. No exact date has been given yet."
       ],
       "pts": [
-        "Popkorni floral print in pink and red",
-        "Salar for adults, Small Canary for kids",
-        "Recycled mesh and bio-based midsole"
-      ],
-      "src": "Hypebae",
-      "site": "hypebae.com",
-      "url": "https://hypebae.com/2026/11/veja-marimekko-salar-small-canary-sneakers-collab-sustainable-scandi-footwear-info-where-to-buy",
-      "min": 2,
-      "img": "img/2026-11-14/s14.jpg",
-      "published": "2026-11-13"
-    },
-    {
-      "t": "fashion",
-      "kind": "Sneaker drops",
-      "h": "Reebok x Tobe Nwigwe adds laceless Chukwu ATO and ANO",
-      "why": "Mint and salmon colors on a niche collab shoe",
-      "sum": [
-        "Reebok and artist Tobe Nwigwe continue their Chukwu line with two new shoes. The ATO is their first laceless sneaker, and the ANO blends Nwigwe's style with classic Reebok design.",
-        "The ATO comes in his signature mint and in black, while the ANO arrives in black and gum and a salmon and black mix. The pairs are available now on Reebok's site and select retailers."
-      ],
-      "pts": [
-        "Chukwu ATO is the first laceless pair",
-        "Mint and salmon colorways stand out",
-        "Available now at Reebok"
-      ],
-      "src": "Hypebae",
-      "site": "hypebae.com",
-      "url": "https://hypebae.com/2026/11/reebok-tobe-nwigwe-chukwu-ato-ano-sneaker-collab-release-date-where-to-buy",
-      "min": 2,
-      "img": "img/2026-11-14/s15.jpg",
-      "published": "2026-11-13"
-    },
-    {
-      "t": "fashion",
-      "kind": "Sneaker drops",
-      "h": "Tyler, the Creator and Converse add a low Bronco Boot",
-      "why": "Colorful, slightly eccentric casual sneakers",
-      "sum": [
-        "Tyler, the Creator's GOLF le FLEUR* and Converse have widened their 1908 footwear line with three retro-inspired shoes. The headline is the Bronco Boot Low, a suede and leather lug-soled take on Converse's 1990s sneaker-boot hybrid, in Cocoa Brown, New Wheat, Eden and Black.",
-        "Also back are a chunky-lace Pro Leather and a nylon and hairy-suede Jogger in High Risk Red and Golden Haze. All are available now."
-      ],
-      "pts": [
-        "Bronco Boot Low in four colors",
-        "Jogger in red and golden yellow",
-        "On sale at Converse and GOLF le FLEUR*"
-      ],
-      "src": "Hypebae",
-      "site": "hypebae.com",
-      "url": "https://hypebae.com/2026/11/tyler-the-creator-converse-bronco-boot-low-golf-le-fleur-where-to-buy",
-      "min": 2,
-      "img": "img/2026-11-14/s16.jpg",
-      "published": "2026-11-12"
-    },
-    {
-      "t": "fashion",
-      "kind": "Sneaker drops",
-      "h": "NOCTA x Nike Air Modmax gets a pink gradient",
-      "why": "Loud pink sneaker with a futuristic look",
-      "sum": [
-        "New images show Drake's NOCTA x Nike Air Modmax in the Pink Spell colorway, the debut of Nike's new Air Modmax tech. The upper fades through pink, with volt, amarillo and cobalt tint touches and three translucent amber pods at the heel.",
-        "It is slated for the end of 2026 at 180 USD through Nike. The article's color list looks a bit muddled, so treat the exact palette as unconfirmed."
-      ],
-      "pts": [
-        "Pink gradient upper with amber heel pods",
-        "180 USD, holiday 2026",
-        "Nike's new Air Modmax cushioning"
+        "Pink Spell gradient colourway",
+        "180 dollars, holiday 2026",
+        "Debuts Nike's Air Modmax cushioning"
       ],
       "src": "Hypebeast",
       "site": "hypebeast.com",
       "url": "https://hypebeast.com/2026/11/drake-nocta-nike-air-modmax-pink-spell-iq6711-600-new-images-release-info",
       "min": 2,
-      "img": "img/2026-11-14/s17.jpg",
+      "img": "img/2026-11-15/s18.jpg",
       "published": "2026-11-12"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Tyler's Converse 1908 line is live",
+      "why": "Tomboy-friendly, colourful casual footwear",
+      "sum": [
+        "Tyler, The Creator's GOLF le FLEUR* label has released a new Converse 1908 collection. The star is the Bronco Boot Low, a low-top take on last year's boot with suede and leather, a rubber toe cap, lugged sole and woven laces.",
+        "It comes in Cocoa Brown, New Wheat, Eden and Black. The Pro Leather returns in suede, and the Jogger arrives in High Risk Red and Golden Haze. It's available now on Converse.com, the GOLF le FLEUR* site and select shops."
+      ],
+      "pts": [
+        "Bronco Boot Low in four colours",
+        "Pro Leather and Jogger also included",
+        "Available now"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/tyler-the-creator-converse-bronco-boot-low-golf-le-fleur-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-15/s19.jpg",
+      "published": "2026-11-12"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "Vans wrapped in Pringle argyle wool",
+      "why": "Preppy-meets-skate, easy to wear casual",
+      "sum": [
+        "Vans and Pringle of Scotland have swapped canvas for brushed, felted argyle wool on three Premium shoes: the Authentic 44, Sk8-Hi Reissue 38 and Classic Slip-On 98.",
+        "Colourways are navy or black with white. The range also has cardigans, knit shorts, sweater vests, track sets, beanies and totes. Shoes cost 110 to 130 dollars and are on sale now at vans.com."
+      ],
+      "pts": [
+        "Argyle wool on three Vans icons",
+        "110 to 130 dollars",
+        "Apparel and accessories too"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/vans-pringle-of-scotland-footwear-collection-premium-classic-slip-on-shoe-5315-premium-authentic-shoe-5310-premium-sk8-hi-shoe-5325-release-info",
+      "min": 2,
+      "img": "img/2026-11-15/s20.jpg",
+      "published": "2026-11-13"
+    },
+    {
+      "t": "fashion",
+      "kind": "Style note",
+      "h": "What London wore to silly, sexy Pouffe rave",
+      "why": "Playful, colourful, unfussy street style",
+      "sum": [
+        "Pouffe is a new queer night in Tottenham, London, built around humour and maximalist colour. The second edition ran in November at Unit 58, with a large rainbow fuzzy mascot and a DJ booth dressed in hands and tentacles.",
+        "Looks ranged from sporty shorts and mesh or studded tops to vintage furs over printed silk slips. The founders enforce no dress code, just a loose brief of sexy and slightly silly. The piece has a 26-photo gallery."
+      ],
+      "pts": [
+        "Humour and colour over cool",
+        "Sporty shorts, mesh, vintage fur",
+        "No dress code"
+      ],
+      "src": "Dazed",
+      "site": "dazeddigital.com",
+      "url": "https://www.dazeddigital.com/fashion/article/71329/1/pouffe-party-tottenham-queer-rave-club-night-street-style-photos",
+      "min": 3,
+      "img": "img/2026-11-15/s21.jpg",
+      "published": "2026-11-10"
     },
     {
       "t": "politics",
       "kind": "Indonesia",
-      "h": "Eastern Indonesia coalition demands halt to nickel and coal expansion",
-      "why": "Land, environment and extractive conflicts",
+      "h": "Eastern Indonesia coalition demands halt to nickel expansion",
+      "why": "Land and environment conflicts, civil liberties",
       "sum": [
-        "Ahead of COP31, a coalition of Indigenous groups, women, youth, academics and journalists from Sulawesi, Maluku, Papua and Nusa Tenggara urged Jakarta to protect customary territories and stop extractive expansion in the east.",
-        "They point to captive coal capacity in Central Sulawesi rising from 2.96 GW to 7.33 GW in two years, and say 99 of 411 nickel concessions overlap key biodiversity areas. Their demands include revoking Presidential Regulation 112/2022, publishing a retirement roadmap for captive coal plants, independent audits, and protection for environmental defenders."
+        "Ahead of COP31, a coalition of communities, Indigenous groups, women, youth and academics from Sulawesi, Maluku and Papua urged Jakarta to protect Indigenous land and forests and stop extractive expansion. They say eastern Indonesia is treated mainly as a place to exploit.",
+        "They cite a boom in captive coal plants serving nickel smelters, with Central Sulawesi capacity rising from 2.96 GW to 7.33 GW in two years, and about 81,000 respiratory infection cases in Morowali in 2025. They also report intimidation and criminalization of defenders."
       ],
       "pts": [
-        "Coalition cites about 81,000 respiratory infection cases in Morowali in 2025",
-        "Calls for no new mining permits in biodiversity areas and Indigenous lands",
-        "Says a transition ignoring human rights is not a real transition"
+        "99 of 411 nickel concessions reportedly overlap key biodiversity areas",
+        "Demands include revoking permits, auditing nickel zones and compensating residents",
+        "Coalition cites criminalization of environmental defenders"
       ],
       "src": "Mongabay Indonesia",
       "site": "mongabay.co.id",
-      "url": "https://www.mongabay.co.id/2026/11/13/koalisi-indonesia-timur-desak-lindungi-wilayah-adat-dan-setop-ekspansi-ekstraktif/",
+      "url": "https://mongabay.co.id/2026/11/13/koalisi-indonesia-timur-desak-lindungi-wilayah-adat-dan-setop-ekspansi-ekstraktif/",
       "min": 5,
+      "img": "img/2026-11-15/s22.jpg",
       "published": "2026-11-13"
     },
     {
       "t": "politics",
       "kind": "Indonesia",
-      "h": "Gibran's diploma crisis edges toward resignation or impeachment",
-      "why": "DPR, dynasty politics and rule of law",
+      "h": "Youth coalition calls Indonesia's energy transition a false solution",
+      "why": "Environment, protest and land conflicts",
       "sum": [
-        "An analysis by a BRIN researcher traces the vice president's diploma dispute. The Constitutional Court dismissed a challenge on standing on 6 October, and the Supreme Court annulled his high school equivalency certificate on 30 October.",
-        "Per the article, Gibran reportedly told President Prabowo on 10 November that he intended to resign while seeking to prove his documents legally. DPR leaders confirmed lawmakers are gathering signatures for an impeachment inquiry. The author notes impeachment needs a two-thirds DPR vote plus court review, so it would be slow."
+        "Young activists and civil society groups marched in Jakarta on 30 October against continued fossil dependence; police blocked their route toward the Arjuna Wijaya statue. They argue B50 biodiesel, bioethanol, biomass co-firing and nickel downstreaming are false solutions that bring land grabs and ecological damage.",
+        "Government data cited show renewables at 17.3 percent of capacity while coal still supplies about 82 percent of the grid. The coalition also points to record fires and respiratory illness, and calls for a windfall profit tax on polluters."
       ],
       "pts": [
-        "Court rulings have undermined the legitimacy of his candidacy papers",
-        "Impeachment inquiry signatures are circulating in the DPR",
-        "Author argues public trust and equal treatment under law are at stake"
+        "More than 2.8 million hectares burned through October, per Atlas Nusantara",
+        "401,586 acute respiratory infection cases recorded by the Health Ministry",
+        "Coalition wants a polluter-pays windfall tax"
       ],
-      "src": "The Conversation Indonesia",
-      "site": "theconversation.com",
-      "url": "https://theconversation.com/berhenti-atau-diberhentikan-buntunya-politik-wapres-gibran-di-tengah-polemik-ijazah-296339",
-      "min": 6,
+      "src": "Mongabay Indonesia",
+      "site": "mongabay.co.id",
+      "url": "https://mongabay.co.id/2026/11/11/koalisi-orang-muda-serukan-keadilan-dalam-proyek-transisi-energi/",
+      "min": 5,
+      "img": "img/2026-11-15/s23.jpg",
       "published": "2026-11-11"
     },
     {
       "t": "politics",
       "kind": "Free Palestine",
-      "h": "Hypothermia death of infant and hospital strike deepen Gaza winter crisis",
-      "why": "Major Gaza developments",
+      "h": "Israeli strike in Khan Younis kills Hamas commander, hits displaced tent",
+      "why": "Major Gaza developments under the ceasefire",
       "sum": [
-        "AFP, citing medical sources, reported that a nine-month-old boy died of hypothermia in a tent in al-Mawasi, Khan Younis, as heavy rain flooded shelters. Aid restrictions continue, according to Middle East Eye.",
-        "Health officials said 11 people were killed in Israeli attacks across Gaza on Thursday. Two drones struck Nasser Hospital's surgical department the previous day, killing six people including a surgeon and a child, and wounding about 30. Medical Aid for Palestine says surgical services there are suspended."
+        "Hamas confirmed that Rafah brigade commander Samir Abu Younis died in an Israeli air strike in al-Mawasi, Khan Younis. Israel's military and the Shin Bet said they targeted a senior Hamas commander. Medical staff told Al Jazeera the strike hit a tent sheltering displaced people and wounded two others.",
+        "Gaza's Health Ministry says 16 people were killed in the previous 48 hours and at least 1,643 Palestinians since the October 2025 ceasefire. It also reports 11 cold-related deaths as winter sets in."
       ],
       "pts": [
-        "At least 1,614 Palestinians killed since the October 2025 ceasefire, per cited health figures",
-        "Nasser Hospital surgical unit out of service after drone strike",
-        "Flooded tents and aid limits worsen conditions for displaced families"
+        "Ministry figures: 1,643 killed since ceasefire began",
+        "Cold-related deaths reported at 11, including an infant",
+        "Israel's defence minister vows to continue offensive policy"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+      "min": 3,
+      "img": "img/2026-11-15/s24.jpg",
+      "published": "2026-11-15"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Israeli forces kill 14-year-old near Nablus as settler attacks mount",
+      "why": "West Bank violence and settler expansion",
+      "sum": [
+        "Palestinian health officials say Israeli forces killed 14-year-old Moataz Iyad during an operation in Burqa, northwest of Nablus, and are holding his body. Wafa reported two other youths wounded and paramedics briefly detained. The Israeli military confirmed soldiers opened fire at a threat.",
+        "UN OCHA has documented more than 2,060 settler attacks causing casualties or damage across about 300 West Bank communities this year through 12 October."
+      ],
+      "pts": [
+        "Wafa alleges ambulance access was blocked; Israel's account differs",
+        "OCHA: 2,060+ settler attacks since January",
+        "Gaza ministry: 1,613 killed since ceasefire (as of 10 Nov)"
       ],
       "src": "Middle East Eye",
       "site": "middleeasteye.net",
-      "url": "https://middleeasteye.net/news/gaza-baby-dies-hypothermia-israeli-attacks-across-enclave-surge",
-      "min": 4,
-      "img": "img/2026-11-14/s20.jpg",
-      "published": "2026-11-13"
-    },
-    {
-      "t": "politics",
-      "kind": "Free Palestine",
-      "h": "Israeli attacks kill at least eight in Gaza as storm floods tent camps",
-      "why": "Major Gaza developments",
-      "sum": [
-        "Local health sources told Al Jazeera and Reuters that Israeli forces killed at least eight Palestinians across Gaza, including a father and his 13-year-old son. Three died in an air attack on a family home in Gaza City.",
-        "Gaza's Government Media Office says a storm flooded about 70,000 tents in 12 hours, and accuses Israel of blocking tents and mobile homes. Negotiators have still not agreed terms on Hamas disarmament or Israeli withdrawal, and Israel controls about two-thirds of the territory."
-      ],
-      "pts": [
-        "Health Ministry says over 1,600 killed since the truce began",
-        "Roughly 85 percent of homes damaged or destroyed, per the article",
-        "Aid entry remains restricted"
-      ],
-      "src": "Al Jazeera",
-      "site": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son",
-      "min": 4,
-      "img": "img/2026-11-14/s21.jpg",
-      "published": "2026-11-10"
-    },
-    {
-      "t": "politics",
-      "kind": "Free Palestine",
-      "h": "14-year-old killed in West Bank raid as settler violence climbs",
-      "why": "West Bank developments",
-      "sum": [
-        "Israeli forces shot dead Moataz Iyad Daghlas, 14, during a raid on Burqa near Nablus, and wounded two other teenagers, Al Jazeera reports. The Israeli military said soldiers fired to stop stone-throwing at vehicles.",
-        "Wafa reported soldiers detained the boy's father and delayed an ambulance. The UN says at least 1,143 Palestinians, including 250 children, have been killed in the West Bank since October 2023. ACLED says 2026 is on track to be the worst year for settler violence in its decade of monitoring."
-      ],
-      "pts": [
-        "Palestinian health ministry says Israel is withholding the boy's body",
-        "Military account and Palestinian account of the raid differ",
-        "Settler attacks described as at record levels"
-      ],
-      "src": "Al Jazeera",
-      "site": "aljazeera.com",
-      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank",
+      "url": "https://www.middleeasteye.net/news/israel-kills-14-year-old-palestinian-boy-west-bank-wounds-two-gaza",
       "min": 3,
-      "img": "img/2026-11-14/s22.jpg",
+      "img": "img/2026-11-15/s25.jpg",
       "published": "2026-11-10"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Dockworkers strike across 100+ ports for Palestine; Cambridge votes to divest",
+      "why": "Antizionist and labor solidarity movements",
+      "sum": [
+        "Mondoweiss reports strikes and actions at more than 100 ports in at least 22 countries demanding an end to the war on Gaza. Greek dockworker union leader Markos Bekris said workers hold power because weapons must be transported. The Palestinian labor movement has called a Day of Solidarity on 29 November.",
+        "Cambridge, Massachusetts voted 5-4 to divest from firms profiting from the occupation, while Providence voters weighed a binding divestment measure."
+      ],
+      "pts": [
+        "Port actions in 22+ countries; only one East Coast US action",
+        "Cambridge pension reportedly holds about $18M in weapons makers",
+        "Solidarity day set for 29 November"
+      ],
+      "src": "Mondoweiss",
+      "site": "mondoweiss.net",
+      "url": "https://mondoweiss.net/2026/11/power-pushback-dockworkers-across-the-world-strike-for-palestine/",
+      "min": 5,
+      "img": "img/2026-11-15/s26.jpg",
+      "published": "2026-11-03"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Abbas postpones Palestinian elections to September 2027",
+      "why": "Palestinian political representation",
+      "sum": [
+        "Palestinian President Mahmoud Abbas decreed on 10 October that legislative and presidential elections due this month be pushed to September 2027, citing the need for national dialogue and participation from Jerusalem, the West Bank and Gaza, per WAFA.",
+        "Youth list head Fadi al-Sheikh Youssef called it unjust, while Hamas welcomed it as a step in the right direction. Analysts quoted say factions fear losing popularity."
+      ],
+      "pts": [
+        "Hamas ready to join talks on reorganizing national councils",
+        "Critics say delay shuts out new political actors",
+        "Some displaced Gazans back it given conditions"
+      ],
+      "src": "Mondoweiss",
+      "site": "mondoweiss.net",
+      "url": "https://mondoweiss.net/2026/11/stalling-for-time-palestinian-elections-are-postponed-until-next-september",
+      "min": 5,
+      "img": "img/2026-11-15/s27.jpg",
+      "published": "2026-11-11"
+    },
+    {
+      "t": "politics",
+      "kind": "Muslim wins",
+      "h": "Abdul El-Sayed becomes first Muslim elected to US Senate",
+      "why": "Muslim electoral win with Palestine stance",
+      "sum": [
+        "An Al Jazeera opinion piece by Michigan Muslim American Bilal Irfan celebrates Abdul El-Sayed's statewide Senate win, the first for a Muslim in the chamber. Irfan argues it shows Muslims can enter public life without muting faith or Palestine solidarity.",
+        "El-Sayed ran on cost of living, healthcare and opposing the Gaza war, despite roughly $30 million spent against him in the primary by an AIPAC-affiliated super PAC, per the author."
+      ],
+      "pts": [
+        "First Muslim elected to the US Senate",
+        "Campaign opposed the war in Gaza",
+        "Author notes one senator cannot end systemic problems"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/opinions/2026/11/6/abdul-el-sayed-did-not-have-to-become-less-muslim-to-win",
+      "min": 5,
+      "img": "img/2026-11-15/s28.jpg",
+      "published": "2026-11-06"
     }
   ]
 }
