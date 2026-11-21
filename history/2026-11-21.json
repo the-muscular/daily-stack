@@ -1,0 +1,755 @@
+{
+  "date": "2026-11-21",
+  "generated": "2026-11-21T08:24:21.838378+07:00",
+  "stories": [
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Fincher's Cliff Booth spin-off is a knockout",
+      "why": "Fincher plus Tarantino, the big prestige release",
+      "sum": [
+        "David Fincher directs Quentin Tarantino's script for this spin-off of Once Upon a Time in Hollywood, with Brad Pitt back as stuntman Cliff Booth. It's 1977, and a job for agent Karen Crosby's client (Elizabeth Debicki plays Karen) pulls Cliff into a dangerous deal, while a light romance with Karen runs alongside the crime plot.",
+        "Little White Lies calls it a wildly entertaining crime fantasia. The review credits Fincher with reining in Tarantino's usual excess and steering the story toward real relationships, and compares it to Jackie Brown. Cliff's charm still hides darker traits, and the film only almost manages to square them. It runs 143 minutes and is out 25 November."
+      ],
+      "pts": [
+        "Brad Pitt, Elizabeth Debicki, Scott Caan",
+        "Rated 4/5/5 (anticipation, enjoyment, in retrospect)",
+        "Out 25 Nov, 143 min"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/the-further-mis-adventures-of-cliff-booth",
+      "min": 4,
+      "q": "The Further Mis-Adventures of Cliff Booth",
+      "score": "5/5",
+      "scoreNote": "Little White Lies (enjoyment)",
+      "img": "img/2026-11-21/s01.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "You Can See Everything: Fielder's Holmes doc dazzles",
+      "why": "Smart, genre-bending documentary event",
+      "sum": [
+        "Nathan Fielder and Lance Oppenheim's A24 documentary follows Theranos founder Elizabeth Holmes and her husband Billy Evans in the weeks before she goes to federal prison. Amanda Seyfried and Christopher Abbott also appear. The film cares less about whether Holmes is guilty than about how truth gets shaped, staged and exploited.",
+        "Little White Lies calls it an engrossing look at truth itself and says the line between fiction and non-fiction is arbitrary. The reviewer adds that a second viewing shows how the film is built, and singles out Seyfried as a grounding presence. It runs three hours and has already made about $90m in North America."
+      ],
+      "pts": [
+        "Rated 4/5/5 by LWLies",
+        "180 minutes; in cinemas from 20 Nov",
+        "About $90m in North America already"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/you-can-see-everything",
+      "min": 7,
+      "q": "You Can See Everything",
+      "score": "5/5",
+      "scoreNote": "Little White Lies (enjoyment)",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "movies",
+      "kind": "In cinemas",
+      "h": "Hunger Games prequel is a thrilling return to form",
+      "why": "The weekend's big blockbuster, well reviewed",
+      "sum": [
+        "Francis Lawrence's Sunrise on the Reaping goes back 24 years before Katniss, to a 16-year-old Haymitch Abernathy (Joseph Zada) in District 12, who is forced into the 50th Hunger Games, a Quarter Quell. The supporting cast includes Mckenna Grace, Jesse Plemons, Elle Fanning and Ralph Fiennes.",
+        "Little White Lies calls it a gripping, emotionally bruising prequel that brings back the feel of the original films after the muted Ballad of Songbirds & Snakes. Zada is singled out as a standout, balancing charm and vulnerability, and the arena design is praised. It opened 20 November and runs 158 minutes."
+      ],
+      "pts": [
+        "Joseph Zada stars as young Haymitch",
+        "Rated 5/4/4 by LWLies",
+        "In cinemas now, 158 min"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/the-hunger-games-sunrise-on-the-reaping",
+      "min": 3,
+      "q": "The Hunger Games: Sunrise on the Reaping",
+      "score": "4/5",
+      "scoreNote": "Little White Lies (enjoyment)",
+      "img": "img/2026-11-21/s03.jpg",
+      "published": "2026-11-17"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Filipiñana: a mesmerising Southeast Asian class satire",
+      "why": "A regional gem close to home",
+      "sum": [
+        "Rafael Manuel's debut feature is set at a Manila golf resort, seen through Isabel, a 17-year-old tee girl from the Ilocos. Her story runs alongside that of Clara, a Filipino expat from New York who is connected to the resort's owner, over one long summer day. It won a Sundance special jury award and is the Philippines' Oscar entry.",
+        "Little White Lies calls it a sumptuous debut whose candy-coloured, Wes Anderson-like look hides real cruelty. The workers are kept at the edges of the frame, and the rich ignore them by choice. The review grants the Parasite comparison but finds the film distinctly Filipino, and says its restrained violence is all the more unsettling."
+      ],
+      "pts": [
+        "Philippines' Oscar submission",
+        "Rated 4/4/4 by LWLies",
+        "UK release 20 Nov, 101 min"
+      ],
+      "src": "Little White Lies",
+      "site": "lwlies.com",
+      "url": "https://www.lwlies.com/reviews/filipinana",
+      "min": 2,
+      "q": "Filipiñana",
+      "score": "4/5",
+      "scoreNote": "Little White Lies (enjoyment)",
+      "img": "img/2026-11-21/s04.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Golshifteh Farahani magnetic in Kabul thriller",
+      "why": "Festival discovery with a star turn",
+      "sum": [
+        "When She Hears The Bells, Chabname Zariab's debut feature, premiered in Tallinn Black Nights' First Feature competition. In Kabul in 2021, recently widowed Leila (Golshifteh Farahani) takes a cooking job at a house where trafficked boys are forced to dance for men. Appalled, she decides to act as the Taliban close in on the city.",
+        "Screen's Wendy Ide praises the taut, atmospheric storytelling, the propulsive pace and Farahani's commanding presence. Casablanca makes a convincing Kabul, and curtains and burkas are used as symbols of women's vulnerability. Her reservations: the restaurant owner who drives the climax is thinly drawn, and the brisk third act ends abruptly."
+      ],
+      "pts": [
+        "83-minute France/Germany/Belgium debut",
+        "Next stop: the Torino festival",
+        "Lean, urgent; ending feels rushed"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/reviews/when-she-hears-the-bells-review-golshifteh-farahani-is-magnetic-in-stark-propulsive-kabul-set-thriller/5222621.article",
+      "min": 3,
+      "q": "When She Hears The Bells",
+      "img": "img/2026-11-21/s05.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "movies",
+      "kind": "Review",
+      "h": "Memories Of Lightning flips true crime on its head",
+      "why": "An experimental pick for arthouse fans",
+      "sum": [
+        "Riccardo Giacconi's 73-minute France/Italy film won IDFA's experimental Envision award after premiering at Venice. It poses as a making-of documentary about a radio journalist investigating the 1982 murder of a 14-year-old girl in a village in Le Marche, a killing local silence has buried. But the journalist is played by an actress, and sound and image often don't match.",
+        "Screen's Lee Marshall calls it a dense, cerebral experiment, a kind of ghost story haunting the film's own fabric. It sits between arthouse cinema and art installation. Whether it works depends on whether you enjoy the misdirection more than you resent it. The IDFA win may bring it more festival dates."
+      ],
+      "pts": [
+        "IDFA Envision winner, premiered at Venice",
+        "Fake documentary playing with true crime",
+        "For adventurous viewers"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/reviews/memories-of-lightning-review-idfas-elusive-experimental-envision-winner-turns-the-true-crime-genre-on-its-head/5222624.article",
+      "min": 3,
+      "q": "Memories Of Lightning",
+      "img": "img/2026-11-21/s06.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "movies",
+      "kind": "Box office",
+      "h": "Hunger Games and Holmes doc go wide in UK",
+      "why": "What's drawing crowds this weekend",
+      "sum": [
+        "This weekend Lionsgate opens The Hunger Games: Sunrise on the Reaping in 660 UK and Ireland cinemas, the franchise's widest launch, after nearly £2m from Wednesday previews. A24's Elizabeth Holmes documentary You Can See Everything opens in about 590 venues, the widest release ever for a non-music documentary there.",
+        "Also opening: Helen Mirren in Anton Corbijn's Patricia Highsmith drama A Talent For Murder (353 sites), Mahershala Ali in Bassam Tariq's Your Mother Your Mother Your Mother (215), and Sundance titles Josephine and Filipiñana. Last week's leader was Johnny Depp's Ebenezer, which opened at $42m worldwide."
+      ],
+      "pts": [
+        "Hunger Games: nearly £2m in previews",
+        "Widest non-music doc release ever",
+        "Ebenezer led last weekend"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/uk-ireland-box-office-preview-a24s-you-can-see-everything-gets-widest-ever-release-for-a-non-music-doc/5222605.article",
+      "min": 4,
+      "published": "2026-11-20"
+    },
+    {
+      "t": "movies",
+      "kind": "News",
+      "h": "Scorsese, Binoche join outcry over Panahi sentence",
+      "why": "World cinema's biggest freedom story",
+      "sum": [
+        "Martin Scorsese, Juliette Binoche, Agnieszka Holland, Walter Salles and Julie Delpy have signed an appeal against the prison sentence handed to Iranian director Jafar Panahi. The appeal is led by the International Coalition for Filmmakers at Risk and is nearing 1,400 signatures, including the heads of the major festivals and the European Film Academy.",
+        "Tehran's Revolutionary Court sentenced the Palme d'Or winner (It Was Just An Accident) in absentia to five years and one month in prison. The ruling also seizes his assets, freezes his bank accounts and bans him from travel and social media for two years. The exact charges are unclear and the ruling can be appealed."
+      ],
+      "pts": [
+        "Five-year sentence given in absentia",
+        "Appeal nears 1,400 signatures",
+        "Cannes issued its own condemnation"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/martin-scorsese-juliette-binoche-agnieszka-holland-join-international-outcry-over-jafar-panahi-prison-sentence/5222626.article",
+      "min": 2,
+      "img": "img/2026-11-21/s08.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "movies",
+      "kind": "Festival",
+      "h": "Doha Film Festival opens despite the war",
+      "why": "Asian and Middle Eastern festival scene",
+      "sum": [
+        "The Doha Film Festival opened despite the ongoing Iran-US war. Festival director Fatma Hassan Alremaihi said organisers could have cancelled but chose not to. The opening film was Sara Ishaq's The Station, set in a women-only petrol station in Yemen that becomes a refuge during the civil war.",
+        "The Doha Film Institute backed over 100 projects from 56 countries this year. Its Qumra incubator moved online, and Doha's airport opened its first cinema. Nandita Das and Taim Hassan received honorary awards. The festival runs to 27 November, with over $300,000 in prizes across four competitions."
+      ],
+      "pts": [
+        "Opening film: Sara Ishaq's The Station",
+        "Runs until 27 November",
+        "Over $300,000 in prizes"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/doha-opens-in-spirit-of-defiance-we-could-have-cancelled-but-we-did-not/5222610.article",
+      "min": 3,
+      "q": "The Station Sara Ishaq",
+      "img": "img/2026-11-21/s09.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "movies",
+      "kind": "News",
+      "h": "Bill Hader's horror debut They Know finds US home",
+      "why": "Barry creator moves into horror",
+      "sum": [
+        "Black Bear has bought North American rights to They Know, the first feature Bill Hader has directed, after a competitive bidding process. Hader stars with Linda Cardellini in the psychological horror, about a man who suspects his ex-wife's new partner is having a sinister influence on their children.",
+        "The story comes from an idea by Hader and his Barry collaborator Duffy Boudreau. MRC is fully financing the film, which is in post-production, and FilmNation showed footage to buyers in Toronto. No release date has been set."
+      ],
+      "pts": [
+        "Hader's first feature as director",
+        "Co-stars Linda Cardellini",
+        "No release date yet"
+      ],
+      "src": "Screen Daily",
+      "site": "screendaily.com",
+      "url": "https://www.screendaily.com/news/black-bear-acquires-bill-hader-horror-they-know/5222612.article",
+      "min": 1,
+      "q": "They Know Bill Hader",
+      "img": "img/2026-11-21/s10.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Atlas Sound returns with surprise album Thanatos",
+      "why": "Deerhunter-era indie rock royalty is back",
+      "sum": [
+        "Bradford Cox has dropped Thanatos without warning, his first full-length as Atlas Sound since 2011's Parallax and his first album of any kind since Deerhunter's 2019 record. The 10 songs, most already road-tested at Philadelphia's Making Time festival in September, were recorded alone in his Atlanta attic on a portable Tascam 8-track and come out on 4AD.",
+        "Cox frames it as the final part of a trilogy with Logos and Parallax. It's digital-only for now, with vinyl due next year, and arrives with a scent map pairing a smell to each track plus a bio by Cate Le Bon. Live dates so far: Big Ears, Kilby Block Party and Primavera Sound in spring 2027."
+      ],
+      "pts": [
+        "First Atlas Sound album in 15 years, out now on 4AD",
+        "Recorded solo on a home 8-track; closes the Logos/Parallax trilogy",
+        "Vinyl next year; Primavera Sound date in June"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2518717/bradford-cox-surprise-releases-thanatos-atlas-sounds-first-new-album-in-15-years/music",
+      "min": 3,
+      "q": "Atlas Sound Thanatos",
+      "img": "img/2026-11-21/s11.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "music",
+      "kind": "New list",
+      "h": "Stereogum's 5 best songs: Julien Baker tops the week",
+      "why": "Five fresh indie and alt picks in one go",
+      "sum": [
+        "Stereogum's weekly countdown is led by Julien Baker's \"Hound,\" a sparse piano-and-acoustic song about chasing dopamine that the writers say lands like breaking out of a cage. Ryley Walker's \"Cloud Of Beaujolais\" takes second, nodding to his folk roots while drifting somewhere noisier and stranger.",
+        "Also on the list: Erika de Casier's hazy, late-arriving lullaby \"Whispers\"; Philip Frobos's propulsive post-punk track \"Fulton County Stadium At 8:05AM,\" with Mastodon's Bill Kelliher, which uses a 1997 stadium implosion to mourn lost manners; and Awning's half-asleep \"I'm Up,\" which jolts awake with a sudden guitar burst."
+      ],
+      "pts": [
+        "No. 1: Julien Baker, \"Hound\"",
+        "Ryley Walker, Erika de Casier, Philip Frobos and Awning round it out",
+        "A quick indie playlist for the weekend"
+      ],
+      "src": "Stereogum",
+      "site": "stereogum.com",
+      "url": "https://stereogum.com/2518768/the-5-best-songs-of-the-week-653/lists/the-5-best-songs-of-the-week",
+      "min": 4,
+      "q": "Julien Baker Hound",
+      "img": "img/2026-11-21/s12.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "music",
+      "kind": "Album review",
+      "h": "Radie Peat's solo debut finds tenderness in old tragedies",
+      "why": "Haunting folk for fans of Lankum and Beth Gibbons",
+      "sum": [
+        "Lankum and ØXN singer Radie Peat's first solo album, No Human Tongue Can Tell, collects traditional songs she felt were too personal for her band. Playing around ten instruments herself, with producer John \"Spud\" Murphy, she wraps murder ballads and tales of abandoned women in soft, almost Enya-like textures. The review argues that beauty makes the stories harder to shrug off.",
+        "Highlights include a gorgeous \"Down in the Willow Garden\" and a reworked \"The Moon and Stars,\" which gives the narrator's anger more weight and leaves it unresolved. The reviewer hears Shirley Collins and Anne Briggs in the DNA and calls it an unflinching debut, with the gentler moments as its real surprise."
+      ],
+      "pts": [
+        "Debut solo LP from Lankum's Radie Peat, out 13 Nov",
+        "Dark folk with soothing textures; nearly all played by Peat",
+        "Scored 8/10"
+      ],
+      "src": "The Line of Best Fit",
+      "site": "thelineofbestfit.com",
+      "url": "https://www.thelineofbestfit.com/albums/radie-peat-makes-a-home-in-other-womens-sorrow-on-no-human-tongue-can-tell",
+      "min": 3,
+      "q": "Radie Peat No Human Tongue Can Tell",
+      "score": "8/10",
+      "scoreNote": "The Line of Best Fit",
+      "published": "2026-11-17"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "beabadoobee announces second album in months, Bananas 4 Cats",
+      "why": "Indie-rock favourite with Asia dates ahead",
+      "sum": [
+        "Hot on the heels of 2026's Pylon, beabadoobee has announced Bananas 4 Cats, out 19 February on Dirty Hit/Interscope. Lead single \"No Punctuation\" is a song fans have been waiting on since snippets leaked more than four years ago.",
+        "She calls the new record the opposite side of Pylon: written and recorded at home in East London with a friend, her partner and her cats, it is smaller and more intimate. Pylon went top 10 in the US and gave her a second straight UK No. 1. Her Powerlines tour reaches Australia, New Zealand and Asia in March and April 2027."
+      ],
+      "pts": [
+        "Bananas 4 Cats due 19 Feb; single \"No Punctuation\" out now",
+        "A homemade, intimate companion to Pylon",
+        "Asia tour leg in March to April 2027"
+      ],
+      "src": "SPIN",
+      "site": "spin.com",
+      "url": "https://www.spinmagazine.com/2026/11/beabadoobee-new-album-2/",
+      "min": 2,
+      "q": "beabadoobee No Punctuation",
+      "img": "img/2026-11-21/s14.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Phoebe Bridgers covers Adrianne Lenker's \"Anything\" for charity",
+      "why": "Two indie heavyweights on one song",
+      "sum": [
+        "Phoebe Bridgers has released her take on Big Thief singer Adrianne Lenker's \"Anything,\" sampling Lenker's original. Both artists are giving their proceeds to the Palestine Children's Relief Fund. Bridgers co-produced it with Tony Berg, Ethan Gruska and Jack Antonoff, who covers bells, harpsichord, synths and vocoder, with Blake Mills on acoustic guitar.",
+        "It continues her tradition of holiday charity covers after songs by Tom Waits, Merle Haggard and The Handsome Family. It's her first since 2022, and it lands mid-way through the Lost Tour for her album Lost Weekend, which returns to North America in February and plays both Coachella weekends."
+      ],
+      "pts": [
+        "Cover of Adrianne Lenker's \"Anything\"; proceeds to PCRF",
+        "Produced with Antonoff, Gruska and Tony Berg",
+        "Her first holiday charity cover since 2022"
+      ],
+      "src": "SPIN",
+      "site": "spin.com",
+      "url": "https://www.spinmagazine.com/2026/11/phoebe-bridgers-covers-adrianne-lenker/",
+      "min": 2,
+      "q": "Phoebe Bridgers Anything Adrianne Lenker cover",
+      "img": "img/2026-11-21/s15.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "music",
+      "kind": "News",
+      "h": "Bintaro alt-rockers The Sabili drop two singles ahead of debut LP",
+      "why": "Local alt-rock from greater Jakarta",
+      "sum": [
+        "The Sabili, an alternative rock four-piece from Bintaro, released \"Annihilation\" and \"Ooze\" on 13 November as the first look at their debut album, Wave of the Overture. It has eight tracks and is due in early 2027. The band describes the album as an emotional arc from sadness to anger, with deliberately vague lyrics about social issues, tragedy and the grind of city life.",
+        "Guitarist Abdul layers harmonics over distortion with shimmer and room-reverb textures, while bassist Gitari had room to improvise fills. The band hopes to play Los Frequencies in the Central Java highlands and share stages with their Pokta Collective peers."
+      ],
+      "pts": [
+        "Singles \"Annihilation\" and \"Ooze\" out now",
+        "Debut LP Wave of the Overture due early 2027",
+        "Shoegazey guitar textures, lyrics about social issues"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/news/the-sabili-rilis-annihilation-dan-ooze-singgung-tragedi-dan-isu-sosial/",
+      "min": 3,
+      "q": "The Sabili Annihilation",
+      "img": "img/2026-11-21/s16.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "music",
+      "kind": "Album review",
+      "h": "Avhath finally release a debut album, 14 years in",
+      "why": "Heavy end of Indonesia's indie scene",
+      "sum": [
+        "Long known as Indonesia's band without an album, Avhath have released a self-titled debut. Pophariini's reviewer sees it as the work of a matured group. Guitarist Rey produced it, and it fuses black metal, hardcore and death metal with fresher arrangements, heavier palm-muted riffs and drumming that moves from steady beats into blast beats. The reviewer hears touches of Chat Pile and Blood Incantation.",
+        "Standouts include the playful riff in \"amassed,\" the bass-led \"Recurrence\" and the bleak, spoken-word closer \"Cinereal Gaze.\" The catch: the fragmented songs took more than ten listens to stick, and the album is slightly less experimental than the Ephemeral Passage EP. Still, the review calls it close to a masterpiece."
+      ],
+      "pts": [
+        "Self-titled debut after 14 years together",
+        "Blackened hardcore with death-metal heft; produced by guitarist Rey",
+        "Rewards repeat listens; no numeric score"
+      ],
+      "src": "Pophariini",
+      "site": "pophariini.com",
+      "url": "https://pophariini.com/review/ulasan-album-avhath-merangkum-14-tahun-perjalanan-dalam-sembilan-lagu/",
+      "min": 5,
+      "q": "Avhath Avhath album",
+      "img": "img/2026-11-21/s17.jpg",
+      "published": "2026-11-13"
+    },
+    {
+      "t": "music",
+      "kind": "Your artists",
+      "h": "Nothing new from Beyoncé or Kendrick Lamar today",
+      "why": "Checked every morning",
+      "sum": [
+        "No releases, tour dates, features or announcements in the last 24 hours."
+      ],
+      "pts": [],
+      "src": "Watchlist",
+      "site": "checked daily",
+      "url": null,
+      "min": 0
+    },
+    {
+      "t": "fashion",
+      "kind": "Restock",
+      "h": "Telfar drops varsity and moto pieces, plus a big sale",
+      "why": "Telfar news, sporty unisex layers",
+      "sum": [
+        "Telfar's site added a new batch of outerwear on 18 November: Delancey varsity jackets in blue or black ($580), a heather-grey Delancey hooded bomber ($440), brown or washed-black fleece moto jackets ($530) with matching moto sweatpants ($515), a black crocodile zip sweater ($495) and a blue Varsity Skully beanie ($78).",
+        "The Danke plastic bag, in Regular ($148) and Jumbo ($195) black, landed a week earlier. A sale is also running: shopping and circle bags up to 50% off, apparel up to 70% off, and a free $50 Baby Bag charm on orders over $250."
+      ],
+      "pts": [
+        "New outerwear went live 18 Nov: varsity jackets, bomber, moto fleece",
+        "Danke plastic bag in Regular and Jumbo sizes",
+        "Sale: bags up to 50% off, apparel up to 70% off"
+      ],
+      "src": "Telfar",
+      "site": "telfar.net",
+      "url": "https://www.telfar.net/",
+      "min": 2,
+      "img": "img/2026-11-21/s19.jpg",
+      "published": "2026-11-18"
+    },
+    {
+      "t": "fashion",
+      "kind": "Collab",
+      "h": "Chopova Lowena x Dr. Martens: punk boots with charms",
+      "why": "Rock-meets-whimsy, niche label",
+      "sum": [
+        "London label Chopova Lowena and Dr. Martens have released their first collab, a three-piece take on the Aurix sole in red tartan, indigo faux fur and leather with yellow welt stitching. The Aurix Hi LLT is a knee-high boot hung with butterfly charms. The Aurix 5i is a square-toe five-eye lace-up with leaf charms on every eyelet, and the Aurix MJ is a chunky Mary Jane with a butterfly buckle.",
+        "Amy Taylor of Amyl and the Sniffers fronts the campaign. The boots went on sale 19 November on both brands' sites and at selected stores."
+      ],
+      "pts": [
+        "Three Aurix styles in red tartan and faux fur",
+        "Butterfly and leaf charms, yellow stitching",
+        "Out 19 Nov; Amyl and the Sniffers' Amy Taylor fronts it"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/chopova-lowena-dr-martens-collab-aurix-boot-fur-punk-info-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-21/s20.jpg",
+      "published": "2026-11-17"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "UP THERE x New Balance 1890 gets a rainbow lace cover",
+      "why": "Colorful, playful runner from a niche store",
+      "sum": [
+        "Melbourne store UP THERE has redone the New Balance 1890 for its \"Horizon\" release, swapping mesh for shiny nylon and natural suede with debossed details. The base is Castlerock Grey, a heritage NB shade, with Cerulean Blue and Scarlet Red pops inspired by Australian skies.",
+        "The standout is a removable lace cover in an iridescent rainbow finish. Three lace options come in the box, so you can tone it down. UP THERE's signature green insole is back. It drops 27 November for AUD 280 (about USD 185), sold through UP THERE."
+      ],
+      "pts": [
+        "Grey, blue and red nylon and suede",
+        "Removable rainbow lace cover, three lace options",
+        "Out 27 Nov, AUD 280"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/up-there-new-balance-1890-horizon-u18901cy-release-info",
+      "min": 3,
+      "img": "img/2026-11-21/s21.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "Noah x Converse Chuck 70 in woven Black Watch tartan",
+      "why": "Grunge-plaid Chucks, easy tomboy staple",
+      "sum": [
+        "Noah and Converse released a Chuck 70 Ox on 19 November. The navy-and-green Black Watch tartan is woven into a three-tone canvas, not printed, which gives the check more texture.",
+        "Noah modelled the build on 1990s Chucks: the wing tongue stitch is gone, a woven tongue tag replaces it, and the shoe sits on a light-brown gum sole for a vintage look. It has an OrthoLite insole and very little branding. It follows the pair's plaid Chuck 70 capsule from spring 2026 and is sold through Converse and Noah."
+      ],
+      "pts": [
+        "Woven tartan canvas, not a print",
+        "1990s details and gum sole",
+        "Out 19 Nov at Converse and Noah"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/noah-converse-chuck-70-tartan-release-info",
+      "min": 3,
+      "img": "img/2026-11-21/s22.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "fashion",
+      "kind": "Sneaker drops",
+      "h": "Jae Tips' Nike Air Bakin Low gets a chile red pair",
+      "why": "Loud, colorful basketball low",
+      "sum": [
+        "Bronx designer Jae Tips, who once worked at Foot Locker, has shown a second colorway of his first Nike collab, the late-'90s Air Bakin Low. This one is white and chile red with green camo underlays and a bright green lining.",
+        "Small details nod to his label Savior Worldwide: toe Swooshes shaped like an S, Savior branding on the heel, and oversized multicolor Air lettering. It follows a black-and-purple pair teased before ComplexCon. Both are due in spring 2027 for $160."
+      ],
+      "pts": [
+        "White and chile red with green camo",
+        "S-shaped Swooshes for Savior Worldwide",
+        "Spring 2027, $160"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/jae-tips-nike-air-bakin-low-chile-red-first-look-iv6795-400-release-info",
+      "min": 3,
+      "img": "img/2026-11-21/s23.jpg",
+      "published": "2026-11-18"
+    },
+    {
+      "t": "fashion",
+      "kind": "Guide",
+      "h": "Indie shoe brands to try, including Bali's DIRT",
+      "why": "Niche labels, an Indonesian brand",
+      "sum": [
+        "Hypebae's winter roundup of independent footwear labels for anyone tired of sneakers: AnnK, a Paris label making convertible riding boots in Kyiv; Swedish minimalist Vagabond; Miista from East London, known for odd shapes and textures; Lili Curia, a newcomer from 2025 working between London and Florence; and Le Monde Beryl's Italian-made slippers and flats.",
+        "Closest to home is DIRT, founded in Bali in 2020 by Andrea Norberg and Sarah Doyle. It mixes '90s nostalgia with square toes, bubble soles and slouchy washed leather, and has recently added swimwear."
+      ],
+      "pts": [
+        "Six indie labels, from playful to minimal",
+        "DIRT is Bali-founded, '90s-inspired and chunky",
+        "Miista and AnnK for experimental shapes"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/indie-footwear-brands-boots-heels-flats-ballet-shoes-miista-dirt-where-to-buy",
+      "min": 4,
+      "img": "img/2026-11-21/s24.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "fashion",
+      "kind": "Accessories",
+      "h": "Willy Chavarria launches his first handbags",
+      "why": "Bags with attitude, not logo basics",
+      "sum": [
+        "Willy Chavarria has released his first full handbag line, made by hand in Italy. The Bronca, inspired by 1960s bags, has a leather-covered metal frame, a rounded tube handle and W-shaped straps. The W Slouch is a soft, roomy shape with a removable padded handle and an adjustable shoulder strap.",
+        "Both have W details, antiqued brass or matte silver hardware, and branded carabiners holding a set of Willy Chavarria keys. Chavarria says he made them because everyone seems to carry the same few bags. Pre-orders are open on his site, and they ship 4 December."
+      ],
+      "pts": [
+        "Two styles: the structured Bronca and the soft W Slouch",
+        "Made in Italy, carabiner and key details",
+        "Pre-order now, out 4 Dec"
+      ],
+      "src": "Hypebae",
+      "site": "hypebae.com",
+      "url": "https://hypebae.com/2026/11/willy-chavarria-first-handbag-collection-w-slouch-bronca-leather-release-date-where-to-buy",
+      "min": 2,
+      "img": "img/2026-11-21/s25.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "fashion",
+      "kind": "Style note",
+      "h": "Shanghai's underground club kids and Nu China style",
+      "why": "Asian street style, playful and niche",
+      "sum": [
+        "Dazed photographed ravers at a Live From Earth x Eastern Margins night in Shanghai, headlined by rapper Billionhappy. They show Nu China style: young Chinese people reworking subcultures they find online through a local lens. It's eclectic and hard to label.",
+        "People talked about orange Martine Rose camo pants, an anime tracksuit from Chinese indie label SelfishGhost, rainbow bear shoes, and worn-in jackets from Shanghai's Lingshi Road vintage market. Most described clubs as judgement-free places where campy, playful outfits help people connect."
+      ],
+      "pts": [
+        "Nu China: online subcultures, worn the local way",
+        "Indie Chinese labels and vintage-market finds",
+        "Bright, playful outfits made for dancing"
+      ],
+      "src": "Dazed",
+      "site": "dazeddigital.com",
+      "url": "https://www.dazeddigital.com/fashion/article/71379/1/photos-nu-china-style-shanghai-underground-clubs-live-from-earth-street-style",
+      "min": 5,
+      "img": "img/2026-11-21/s26.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "fashion",
+      "kind": "Style note",
+      "h": "Hong Kong street style: thrift, DIY and local labels",
+      "why": "Casual, individual Asian street style",
+      "sum": [
+        "Photographer Jaison Lin came home to Hong Kong after five years away to shoot what young creatives wear, eat and listen to there in 2026. Many outfits are thrifted or home-made: HK$50 Salvation Army trousers, jeans students sewed themselves, and jewelry from friends' small brands like ROKUNEN.",
+        "Others mix in Rick Owens, Guidi, Camper boots and a Vietnamese label, Dayla Studio. The subjects also share local tips, from the Salvation Army in Chai Wan to a giant costume store in Kwun Tong and the Sai Kung rock pools."
+      ],
+      "pts": [
+        "Thrift and DIY over head-to-toe brands",
+        "Small Asian labels from friends",
+        "Local tips: thrift stores, costume shops, raves"
+      ],
+      "src": "i-D",
+      "site": "i-d.co",
+      "url": "https://i-d.co/article/hong-kong-street-style-photography/",
+      "min": 4,
+      "img": "img/2026-11-21/s27.jpg",
+      "published": "2026-11-18"
+    },
+    {
+      "t": "fashion",
+      "kind": "News",
+      "h": "Gucci to show in Shanghai, sacai in Hong Kong",
+      "why": "Big fashion moves heading to Asia",
+      "sum": [
+        "Hypebeast's weekly roundup leans toward Asia. Gucci will hold its Cruise 2028 show in Shanghai on 17 May 2027, Demna's first show there, marking 30 years since the house's first store in the region. sacai will hold its first Hong Kong runway show at the HSBC Main Building on 13 December.",
+        "Elsewhere, Gentle Monster released a Jonathan Glazer film starring Joaquin Phoenix for its smart glasses, which launch in the US and Korea on 10 December. BEAMS also marked its 50th anniversary with a 14-piece adidas pack built around two loafers."
+      ],
+      "pts": [
+        "Gucci Cruise 2028 in Shanghai, May 2027",
+        "sacai's first Hong Kong show, 13 Dec",
+        "Gentle Monster smart glasses; BEAMS x adidas loafers"
+      ],
+      "src": "Hypebeast",
+      "site": "hypebeast.com",
+      "url": "https://hypebeast.com/2026/11/gentle-monster-joaquin-phoenix-gucci-beams-adidas-sacai-willy-chavarria",
+      "min": 4,
+      "img": "img/2026-11-21/s28.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "politics",
+      "kind": "Muslim wins",
+      "h": "World Court finds Myanmar guilty of Rohingya genocide",
+      "why": "Justice for a persecuted Muslim people",
+      "sum": [
+        "On 19 November the International Court of Justice ruled that Myanmar committed genocide against the mostly Muslim Rohingya during the military's 2017 campaign in Rakhine State. The case was brought by The Gambia in 2019. It is the first time the court has held a state responsible for genocide; in 2007 it stopped short of that over Srebrenica.",
+        "Amnesty's Agnes Callamard called it a rare moment of justice for survivors. Amnesty notes the court said genocidal intent can coexist with military aims, which matters for South Africa's case against Israel. It wants a UN arms embargo, an ICC referral and reparations for the roughly 1.3 million Rohingya refugees in Bangladesh."
+      ],
+      "pts": [
+        "First ICJ ruling holding a state responsible for genocide",
+        "Myanmar ordered to pay reparations and allow safe return",
+        "Amnesty: reasoning on intent bears on the Gaza case"
+      ],
+      "src": "Amnesty International",
+      "site": "amnesty.org",
+      "url": "https://www.amnesty.org/en/latest/news/2026/11/historic-un-ruling-that-myanmar-committed-genocide-against-rohingya-is-rare-victory-for-survivors/",
+      "min": 5,
+      "img": "img/2026-11-21/s29.jpg",
+      "published": "2026-11-19"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "What the Rohingya ruling could mean for Gaza",
+      "why": "Legal path to accountability for Gaza",
+      "sum": [
+        "Al Jazeera looks at how the ICJ's Myanmar verdict could shape South Africa's genocide case against Israel. Nine of the 15 judges found genocide was the only reasonable inference from the evidence. That sets a precedent for proving a state's intent without written orders, and it rejects self-defence as a cover. Analysts quoted say it will not decide the Gaza case but may shape how it is judged.",
+        "South Africa filed in December 2023. Its next submission is due in November 2027, and a final judgment is years away. The article cites about 75,000 killed in Gaza, roughly 1,660 of them since the October 2025 ceasefire. It also notes US pressure on international courts and Nicaragua's pending case against Germany over arms sales."
+      ],
+      "pts": [
+        "Ruling makes intent easier to prove without explicit orders",
+        "Gaza case judgment still years away",
+        "Countries that arm Israel could face accessory claims"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza",
+      "min": 7,
+      "img": "img/2026-11-21/s30.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Israeli drones kill seven in central Gaza despite truce",
+      "why": "The ceasefire is not stopping the killing",
+      "sum": [
+        "Medical sources told Al Jazeera that Israeli attacks killed at least seven Palestinians in central Gaza on Friday. Four died when a drone struck a group in Bureij refugee camp, and two near the entrance to Deir el-Balah. Another body was taken to al-Awda Hospital from Nuseirat. The wounded went to hospitals that are short of supplies and staff, and the army carried out more demolitions in Shujaiya and east of Khan Younis.",
+        "Al Jazeera says more than 1,600 Palestinians have been killed since the October 2025 ceasefire. On World Children's Day, Palestinian prisoner groups said about 350 Palestinian children are held in Israeli prisons."
+      ],
+      "pts": [
+        "Seven killed in drone strikes, per medical sources",
+        "Over 1,600 reported killed since the ceasefire",
+        "Prisoner groups say about 350 children are detained"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza",
+      "min": 2,
+      "img": "img/2026-11-21/s31.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "politics",
+      "kind": "Investigation",
+      "h": "Israeli-backed Gaza militias linked to Nuseirat raid",
+      "why": "How the occupation works through proxies",
+      "sum": [
+        "An anonymous Palestinian security source told Al Jazeera that Israel-funded anti-Hamas groups took part in this week's Israeli ground operation near Nuseirat and Bureij camps, terrorising civilians under Israeli fire cover. The operation was the first announced push west of the Yellow Line since the ceasefire. Gaza's Government Media Office says about 6,000 people fled. Israel says it targeted a tunnel.",
+        "Analysts quoted say about five militia factions with several hundred members have spread from Rafah into central Gaza. They compare the arrangement to Israel's former South Lebanon Army proxy. Israel has openly acknowledged backing such groups. The main claims rely on anonymous sources and were not independently verified."
+      ],
+      "pts": [
+        "Militias accused of joining the first post-truce ground push",
+        "About 6,000 displaced, per Gaza's media office",
+        "Analysts warn of a lasting Israeli proxy force"
+      ],
+      "src": "Al Jazeera",
+      "site": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation",
+      "min": 4,
+      "img": "img/2026-11-21/s32.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Walhi: half of this year's fire hotspots on company land",
+      "why": "Corporate land grabs and impunity for burning",
+      "sum": [
+        "Mongabay reports that Prabowo's haze apology at the ASEAN summit means little without action against corporations. Walhi says half of the 30,927 hotspots recorded from January to September were inside palm oil and timber concessions. It names groups such as Sinar Mas and Wilmar, and offshore owners in Singapore, Malaysia and secrecy jurisdictions.",
+        "Walhi also counts 807 hotspots in Merauke's state-backed food and energy estates. It argues the government agencies running those projects share the blame. Walhi and the Kuala Institute say the state goes after small farmers and indigenous burning customs rather than big firms. They call for permits to be reviewed and revoked and financing to be cut off. Some named companies deny links."
+      ],
+      "pts": [
+        "About 50% of hotspots fell in concessions, per Walhi",
+        "807 hotspots in Merauke national strategic projects",
+        "Critics say indigenous communities blamed instead of firms"
+      ],
+      "src": "Mongabay Indonesia",
+      "site": "mongabay.co.id",
+      "url": "https://mongabay.co.id/2026/11/20/menagih-keseriusan-pemerintah-tindak-karhutla-di-konsesi-perusahaan-1/",
+      "min": 7,
+      "img": "img/2026-11-21/s33.jpg",
+      "published": "2026-11-20"
+    },
+    {
+      "t": "politics",
+      "kind": "Indonesia",
+      "h": "Gibran's exit hands Prabowo near-total control",
+      "why": "Democratic backsliding and shrinking civic space",
+      "sum": [
+        "In this analysis, Medan lecturer Puteri Atikah reviews Vice President Gibran Rakabuming Raka's 12 November resignation. It followed a Supreme Court ruling that annulled the school certificate he used to qualify in 2024. The day before, 120 lawmakers from all eight factions had backed a motion that could have led to impeachment.",
+        "She argues that Gibran's exit removes the last check on Prabowo and weakens Jokowi's network, with seven of eight parties already in the ruling coalition. She points to centralised flagship programmes, a growing military role in civilian life, critics labelled foreign lackeys, and arrests of protesters. Together, she says, these mark the end of the Reformasi era."
+      ],
+      "pts": [
+        "Resignation came a day before a possible impeachment step",
+        "Seven of eight DPR parties back Prabowo",
+        "Author warns of tighter control over dissent"
+      ],
+      "src": "The Conversation",
+      "site": "theconversation.com",
+      "url": "https://theconversation.com/gibrans-exit-leaves-prabowo-with-expanding-power-and-indonesia-with-questions-296698",
+      "min": 5,
+      "published": "2026-11-16"
+    },
+    {
+      "t": "politics",
+      "kind": "Free Palestine",
+      "h": "Mondoweiss founder at 20 years: AIPAC is finished",
+      "why": "The antizionist movement's growing reach",
+      "sum": [
+        "Marking Mondoweiss's 20th anniversary, founder Phil Weiss tells the site's US correspondent Michael Arria how talking about the Israel lobby went from taboo to mainstream. He argues that AIPAC, despite decades of success at keeping US and Israeli policy aligned, is now politically toxic and finished as a force. He also says J Street is running out of room because it avoids Gaza.",
+        "Weiss notes Democratic leaders distancing themselves from Netanyahu. He points to Abdul El-Sayed's Senate win and proposals to end US military aid as signs of change. He warns that these shifts are still defensive and that continued US support keeps Palestinians suffering, but says he is optimistic."
+      ],
+      "pts": [
+        "Weiss says AIPAC is now toxic to many Democrats",
+        "Debate over US aid to Israel moving into Congress",
+        "Anniversary of a key antizionist outlet"
+      ],
+      "src": "Mondoweiss",
+      "site": "mondoweiss.net",
+      "url": "https://mondoweiss.net/2026/11/i-think-aipac-is-finished-an-interview-with-mondoweiss-founder-phil-weiss/",
+      "min": 13,
+      "img": "img/2026-11-21/s35.jpg",
+      "published": "2026-11-20"
+    }
+  ]
+}
